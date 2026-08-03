@@ -1,0 +1,235 @@
+# Codemagic CI/CD — Prekta iOS build & TestFlight/App Store upload
+#
+# levin_ai projesindeki ios-workflow'un Prekta'ya uyarlanmış hali. Fark:
+# bu repo GitHub'da PUBLIC olduğu için Firebase/OAuth yapılandırma dosyaları
+# (.gitignore'da) repoda YOK. Bu dosyalar Codemagic'te şifreli ortam
+# değişkenleri (base64) olarak saklanır ve build başında decode edilip
+# doğru path'lere yazılır (bkz. "Restore secret config files" adımı).
+# Codemagic UI'da yapılması gereken tek seferlik kurulum için chat'teki
+# özete bak — bu dosyaya sır yazılmaz.
+#
+# Sıralama:
+#   1) Gizli config dosyalarını (Firebase/OAuth) geri yükle
+#   2) keychain init
+#   3) Distribution sertifikası oluştur (yeni private key ile)
+#   4) Provisioning profile oluştur (cert + bundle ID + Sign in with Apple
+#      capability ile)
+#   5) Sertifikayı keychain'e ekle, Xcode'a profile'ı kullandır
+#   6) Flutter pub get + pod install + IPA build
+#   7) TestFlight'a upload
+
+workflows:
+  ios-workflow:
+    name: Prekta iOS (Release → TestFlight)
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+
+    integrations:
+      app_store_connect: prekta_appstore_key
+
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      # Codemagic env variable grupları — Application Variables'da tanımlananlar
+      # buraya isim olarak yazılırsa, içindeki değişkenler script'lere
+      # ortam değişkeni olarak iletilir.
+      groups:
+        - ios_signing
+        - firebase_config
+      vars:
+        BUNDLE_ID: "com.prekta.app"
+
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: main
+          include: true
+          source: true
+
+    scripts:
+      # Repo public olduğu için .gitignore'lu Firebase/OAuth dosyaları git'te
+      # yok. Codemagic'te base64 olarak saklanan değerlerden bu build'e özel
+      # olarak yeniden oluşturuluyorlar (bkz. firebase_config grubu).
+      - name: Restore secret config files
+        script: |
+          set -e
+
+          write_secret() {
+            local var_name="$1" out_path="$2" val
+            val="${!var_name}"
+            if [ -z "$val" ]; then
+              echo "✗ $var_name tanımlı değil (Codemagic → firebase_config grubu)."
+              exit 1
+            fi
+            mkdir -p "$(dirname "$out_path")"
+            echo "$val" | base64 -d > "$out_path"
+            if [ ! -s "$out_path" ]; then
+              echo "✗ $out_path boş kaldı — $var_name geçerli base64 mü kontrol et."
+              exit 1
+            fi
+            echo "✓ $out_path yazıldı"
+          }
+
+          write_secret FIREBASE_OPTIONS_DART_B64 lib/firebase_options.dart
+          write_secret OAUTH_CLIENTS_DART_B64 lib/core/oauth_clients.dart
+          write_secret GOOGLE_SERVICE_INFO_PLIST_B64 ios/Runner/GoogleService-Info.plist
+          write_secret SECRETS_XCCONFIG_B64 ios/Flutter/Secrets.xcconfig
+
+      - name: Initialize keychain
+        script: |
+          keychain initialize
+
+      # Persistent signing identity (base64 ile):
+      # Codemagic PEM içeriğini log'da otomatik maskelediği için key'i base64
+      # encode edip basıyoruz — base64 string'i secret olarak algılanmaz,
+      # gerçek değer görünür. Kullanıcı bu base64'ü CERT_PRIVATE_KEY_B64
+      # env var'ına kaydeder, sonraki build'ler decode edip kullanır.
+      - name: Setup distribution certificate
+        script: |
+          set -e
+
+          if [ -n "$CERT_PRIVATE_KEY_B64" ]; then
+            echo "→ Using stored private key from environment (base64 decoded)"
+            echo "$CERT_PRIVATE_KEY_B64" | base64 -d > /tmp/cert_key.pem
+
+            # Sanity check: decode başarılı mı, PEM format mı?
+            if ! head -1 /tmp/cert_key.pem | grep -q "BEGIN"; then
+              echo "✗ Stored key base64 decode'dan sonra geçerli PEM değil."
+              echo "  Env var'a saklanan değer base64-encoded private key olmalı."
+              exit 1
+            fi
+
+            EXISTING_ID=$(app-store-connect certificates list \
+              --type IOS_DISTRIBUTION --json 2>/dev/null \
+              | jq -r '.[0].id // empty')
+
+            if [ -n "$EXISTING_ID" ]; then
+              echo "→ Using existing Apple certificate: $EXISTING_ID"
+              echo "$EXISTING_ID" > /tmp/cert_id.txt
+              app-store-connect certificates get "$EXISTING_ID" \
+                --save \
+                --certificate-key=@file:/tmp/cert_key.pem \
+                > /dev/null
+            else
+              echo "→ Stored key var ama Apple'da cert yok; yenisini oluşturuyorum"
+              app-store-connect certificates create \
+                --type IOS_DISTRIBUTION \
+                --certificate-key=@file:/tmp/cert_key.pem \
+                --save --json > /tmp/cert_response.json
+              jq -r '.id' /tmp/cert_response.json > /tmp/cert_id.txt
+            fi
+          else
+            echo "→ İLK KURULUM: Stored key yok, yeni cert + key oluşturuluyor"
+
+            STALE_IDS=$(app-store-connect certificates list \
+              --type IOS_DISTRIBUTION --json 2>/dev/null \
+              | jq -r '.[].id // empty')
+            for cid in $STALE_IDS; do
+              echo "  Revoking stale cert: $cid"
+              app-store-connect certificates delete --ignore-not-found "$cid" || true
+            done
+
+            openssl genrsa -out /tmp/cert_key.pem 2048
+            app-store-connect certificates create \
+              --type IOS_DISTRIBUTION \
+              --certificate-key=@file:/tmp/cert_key.pem \
+              --save --json > /tmp/cert_response.json
+            jq -r '.id' /tmp/cert_response.json > /tmp/cert_id.txt
+
+            KEY_B64=$(base64 < /tmp/cert_key.pem | tr -d '\n')
+
+            echo ""
+            echo "═══════════════════════════════════════════════════════════"
+            echo "  ⚠ İLK BUİLD: AŞAĞIDAKİ BASE64 STRING'İ KAYDET"
+            echo "═══════════════════════════════════════════════════════════"
+            echo "  Codemagic UI: Application → Environment variables"
+            echo "  Variable name:  CERT_PRIVATE_KEY_B64"
+            echo "  Group:          ios_signing"
+            echo "  ✓ Secure (encrypted)"
+            echo ""
+            echo "  Value (tek satır, hepsini kopyala — boşluk yok):"
+            echo "─────────────────────────────────────────────────────────────"
+            echo "$KEY_B64"
+            echo "─────────────────────────────────────────────────────────────"
+            echo "  Sonraki build'ler bunu decode edip kullanır; cert revoke"
+            echo "  edilmez, hep aynı kalır."
+            echo "═══════════════════════════════════════════════════════════"
+          fi
+
+          echo "Cert id: $(cat /tmp/cert_id.txt)"
+
+      # Bundle ID için provisioning profile oluştur (App Store dağıtım türü).
+      # API'nin gerektirdiği iki şey:
+      #   1) Bundle ID'nin Apple'daki "resource ID"'si (string değil, UUID)
+      #   2) Önceki adımdaki cert'in resource ID'si
+      - name: Create provisioning profile
+        script: |
+          set -e
+          BUNDLE_RESOURCE_ID=$(app-store-connect bundle-ids list \
+            --bundle-id-identifier "$BUNDLE_ID" \
+            --json | jq -r '.[0].id')
+          if [ -z "$BUNDLE_RESOURCE_ID" ] || [ "$BUNDLE_RESOURCE_ID" = "null" ]; then
+            echo "Bundle ID resource not found for $BUNDLE_ID"
+            exit 1
+          fi
+          CERT_ID=$(cat /tmp/cert_id.txt)
+          echo "Bundle resource: $BUNDLE_RESOURCE_ID, Cert: $CERT_ID"
+          app-store-connect profiles create \
+            --type IOS_APP_STORE \
+            --certificate-ids "$CERT_ID" \
+            --save \
+            "$BUNDLE_RESOURCE_ID"
+
+      - name: Add certificates to keychain
+        script: |
+          keychain add-certificates
+
+      - name: Set up provisioning profiles
+        script: |
+          xcode-project use-profiles
+
+      # Swift Package Manager Flutter'da deneysel ve flutter_native_splash gibi
+      # bazı plugin'ler henüz tam desteklemiyor ("public headers invalid" hatası).
+      # CocoaPods'a düşürüyoruz; tüm Firebase ve diğer plugin'ler Pods ile çalışır.
+      - name: Disable Swift Package Manager
+        script: |
+          flutter config --no-enable-swift-package-manager
+
+      - name: Flutter packages
+        script: |
+          flutter packages pub get
+
+      - name: Pod install
+        script: |
+          find . -name "Podfile" -execdir pod install \;
+
+      - name: Set build number
+        script: |
+          cd ios && agvtool new-version -all $BUILD_NUMBER
+
+      - name: Flutter build IPA
+        script: |
+          flutter build ipa --release \
+            --export-options-plist=/Users/builder/export_options.plist
+
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+        submit_to_app_store: true
+        # App Store'a otomatik gönderimde Apple'ın istediği iki alan:
+        release_type: MANUAL          # AFTER_APPROVAL | SCHEDULED | MANUAL
+        # cancel_previous_submissions: true  # bekleyen eski submission'ı iptal et
+
+      email:
+        recipients:
+          - $NOTIFY_EMAIL
+        notify:
+          success: true
+          failure: true
