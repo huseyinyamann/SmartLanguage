@@ -1,0 +1,4 @@
+#include "Generated.xcconfig"
+// Yerel gizli degerler (git'e gitmez). "?" opsiyonel include: dosya yoksa
+// derleme hata vermez.
+#include? "Secrets.xcconfig"

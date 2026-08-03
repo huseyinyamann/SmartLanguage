@@ -1,0 +1,41 @@
+rules_version = '2';
+
+// Her kullanici yalnizca kendi verisine erisebilir.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+
+    // Hazir kelime havuzu: giris yapan herkes okur, istemci yazamaz.
+    // Yalnizca tool/upload-pool.js (servis hesabi) gunceller.
+    match /wordPool/{wordId} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+
+    match /users/{uid} {
+      allow read, write: if isOwner(uid);
+
+      // Yalnizca kullanicinin kendi ekledigi kelimeler.
+      match /words/{wordId} {
+        allow read, write: if isOwner(uid);
+      }
+
+      // Kelime basina kisisel ilerleme (hazir havuz kopyalanmaz).
+      match /progress/{wordId} {
+        allow read, write: if isOwner(uid);
+      }
+
+      match /dailyStats/{day} {
+        allow read, write: if isOwner(uid);
+      }
+    }
+
+    // Yukarida eslesmeyen her sey kapali.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

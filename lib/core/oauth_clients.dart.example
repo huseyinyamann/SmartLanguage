@@ -1,0 +1,19 @@
+// ÖRNEK DOSYA — gerçek `lib/core/oauth_clients.dart` git'e gönderilmez.
+// Bu dosyayı `oauth_clients.dart` adıyla kopyalayıp değerleri doldur.
+//
+// Değerler nereden gelir:
+//   serverClientId → android/app/google-services.json içinde
+//                    `oauth_client` listesindeki `client_type: 3` kaydı
+//   iosClientId    → ios/Runner/GoogleService-Info.plist içindeki CLIENT_ID
+
+/// Google Sign-In istemci kimlikleri.
+abstract final class OAuthClients {
+  /// Web (client_type 3) istemcisi. Android'de idToken alabilmek için
+  /// `serverClientId` olarak verilmesi gerekir.
+  static const serverClientId =
+      '000000000000-xxxxxxxxxxxxxxxx.apps.googleusercontent.com';
+
+  /// iOS (client_type 2) istemcisi.
+  static const iosClientId =
+      '000000000000-xxxxxxxxxxxxxxxx.apps.googleusercontent.com';
+}

@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "//": "Havuzdan bir dil cifti icin onem sirasina gore kelime cekmek. Yeni bir ogrenilen dil eklendiginde forms.<dil>.rank icin yeni bir girdi eklenmeli.",
+      "collectionGroup": "wordPool",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "pairs", "arrayConfig": "CONTAINS" },
+        { "fieldPath": "forms.en.rank", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "wordPool",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "pairs", "arrayConfig": "CONTAINS" },
+        { "fieldPath": "forms.tr.rank", "order": "ASCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

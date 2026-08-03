@@ -110,6 +110,54 @@ coverage/
 # Symbols
 app.*.symbols
 
+# =====================================================================
+# BU DEPO GITHUB'DA PUBLIC. Aşağıdakiler asla commit edilmez.
+# Ayrıntılar: PROJECT_NOTES.md (yerel) ve README.md "Kurulum".
+# =====================================================================
+
+# Yerel notlar / tasarım referansı (git'e gitmesin)
+/DESIGN_THEME.md
+/PROJECT_NOTES.md
+
+# Firebase istemci yapılandırmaları (proje kimliği, API anahtarı, OAuth
+# istemcileri). `flutterfire configure` ile yeniden üretilir.
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/macos/Runner/GoogleService-Info.plist
+/lib/firebase_options.dart
+/lib/core/oauth_clients.dart
+/firebase.json
+/.firebaserc
+firebase-debug*.log
+firestore-debug*.log
+ui-debug*.log
+.firebase/
+
+# iOS Google Sign-In URL şeması (REVERSED_CLIENT_ID)
+/ios/Flutter/Secrets.xcconfig
+
+# Servis hesabı anahtarları — bunlar gerçek sırlardır, sızarsa proje ele geçer
+*serviceAccount*.json
+*service-account*.json
+*-firebase-adminsdk-*.json
+*.pem
+*.p8
+*.p12
+*.keystore
+
+# Ortam dosyaları
+.env
+.env.*
+!.env.example
+
+# Betik bagimliliklari
+node_modules/
+
+# IDE / yerel ayarlar
+/.idea/
+.vscode/
+*.iml
+
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
 !**/ios/**/default.mode2v3

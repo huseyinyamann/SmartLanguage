@@ -1,0 +1,10044 @@
+[
+  {
+    "term": "belirli tanımlık (karşılığı yoktur)",
+    "translation": "the",
+    "level": "A1"
+  },
+  {
+    "term": "bir",
+    "translation": "a",
+    "level": "A1"
+  },
+  {
+    "term": "bir",
+    "translation": "an",
+    "level": "A1"
+  },
+  {
+    "term": "ve",
+    "translation": "and",
+    "level": "A1"
+  },
+  {
+    "term": "veya",
+    "translation": "or",
+    "level": "A1"
+  },
+  {
+    "term": "ama",
+    "translation": "but",
+    "level": "A1"
+  },
+  {
+    "term": "eğer",
+    "translation": "if",
+    "level": "A1"
+  },
+  {
+    "term": "çünkü",
+    "translation": "because",
+    "level": "A1"
+  },
+  {
+    "term": "her ne kadar",
+    "translation": "although",
+    "level": "A1"
+  },
+  {
+    "term": "bu yüzden",
+    "translation": "so",
+    "level": "A1"
+  },
+  {
+    "term": "-den (karşılaştırma)",
+    "translation": "than",
+    "level": "A1"
+  },
+  {
+    "term": "o",
+    "translation": "that",
+    "level": "A1"
+  },
+  {
+    "term": "bu",
+    "translation": "this",
+    "level": "A1"
+  },
+  {
+    "term": "bunlar",
+    "translation": "these",
+    "level": "A1"
+  },
+  {
+    "term": "onlar",
+    "translation": "those",
+    "level": "A1"
+  },
+  {
+    "term": "o (cansız)",
+    "translation": "it",
+    "level": "A1"
+  },
+  {
+    "term": "onun",
+    "translation": "its",
+    "level": "A1"
+  },
+  {
+    "term": "ben",
+    "translation": "I",
+    "level": "A1"
+  },
+  {
+    "term": "beni",
+    "translation": "me",
+    "level": "A1"
+  },
+  {
+    "term": "benim",
+    "translation": "my",
+    "level": "A1"
+  },
+  {
+    "term": "benimki",
+    "translation": "mine",
+    "level": "A1"
+  },
+  {
+    "term": "sen",
+    "translation": "you",
+    "level": "A1"
+  },
+  {
+    "term": "senin",
+    "translation": "your",
+    "level": "A1"
+  },
+  {
+    "term": "seninki",
+    "translation": "yours",
+    "level": "A1"
+  },
+  {
+    "term": "o (erkek)",
+    "translation": "he",
+    "level": "A1"
+  },
+  {
+    "term": "onu (erkek)",
+    "translation": "him",
+    "level": "A1"
+  },
+  {
+    "term": "onun (erkek)",
+    "translation": "his",
+    "level": "A1"
+  },
+  {
+    "term": "o (kadın)",
+    "translation": "she",
+    "level": "A1"
+  },
+  {
+    "term": "onu (kadın)",
+    "translation": "her",
+    "level": "A1"
+  },
+  {
+    "term": "onunki (kadın)",
+    "translation": "hers",
+    "level": "A1"
+  },
+  {
+    "term": "biz",
+    "translation": "we",
+    "level": "A1"
+  },
+  {
+    "term": "bizi",
+    "translation": "us",
+    "level": "A1"
+  },
+  {
+    "term": "bizim",
+    "translation": "our",
+    "level": "A1"
+  },
+  {
+    "term": "bizimki",
+    "translation": "ours",
+    "level": "A1"
+  },
+  {
+    "term": "onlar",
+    "translation": "they",
+    "level": "A1"
+  },
+  {
+    "term": "onları",
+    "translation": "them",
+    "level": "A1"
+  },
+  {
+    "term": "onların",
+    "translation": "their",
+    "level": "A1"
+  },
+  {
+    "term": "onlarınki",
+    "translation": "theirs",
+    "level": "A1"
+  },
+  {
+    "term": "kim",
+    "translation": "who",
+    "level": "A1"
+  },
+  {
+    "term": "kime",
+    "translation": "whom",
+    "level": "A1"
+  },
+  {
+    "term": "kimin",
+    "translation": "whose",
+    "level": "A1"
+  },
+  {
+    "term": "ne",
+    "translation": "what",
+    "level": "A1"
+  },
+  {
+    "term": "hangi",
+    "translation": "which",
+    "level": "A1"
+  },
+  {
+    "term": "ne zaman",
+    "translation": "when",
+    "level": "A1"
+  },
+  {
+    "term": "nerede",
+    "translation": "where",
+    "level": "A1"
+  },
+  {
+    "term": "neden",
+    "translation": "why",
+    "level": "A1"
+  },
+  {
+    "term": "nasıl",
+    "translation": "how",
+    "level": "A1"
+  },
+  {
+    "term": "hepsi",
+    "translation": "all",
+    "level": "A1"
+  },
+  {
+    "term": "herhangi",
+    "translation": "any",
+    "level": "A1"
+  },
+  {
+    "term": "biraz",
+    "translation": "some",
+    "level": "A1"
+  },
+  {
+    "term": "hayır",
+    "translation": "no",
+    "level": "A1"
+  },
+  {
+    "term": "hiçbiri",
+    "translation": "none",
+    "level": "A1"
+  },
+  {
+    "term": "her biri",
+    "translation": "each",
+    "level": "A1"
+  },
+  {
+    "term": "her",
+    "translation": "every",
+    "level": "A1"
+  },
+  {
+    "term": "ikisinden biri",
+    "translation": "either",
+    "level": "A1"
+  },
+  {
+    "term": "ikisi de değil",
+    "translation": "neither",
+    "level": "A1"
+  },
+  {
+    "term": "her ikisi",
+    "translation": "both",
+    "level": "A1"
+  },
+  {
+    "term": "az",
+    "translation": "few",
+    "level": "A1"
+  },
+  {
+    "term": "çok (sayılabilir)",
+    "translation": "many",
+    "level": "A1"
+  },
+  {
+    "term": "çok (sayılamaz)",
+    "translation": "much",
+    "level": "A1"
+  },
+  {
+    "term": "daha fazla",
+    "translation": "more",
+    "level": "A1"
+  },
+  {
+    "term": "en fazla",
+    "translation": "most",
+    "level": "A1"
+  },
+  {
+    "term": "daha az",
+    "translation": "less",
+    "level": "A1"
+  },
+  {
+    "term": "en az",
+    "translation": "least",
+    "level": "A1"
+  },
+  {
+    "term": "diğer",
+    "translation": "other",
+    "level": "A1"
+  },
+  {
+    "term": "başka bir",
+    "translation": "another",
+    "level": "A1"
+  },
+  {
+    "term": "böyle",
+    "translation": "such",
+    "level": "A1"
+  },
+  {
+    "term": "aynı",
+    "translation": "same",
+    "level": "A1"
+  },
+  {
+    "term": "farklı",
+    "translation": "different",
+    "level": "A1"
+  },
+  {
+    "term": "içinde",
+    "translation": "in",
+    "level": "A1"
+  },
+  {
+    "term": "üzerinde",
+    "translation": "on",
+    "level": "A1"
+  },
+  {
+    "term": "-de",
+    "translation": "at",
+    "level": "A1"
+  },
+  {
+    "term": "-e",
+    "translation": "to",
+    "level": "A1"
+  },
+  {
+    "term": "-den",
+    "translation": "from",
+    "level": "A1"
+  },
+  {
+    "term": "-in (aitlik)",
+    "translation": "of",
+    "level": "A1"
+  },
+  {
+    "term": "için",
+    "translation": "for",
+    "level": "A1"
+  },
+  {
+    "term": "ile",
+    "translation": "with",
+    "level": "A1"
+  },
+  {
+    "term": "-siz",
+    "translation": "without",
+    "level": "A1"
+  },
+  {
+    "term": "tarafından",
+    "translation": "by",
+    "level": "A1"
+  },
+  {
+    "term": "hakkında",
+    "translation": "about",
+    "level": "A1"
+  },
+  {
+    "term": "karşı",
+    "translation": "against",
+    "level": "A1"
+  },
+  {
+    "term": "arasında",
+    "translation": "between",
+    "level": "A1"
+  },
+  {
+    "term": "arasında (üç veya daha fazla)",
+    "translation": "among",
+    "level": "A1"
+  },
+  {
+    "term": "içinden",
+    "translation": "through",
+    "level": "A1"
+  },
+  {
+    "term": "esnasında",
+    "translation": "during",
+    "level": "A1"
+  },
+  {
+    "term": "önce",
+    "translation": "before",
+    "level": "A1"
+  },
+  {
+    "term": "sonra",
+    "translation": "after",
+    "level": "A1"
+  },
+  {
+    "term": "üstünde",
+    "translation": "above",
+    "level": "A1"
+  },
+  {
+    "term": "altında",
+    "translation": "below",
+    "level": "A1"
+  },
+  {
+    "term": "altında",
+    "translation": "under",
+    "level": "A1"
+  },
+  {
+    "term": "üzerinde",
+    "translation": "over",
+    "level": "A1"
+  },
+  {
+    "term": "içine",
+    "translation": "into",
+    "level": "A1"
+  },
+  {
+    "term": "dışarı",
+    "translation": "out",
+    "level": "A1"
+  },
+  {
+    "term": "kapalı",
+    "translation": "off",
+    "level": "A1"
+  },
+  {
+    "term": "yukarı",
+    "translation": "up",
+    "level": "A1"
+  },
+  {
+    "term": "aşağı",
+    "translation": "down",
+    "level": "A1"
+  },
+  {
+    "term": "karşıdan karşıya",
+    "translation": "across",
+    "level": "A1"
+  },
+  {
+    "term": "etrafında",
+    "translation": "around",
+    "level": "A1"
+  },
+  {
+    "term": "yakın",
+    "translation": "near",
+    "level": "A1"
+  },
+  {
+    "term": "uzak",
+    "translation": "far",
+    "level": "A1"
+  },
+  {
+    "term": "içeride",
+    "translation": "inside",
+    "level": "A1"
+  },
+  {
+    "term": "dışarıda",
+    "translation": "outside",
+    "level": "A1"
+  },
+  {
+    "term": "arkasında",
+    "translation": "behind",
+    "level": "A1"
+  },
+  {
+    "term": "önünde",
+    "translation": "in front of",
+    "level": "A1"
+  },
+  {
+    "term": "yanında",
+    "translation": "next to",
+    "level": "A1"
+  },
+  {
+    "term": "boyunca",
+    "translation": "along",
+    "level": "A1"
+  },
+  {
+    "term": "-e doğru",
+    "translation": "toward",
+    "level": "A1"
+  },
+  {
+    "term": "-e kadar",
+    "translation": "until",
+    "level": "A1"
+  },
+  {
+    "term": "-den beri",
+    "translation": "since",
+    "level": "A1"
+  },
+  {
+    "term": "iken",
+    "translation": "while",
+    "level": "A1"
+  },
+  {
+    "term": "bir",
+    "translation": "one",
+    "level": "A1"
+  },
+  {
+    "term": "iki",
+    "translation": "two",
+    "level": "A1"
+  },
+  {
+    "term": "üç",
+    "translation": "three",
+    "level": "A1"
+  },
+  {
+    "term": "dört",
+    "translation": "four",
+    "level": "A1"
+  },
+  {
+    "term": "beş",
+    "translation": "five",
+    "level": "A1"
+  },
+  {
+    "term": "altı",
+    "translation": "six",
+    "level": "A1"
+  },
+  {
+    "term": "yedi",
+    "translation": "seven",
+    "level": "A1"
+  },
+  {
+    "term": "sekiz",
+    "translation": "eight",
+    "level": "A1"
+  },
+  {
+    "term": "dokuz",
+    "translation": "nine",
+    "level": "A1"
+  },
+  {
+    "term": "on",
+    "translation": "ten",
+    "level": "A1"
+  },
+  {
+    "term": "on bir",
+    "translation": "eleven",
+    "level": "A1"
+  },
+  {
+    "term": "on iki",
+    "translation": "twelve",
+    "level": "A1"
+  },
+  {
+    "term": "on üç",
+    "translation": "thirteen",
+    "level": "A1"
+  },
+  {
+    "term": "on dört",
+    "translation": "fourteen",
+    "level": "A1"
+  },
+  {
+    "term": "on beş",
+    "translation": "fifteen",
+    "level": "A1"
+  },
+  {
+    "term": "on altı",
+    "translation": "sixteen",
+    "level": "A1"
+  },
+  {
+    "term": "on yedi",
+    "translation": "seventeen",
+    "level": "A1"
+  },
+  {
+    "term": "on sekiz",
+    "translation": "eighteen",
+    "level": "A1"
+  },
+  {
+    "term": "on dokuz",
+    "translation": "nineteen",
+    "level": "A1"
+  },
+  {
+    "term": "yirmi",
+    "translation": "twenty",
+    "level": "A1"
+  },
+  {
+    "term": "otuz",
+    "translation": "thirty",
+    "level": "A1"
+  },
+  {
+    "term": "kırk",
+    "translation": "forty",
+    "level": "A1"
+  },
+  {
+    "term": "elli",
+    "translation": "fifty",
+    "level": "A1"
+  },
+  {
+    "term": "altmış",
+    "translation": "sixty",
+    "level": "A1"
+  },
+  {
+    "term": "yetmiş",
+    "translation": "seventy",
+    "level": "A1"
+  },
+  {
+    "term": "seksen",
+    "translation": "eighty",
+    "level": "A1"
+  },
+  {
+    "term": "doksan",
+    "translation": "ninety",
+    "level": "A1"
+  },
+  {
+    "term": "yüz",
+    "translation": "hundred",
+    "level": "A1"
+  },
+  {
+    "term": "bin",
+    "translation": "thousand",
+    "level": "A1"
+  },
+  {
+    "term": "milyon",
+    "translation": "million",
+    "level": "A1"
+  },
+  {
+    "term": "milyar",
+    "translation": "billion",
+    "level": "A1"
+  },
+  {
+    "term": "birinci",
+    "translation": "first",
+    "level": "A1"
+  },
+  {
+    "term": "ikinci",
+    "translation": "second",
+    "level": "A1"
+  },
+  {
+    "term": "üçüncü",
+    "translation": "third",
+    "level": "A1"
+  },
+  {
+    "term": "sonuncu",
+    "translation": "last",
+    "level": "A1"
+  },
+  {
+    "term": "sonraki",
+    "translation": "next",
+    "level": "A1"
+  },
+  {
+    "term": "sıfır",
+    "translation": "zero",
+    "level": "A1"
+  },
+  {
+    "term": "yarım",
+    "translation": "half",
+    "level": "A1"
+  },
+  {
+    "term": "çeyrek",
+    "translation": "quarter",
+    "level": "A1"
+  },
+  {
+    "term": "düzine",
+    "translation": "dozen",
+    "level": "A1"
+  },
+  {
+    "term": "çift",
+    "translation": "pair",
+    "level": "A1"
+  },
+  {
+    "term": "çift",
+    "translation": "couple (isim) 1",
+    "level": "A1"
+  },
+  {
+    "term": "çift",
+    "translation": "couple (isim) 2",
+    "level": "A1"
+  },
+  {
+    "term": "birkaç",
+    "translation": "several",
+    "level": "A1"
+  },
+  {
+    "term": "bir kez",
+    "translation": "once",
+    "level": "A1"
+  },
+  {
+    "term": "iki kez",
+    "translation": "twice",
+    "level": "A1"
+  },
+  {
+    "term": "zaman",
+    "translation": "time",
+    "level": "A1"
+  },
+  {
+    "term": "kez",
+    "translation": "times",
+    "level": "A1"
+  },
+  {
+    "term": "yıl",
+    "translation": "year",
+    "level": "A1"
+  },
+  {
+    "term": "ay",
+    "translation": "month",
+    "level": "A1"
+  },
+  {
+    "term": "hafta",
+    "translation": "week",
+    "level": "A1"
+  },
+  {
+    "term": "gün",
+    "translation": "day",
+    "level": "A1"
+  },
+  {
+    "term": "saat",
+    "translation": "hour",
+    "level": "A1"
+  },
+  {
+    "term": "dakika",
+    "translation": "minute",
+    "level": "A1"
+  },
+  {
+    "term": "saniye",
+    "translation": "second (unit)",
+    "level": "A1"
+  },
+  {
+    "term": "bugün",
+    "translation": "today",
+    "level": "A1"
+  },
+  {
+    "term": "yarın",
+    "translation": "tomorrow",
+    "level": "A1"
+  },
+  {
+    "term": "dün",
+    "translation": "yesterday",
+    "level": "A1"
+  },
+  {
+    "term": "şimdi",
+    "translation": "now",
+    "level": "A1"
+  },
+  {
+    "term": "sonra",
+    "translation": "then",
+    "level": "A1"
+  },
+  {
+    "term": "yakında",
+    "translation": "soon",
+    "level": "A1"
+  },
+  {
+    "term": "daha sonra",
+    "translation": "later",
+    "level": "A1"
+  },
+  {
+    "term": "zaten",
+    "translation": "already",
+    "level": "A1"
+  },
+  {
+    "term": "hâlâ",
+    "translation": "still",
+    "level": "A1"
+  },
+  {
+    "term": "henüz",
+    "translation": "yet",
+    "level": "A1"
+  },
+  {
+    "term": "hiç",
+    "translation": "ever",
+    "level": "A1"
+  },
+  {
+    "term": "asla",
+    "translation": "never",
+    "level": "A1"
+  },
+  {
+    "term": "her zaman",
+    "translation": "always",
+    "level": "A1"
+  },
+  {
+    "term": "sık sık",
+    "translation": "often",
+    "level": "A1"
+  },
+  {
+    "term": "bazen",
+    "translation": "sometimes",
+    "level": "A1"
+  },
+  {
+    "term": "nadiren",
+    "translation": "rarely",
+    "level": "A1"
+  },
+  {
+    "term": "nadiren",
+    "translation": "seldom",
+    "level": "A1"
+  },
+  {
+    "term": "genellikle",
+    "translation": "usually",
+    "level": "A1"
+  },
+  {
+    "term": "sabah",
+    "translation": "morning",
+    "level": "A1"
+  },
+  {
+    "term": "öğleden sonra",
+    "translation": "afternoon",
+    "level": "A1"
+  },
+  {
+    "term": "akşam",
+    "translation": "evening",
+    "level": "A1"
+  },
+  {
+    "term": "gece",
+    "translation": "night",
+    "level": "A1"
+  },
+  {
+    "term": "öğle",
+    "translation": "noon",
+    "level": "A1"
+  },
+  {
+    "term": "gece yarısı",
+    "translation": "midnight",
+    "level": "A1"
+  },
+  {
+    "term": "hafta sonu",
+    "translation": "weekend",
+    "level": "A1"
+  },
+  {
+    "term": "hafta içi",
+    "translation": "weekday",
+    "level": "A1"
+  },
+  {
+    "term": "Pazartesi",
+    "translation": "Monday",
+    "level": "A1"
+  },
+  {
+    "term": "Salı",
+    "translation": "Tuesday",
+    "level": "A1"
+  },
+  {
+    "term": "Çarşamba",
+    "translation": "Wednesday",
+    "level": "A1"
+  },
+  {
+    "term": "Perşembe",
+    "translation": "Thursday",
+    "level": "A1"
+  },
+  {
+    "term": "Cuma",
+    "translation": "Friday",
+    "level": "A1"
+  },
+  {
+    "term": "Cumartesi",
+    "translation": "Saturday",
+    "level": "A1"
+  },
+  {
+    "term": "Pazar",
+    "translation": "Sunday",
+    "level": "A1"
+  },
+  {
+    "term": "Ocak",
+    "translation": "January",
+    "level": "A1"
+  },
+  {
+    "term": "Şubat",
+    "translation": "February",
+    "level": "A1"
+  },
+  {
+    "term": "Mart",
+    "translation": "March",
+    "level": "A1"
+  },
+  {
+    "term": "Nisan",
+    "translation": "April",
+    "level": "A1"
+  },
+  {
+    "term": "Mayıs",
+    "translation": "May",
+    "level": "A1"
+  },
+  {
+    "term": "Haziran",
+    "translation": "June",
+    "level": "A1"
+  },
+  {
+    "term": "Temmuz",
+    "translation": "July",
+    "level": "A1"
+  },
+  {
+    "term": "Ağustos",
+    "translation": "August",
+    "level": "A1"
+  },
+  {
+    "term": "Eylül",
+    "translation": "September",
+    "level": "A1"
+  },
+  {
+    "term": "Ekim",
+    "translation": "October",
+    "level": "A1"
+  },
+  {
+    "term": "Kasım",
+    "translation": "November",
+    "level": "A1"
+  },
+  {
+    "term": "Aralık",
+    "translation": "December",
+    "level": "A1"
+  },
+  {
+    "term": "ilkbahar",
+    "translation": "spring",
+    "level": "A1"
+  },
+  {
+    "term": "yaz",
+    "translation": "summer",
+    "level": "A1"
+  },
+  {
+    "term": "sonbahar",
+    "translation": "autumn",
+    "level": "A1"
+  },
+  {
+    "term": "kış",
+    "translation": "winter",
+    "level": "A1"
+  },
+  {
+    "term": "mevsim",
+    "translation": "season",
+    "level": "A1"
+  },
+  {
+    "term": "yüzyıl",
+    "translation": "century",
+    "level": "A1"
+  },
+  {
+    "term": "on yıl",
+    "translation": "decade",
+    "level": "A1"
+  },
+  {
+    "term": "olmak",
+    "translation": "be",
+    "level": "A1"
+  },
+  {
+    "term": "sahip olmak",
+    "translation": "have",
+    "level": "A1"
+  },
+  {
+    "term": "yapmak",
+    "translation": "do",
+    "level": "A1"
+  },
+  {
+    "term": "söylemek",
+    "translation": "say",
+    "level": "A1"
+  },
+  {
+    "term": "gitmek",
+    "translation": "go",
+    "level": "A1"
+  },
+  {
+    "term": "almak",
+    "translation": "get",
+    "level": "A1"
+  },
+  {
+    "term": "yapmak",
+    "translation": "make",
+    "level": "A1"
+  },
+  {
+    "term": "bilmek",
+    "translation": "know",
+    "level": "A1"
+  },
+  {
+    "term": "düşünmek",
+    "translation": "think",
+    "level": "A1"
+  },
+  {
+    "term": "almak",
+    "translation": "take",
+    "level": "A1"
+  },
+  {
+    "term": "görmek",
+    "translation": "see",
+    "level": "A1"
+  },
+  {
+    "term": "gelmek",
+    "translation": "come",
+    "level": "A1"
+  },
+  {
+    "term": "istemek",
+    "translation": "want",
+    "level": "A1"
+  },
+  {
+    "term": "bakmak",
+    "translation": "look",
+    "level": "A1"
+  },
+  {
+    "term": "kullanmak",
+    "translation": "use",
+    "level": "A1"
+  },
+  {
+    "term": "bulmak",
+    "translation": "find",
+    "level": "A1"
+  },
+  {
+    "term": "vermek",
+    "translation": "give",
+    "level": "A1"
+  },
+  {
+    "term": "anlatmak",
+    "translation": "tell",
+    "level": "A1"
+  },
+  {
+    "term": "çalışmak",
+    "translation": "work",
+    "level": "A1"
+  },
+  {
+    "term": "aramak",
+    "translation": "call",
+    "level": "A1"
+  },
+  {
+    "term": "denemek",
+    "translation": "try",
+    "level": "A1"
+  },
+  {
+    "term": "sormak",
+    "translation": "ask",
+    "level": "A1"
+  },
+  {
+    "term": "ihtiyaç duymak",
+    "translation": "need",
+    "level": "A1"
+  },
+  {
+    "term": "hissetmek",
+    "translation": "feel",
+    "level": "A1"
+  },
+  {
+    "term": "olmak",
+    "translation": "become",
+    "level": "A1"
+  },
+  {
+    "term": "ayrılmak",
+    "translation": "leave",
+    "level": "A1"
+  },
+  {
+    "term": "koymak",
+    "translation": "put",
+    "level": "A1"
+  },
+  {
+    "term": "anlamına gelmek",
+    "translation": "mean",
+    "level": "A1"
+  },
+  {
+    "term": "tutmak",
+    "translation": "keep",
+    "level": "A1"
+  },
+  {
+    "term": "izin vermek",
+    "translation": "let",
+    "level": "A1"
+  },
+  {
+    "term": "başlamak",
+    "translation": "begin",
+    "level": "A1"
+  },
+  {
+    "term": "başlamak",
+    "translation": "start",
+    "level": "A1"
+  },
+  {
+    "term": "görünmek",
+    "translation": "seem",
+    "level": "A1"
+  },
+  {
+    "term": "yardım etmek",
+    "translation": "help",
+    "level": "A1"
+  },
+  {
+    "term": "konuşmak",
+    "translation": "talk",
+    "level": "A1"
+  },
+  {
+    "term": "dönmek",
+    "translation": "turn",
+    "level": "A1"
+  },
+  {
+    "term": "göstermek",
+    "translation": "show",
+    "level": "A1"
+  },
+  {
+    "term": "duymak",
+    "translation": "hear",
+    "level": "A1"
+  },
+  {
+    "term": "oynamak",
+    "translation": "play",
+    "level": "A1"
+  },
+  {
+    "term": "koşmak",
+    "translation": "run",
+    "level": "A1"
+  },
+  {
+    "term": "hareket etmek",
+    "translation": "move",
+    "level": "A1"
+  },
+  {
+    "term": "sevmek",
+    "translation": "like",
+    "level": "A1"
+  },
+  {
+    "term": "yaşamak",
+    "translation": "live",
+    "level": "A1"
+  },
+  {
+    "term": "inanmak",
+    "translation": "believe",
+    "level": "A1"
+  },
+  {
+    "term": "getirmek",
+    "translation": "bring",
+    "level": "A1"
+  },
+  {
+    "term": "olmak",
+    "translation": "happen",
+    "level": "A1"
+  },
+  {
+    "term": "yazmak",
+    "translation": "write",
+    "level": "A1"
+  },
+  {
+    "term": "sağlamak",
+    "translation": "provide",
+    "level": "A1"
+  },
+  {
+    "term": "oturmak",
+    "translation": "sit",
+    "level": "A1"
+  },
+  {
+    "term": "ayakta durmak",
+    "translation": "stand",
+    "level": "A1"
+  },
+  {
+    "term": "kaybetmek",
+    "translation": "lose",
+    "level": "A1"
+  },
+  {
+    "term": "ödemek",
+    "translation": "pay",
+    "level": "A1"
+  },
+  {
+    "term": "tanışmak",
+    "translation": "meet",
+    "level": "A1"
+  },
+  {
+    "term": "içermek",
+    "translation": "include",
+    "level": "A1"
+  },
+  {
+    "term": "devam etmek",
+    "translation": "continue",
+    "level": "A1"
+  },
+  {
+    "term": "kurmak",
+    "translation": "set",
+    "level": "A1"
+  },
+  {
+    "term": "öğrenmek",
+    "translation": "learn",
+    "level": "A1"
+  },
+  {
+    "term": "değiştirmek",
+    "translation": "change",
+    "level": "A1"
+  },
+  {
+    "term": "yönetmek",
+    "translation": "lead (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "önderlik etmek",
+    "translation": "lead (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "anlamak",
+    "translation": "understand",
+    "level": "A1"
+  },
+  {
+    "term": "izlemek",
+    "translation": "watch",
+    "level": "A1"
+  },
+  {
+    "term": "takip etmek",
+    "translation": "follow",
+    "level": "A1"
+  },
+  {
+    "term": "durmak",
+    "translation": "stop",
+    "level": "A1"
+  },
+  {
+    "term": "yaratmak",
+    "translation": "create",
+    "level": "A1"
+  },
+  {
+    "term": "konuşmak",
+    "translation": "speak",
+    "level": "A1"
+  },
+  {
+    "term": "okumak",
+    "translation": "read",
+    "level": "A1"
+  },
+  {
+    "term": "izin vermek",
+    "translation": "allow",
+    "level": "A1"
+  },
+  {
+    "term": "eklemek",
+    "translation": "add",
+    "level": "A1"
+  },
+  {
+    "term": "harcamak",
+    "translation": "spend",
+    "level": "A1"
+  },
+  {
+    "term": "büyümek",
+    "translation": "grow",
+    "level": "A1"
+  },
+  {
+    "term": "açmak",
+    "translation": "open",
+    "level": "A1"
+  },
+  {
+    "term": "yürümek",
+    "translation": "walk",
+    "level": "A1"
+  },
+  {
+    "term": "kazanmak",
+    "translation": "win",
+    "level": "A1"
+  },
+  {
+    "term": "teklif etmek",
+    "translation": "offer",
+    "level": "A1"
+  },
+  {
+    "term": "hatırlamak",
+    "translation": "remember",
+    "level": "A1"
+  },
+  {
+    "term": "sevmek",
+    "translation": "love",
+    "level": "A1"
+  },
+  {
+    "term": "düşünmek",
+    "translation": "consider",
+    "level": "A1"
+  },
+  {
+    "term": "görünmek",
+    "translation": "appear",
+    "level": "A1"
+  },
+  {
+    "term": "satın almak",
+    "translation": "buy",
+    "level": "A1"
+  },
+  {
+    "term": "beklemek",
+    "translation": "wait",
+    "level": "A1"
+  },
+  {
+    "term": "hizmet etmek",
+    "translation": "serve",
+    "level": "A1"
+  },
+  {
+    "term": "ölmek",
+    "translation": "die",
+    "level": "A1"
+  },
+  {
+    "term": "göndermek",
+    "translation": "send",
+    "level": "A1"
+  },
+  {
+    "term": "beklemek (ummak)",
+    "translation": "expect",
+    "level": "A1"
+  },
+  {
+    "term": "inşa etmek",
+    "translation": "build",
+    "level": "A1"
+  },
+  {
+    "term": "kalmak",
+    "translation": "stay",
+    "level": "A1"
+  },
+  {
+    "term": "düşmek",
+    "translation": "fall",
+    "level": "A1"
+  },
+  {
+    "term": "kesmek",
+    "translation": "cut",
+    "level": "A1"
+  },
+  {
+    "term": "ulaşmak",
+    "translation": "reach",
+    "level": "A1"
+  },
+  {
+    "term": "öldürmek",
+    "translation": "kill",
+    "level": "A1"
+  },
+  {
+    "term": "kalmak",
+    "translation": "remain",
+    "level": "A1"
+  },
+  {
+    "term": "önermek",
+    "translation": "suggest",
+    "level": "A1"
+  },
+  {
+    "term": "kaldırmak",
+    "translation": "raise",
+    "level": "A1"
+  },
+  {
+    "term": "geçmek",
+    "translation": "pass",
+    "level": "A1"
+  },
+  {
+    "term": "satmak",
+    "translation": "sell",
+    "level": "A1"
+  },
+  {
+    "term": "gerektirmek",
+    "translation": "require",
+    "level": "A1"
+  },
+  {
+    "term": "rapor etmek",
+    "translation": "report",
+    "level": "A1"
+  },
+  {
+    "term": "karar vermek",
+    "translation": "decide",
+    "level": "A1"
+  },
+  {
+    "term": "çekmek",
+    "translation": "pull",
+    "level": "A1"
+  },
+  {
+    "term": "dönmek",
+    "translation": "return",
+    "level": "A1"
+  },
+  {
+    "term": "açıklamak",
+    "translation": "explain",
+    "level": "A1"
+  },
+  {
+    "term": "ummak",
+    "translation": "hope",
+    "level": "A1"
+  },
+  {
+    "term": "geliştirmek",
+    "translation": "develop",
+    "level": "A1"
+  },
+  {
+    "term": "taşımak",
+    "translation": "carry",
+    "level": "A1"
+  },
+  {
+    "term": "kırmak",
+    "translation": "break (fiil) 1",
+    "level": "A1"
+  },
+  {
+    "term": "kırmak",
+    "translation": "break (fiil) 2",
+    "level": "A1"
+  },
+  {
+    "term": "almak (teslim almak)",
+    "translation": "receive",
+    "level": "A1"
+  },
+  {
+    "term": "kabul etmek",
+    "translation": "agree",
+    "level": "A1"
+  },
+  {
+    "term": "desteklemek",
+    "translation": "support",
+    "level": "A1"
+  },
+  {
+    "term": "vurmak",
+    "translation": "hit",
+    "level": "A1"
+  },
+  {
+    "term": "üretmek",
+    "translation": "produce",
+    "level": "A1"
+  },
+  {
+    "term": "yemek",
+    "translation": "eat",
+    "level": "A1"
+  },
+  {
+    "term": "örtmek",
+    "translation": "cover",
+    "level": "A1"
+  },
+  {
+    "term": "yakalamak",
+    "translation": "catch",
+    "level": "A1"
+  },
+  {
+    "term": "çizmek",
+    "translation": "draw (fiil) 1",
+    "level": "A1"
+  },
+  {
+    "term": "çekmek",
+    "translation": "draw (fiil) 2",
+    "level": "A1"
+  },
+  {
+    "term": "seçmek",
+    "translation": "choose",
+    "level": "A1"
+  },
+  {
+    "term": "sebep olmak",
+    "translation": "cause",
+    "level": "A1"
+  },
+  {
+    "term": "işaret etmek",
+    "translation": "point",
+    "level": "A1"
+  },
+  {
+    "term": "dinlemek",
+    "translation": "listen",
+    "level": "A1"
+  },
+  {
+    "term": "fark etmek",
+    "translation": "realize",
+    "level": "A1"
+  },
+  {
+    "term": "keyif almak",
+    "translation": "enjoy",
+    "level": "A1"
+  },
+  {
+    "term": "planlamak",
+    "translation": "plan",
+    "level": "A1"
+  },
+  {
+    "term": "itmek",
+    "translation": "push",
+    "level": "A1"
+  },
+  {
+    "term": "kontrol etmek",
+    "translation": "check",
+    "level": "A1"
+  },
+  {
+    "term": "öğretmek",
+    "translation": "teach",
+    "level": "A1"
+  },
+  {
+    "term": "tanımlamak",
+    "translation": "identify",
+    "level": "A1"
+  },
+  {
+    "term": "kaçınmak",
+    "translation": "avoid",
+    "level": "A1"
+  },
+  {
+    "term": "hareket etmek",
+    "translation": "act",
+    "level": "A1"
+  },
+  {
+    "term": "kurtarmak",
+    "translation": "save",
+    "level": "A1"
+  },
+  {
+    "term": "varmak",
+    "translation": "arrive",
+    "level": "A1"
+  },
+  {
+    "term": "uygulamak",
+    "translation": "apply",
+    "level": "A1"
+  },
+  {
+    "term": "geliştirmek",
+    "translation": "improve",
+    "level": "A1"
+  },
+  {
+    "term": "hayal etmek",
+    "translation": "imagine",
+    "level": "A1"
+  },
+  {
+    "term": "hazırlamak",
+    "translation": "prepare",
+    "level": "A1"
+  },
+  {
+    "term": "kapatmak",
+    "translation": "close",
+    "level": "A1"
+  },
+  {
+    "term": "fark etmek",
+    "translation": "notice",
+    "level": "A1"
+  },
+  {
+    "term": "bitirmek",
+    "translation": "finish",
+    "level": "A1"
+  },
+  {
+    "term": "katılmak",
+    "translation": "join",
+    "level": "A1"
+  },
+  {
+    "term": "artırmak",
+    "translation": "increase",
+    "level": "A1"
+  },
+  {
+    "term": "korumak",
+    "translation": "protect",
+    "level": "A1"
+  },
+  {
+    "term": "tartışmak",
+    "translation": "argue",
+    "level": "A1"
+  },
+  {
+    "term": "karşılaştırmak",
+    "translation": "compare",
+    "level": "A1"
+  },
+  {
+    "term": "paylaşmak",
+    "translation": "share",
+    "level": "A1"
+  },
+  {
+    "term": "sonuçlanmak",
+    "translation": "result (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "sonuç",
+    "translation": "result (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "meydana gelmek",
+    "translation": "occur",
+    "level": "A1"
+  },
+  {
+    "term": "kontrol etmek",
+    "translation": "control",
+    "level": "A1"
+  },
+  {
+    "term": "sahip olmak",
+    "translation": "own (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "sahiplenmek",
+    "translation": "own (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "cevaplamak",
+    "translation": "answer",
+    "level": "A1"
+  },
+  {
+    "term": "zorlamak",
+    "translation": "force",
+    "level": "A1"
+  },
+  {
+    "term": "ses çıkarmak",
+    "translation": "sound",
+    "level": "A1"
+  },
+  {
+    "term": "gülmek",
+    "translation": "laugh",
+    "level": "A1"
+  },
+  {
+    "term": "tırmanmak",
+    "translation": "climb",
+    "level": "A1"
+  },
+  {
+    "term": "doldurmak",
+    "translation": "fill",
+    "level": "A1"
+  },
+  {
+    "term": "düşürmek",
+    "translation": "drop (fiil) 1",
+    "level": "A1"
+  },
+  {
+    "term": "bırakmak",
+    "translation": "drop (fiil) 2",
+    "level": "A1"
+  },
+  {
+    "term": "girmek",
+    "translation": "enter",
+    "level": "A1"
+  },
+  {
+    "term": "uçmak",
+    "translation": "fly",
+    "level": "A1"
+  },
+  {
+    "term": "oluşturmak",
+    "translation": "form",
+    "level": "A1"
+  },
+  {
+    "term": "yönetmek",
+    "translation": "manage",
+    "level": "A1"
+  },
+  {
+    "term": "bahsetmek",
+    "translation": "mention",
+    "level": "A1"
+  },
+  {
+    "term": "azaltmak",
+    "translation": "reduce",
+    "level": "A1"
+  },
+  {
+    "term": "yükselmek",
+    "translation": "rise",
+    "level": "A1"
+  },
+  {
+    "term": "gülümsemek",
+    "translation": "smile",
+    "level": "A1"
+  },
+  {
+    "term": "fırlatmak",
+    "translation": "throw",
+    "level": "A1"
+  },
+  {
+    "term": "seyahat etmek",
+    "translation": "travel",
+    "level": "A1"
+  },
+  {
+    "term": "davranmak",
+    "translation": "treat",
+    "level": "A1"
+  },
+  {
+    "term": "giymek",
+    "translation": "wear",
+    "level": "A1"
+  },
+  {
+    "term": "başarmak",
+    "translation": "achieve",
+    "level": "A1"
+  },
+  {
+    "term": "kabul etmek",
+    "translation": "admit",
+    "level": "A1"
+  },
+  {
+    "term": "gücü yetmek",
+    "translation": "afford",
+    "level": "A1"
+  },
+  {
+    "term": "katılmak",
+    "translation": "attend",
+    "level": "A1"
+  },
+  {
+    "term": "saldırmak",
+    "translation": "attack",
+    "level": "A1"
+  },
+  {
+    "term": "dayandırmak",
+    "translation": "base",
+    "level": "A1"
+  },
+  {
+    "term": "dövmek",
+    "translation": "beat",
+    "level": "A1"
+  },
+  {
+    "term": "yanmak",
+    "translation": "burn",
+    "level": "A1"
+  },
+  {
+    "term": "iddia etmek",
+    "translation": "claim",
+    "level": "A1"
+  },
+  {
+    "term": "temizlemek",
+    "translation": "clean (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "temiz",
+    "translation": "clean (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "temizlemek",
+    "translation": "clear (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "açık",
+    "translation": "clear (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "toplamak",
+    "translation": "collect",
+    "level": "A1"
+  },
+  {
+    "term": "birleştirmek",
+    "translation": "combine",
+    "level": "A1"
+  },
+  {
+    "term": "tamamlamak",
+    "translation": "complete",
+    "level": "A1"
+  },
+  {
+    "term": "ilgilendirmek",
+    "translation": "concern",
+    "level": "A1"
+  },
+  {
+    "term": "bağlamak",
+    "translation": "connect",
+    "level": "A1"
+  },
+  {
+    "term": "pişirmek",
+    "translation": "cook",
+    "level": "A1"
+  },
+  {
+    "term": "saymak",
+    "translation": "count",
+    "level": "A1"
+  },
+  {
+    "term": "ağlamak",
+    "translation": "cry",
+    "level": "A1"
+  },
+  {
+    "term": "zarar vermek",
+    "translation": "damage",
+    "level": "A1"
+  },
+  {
+    "term": "uğraşmak",
+    "translation": "deal",
+    "level": "A1"
+  },
+  {
+    "term": "teslim etmek",
+    "translation": "deliver",
+    "level": "A1"
+  },
+  {
+    "term": "inkâr etmek",
+    "translation": "deny",
+    "level": "A1"
+  },
+  {
+    "term": "bağlı olmak",
+    "translation": "depend",
+    "level": "A1"
+  },
+  {
+    "term": "tanımlamak",
+    "translation": "describe",
+    "level": "A1"
+  },
+  {
+    "term": "tasarlamak",
+    "translation": "design",
+    "level": "A1"
+  },
+  {
+    "term": "belirlemek",
+    "translation": "determine",
+    "level": "A1"
+  },
+  {
+    "term": "keşfetmek",
+    "translation": "discover",
+    "level": "A1"
+  },
+  {
+    "term": "tartışmak",
+    "translation": "discuss",
+    "level": "A1"
+  },
+  {
+    "term": "bölmek",
+    "translation": "divide",
+    "level": "A1"
+  },
+  {
+    "term": "araba sürmek",
+    "translation": "drive",
+    "level": "A1"
+  },
+  {
+    "term": "kazanmak (para)",
+    "translation": "earn",
+    "level": "A1"
+  },
+  {
+    "term": "eğitmek",
+    "translation": "educate",
+    "level": "A1"
+  },
+  {
+    "term": "cesaretlendirmek",
+    "translation": "encourage",
+    "level": "A1"
+  },
+  {
+    "term": "bitirmek",
+    "translation": "end",
+    "level": "A1"
+  },
+  {
+    "term": "kurmak",
+    "translation": "establish",
+    "level": "A1"
+  },
+  {
+    "term": "var olmak",
+    "translation": "exist",
+    "level": "A1"
+  },
+  {
+    "term": "genişlemek",
+    "translation": "expand",
+    "level": "A1"
+  },
+  {
+    "term": "deneyimlemek",
+    "translation": "experience",
+    "level": "A1"
+  },
+  {
+    "term": "ifade etmek",
+    "translation": "express",
+    "level": "A1"
+  },
+  {
+    "term": "başarısız olmak",
+    "translation": "fail",
+    "level": "A1"
+  },
+  {
+    "term": "savaşmak",
+    "translation": "fight",
+    "level": "A1"
+  },
+  {
+    "term": "tamir etmek",
+    "translation": "fix",
+    "level": "A1"
+  },
+  {
+    "term": "odaklanmak",
+    "translation": "focus",
+    "level": "A1"
+  },
+  {
+    "term": "unutmak",
+    "translation": "forget",
+    "level": "A1"
+  },
+  {
+    "term": "kazanmak (elde etmek)",
+    "translation": "gain",
+    "level": "A1"
+  },
+  {
+    "term": "ele almak",
+    "translation": "handle (isim) 1",
+    "level": "A1"
+  },
+  {
+    "term": "kulp",
+    "translation": "handle (isim) 2",
+    "level": "A1"
+  },
+  {
+    "term": "asmak",
+    "translation": "hang",
+    "level": "A1"
+  },
+  {
+    "term": "saklanmak",
+    "translation": "hide",
+    "level": "A1"
+  },
+  {
+    "term": "tutmak",
+    "translation": "hold",
+    "level": "A1"
+  },
+  {
+    "term": "incitmek",
+    "translation": "hurt",
+    "level": "A1"
+  },
+  {
+    "term": "görmezden gelmek",
+    "translation": "ignore",
+    "level": "A1"
+  },
+  {
+    "term": "etkilemek",
+    "translation": "influence",
+    "level": "A1"
+  },
+  {
+    "term": "bilgilendirmek",
+    "translation": "inform",
+    "level": "A1"
+  },
+  {
+    "term": "tanıtmak",
+    "translation": "introduce",
+    "level": "A1"
+  },
+  {
+    "term": "davet etmek",
+    "translation": "invite",
+    "level": "A1"
+  },
+  {
+    "term": "içermek",
+    "translation": "involve",
+    "level": "A1"
+  },
+  {
+    "term": "yayınlamak",
+    "translation": "issue (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "sorun",
+    "translation": "issue (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "zıplamak",
+    "translation": "jump",
+    "level": "A1"
+  },
+  {
+    "term": "yatırmak",
+    "translation": "lay",
+    "level": "A1"
+  },
+  {
+    "term": "yalan söylemek",
+    "translation": "lie",
+    "level": "A1"
+  },
+  {
+    "term": "kaldırmak",
+    "translation": "lift",
+    "level": "A1"
+  },
+  {
+    "term": "sınırlamak",
+    "translation": "limit",
+    "level": "A1"
+  },
+  {
+    "term": "bağlamak",
+    "translation": "link",
+    "level": "A1"
+  },
+  {
+    "term": "listelemek",
+    "translation": "list",
+    "level": "A1"
+  },
+  {
+    "term": "sürdürmek",
+    "translation": "maintain",
+    "level": "A1"
+  },
+  {
+    "term": "işaretlemek",
+    "translation": "mark",
+    "level": "A1"
+  },
+  {
+    "term": "eşleştirmek",
+    "translation": "match",
+    "level": "A1"
+  },
+  {
+    "term": "ölçmek",
+    "translation": "measure",
+    "level": "A1"
+  },
+  {
+    "term": "karıştırmak",
+    "translation": "mix",
+    "level": "A1"
+  },
+  {
+    "term": "not almak",
+    "translation": "note",
+    "level": "A1"
+  },
+  {
+    "term": "gözlemlemek",
+    "translation": "observe",
+    "level": "A1"
+  },
+  {
+    "term": "elde etmek",
+    "translation": "obtain",
+    "level": "A1"
+  },
+  {
+    "term": "sipariş etmek",
+    "translation": "order",
+    "level": "A1"
+  },
+  {
+    "term": "boyamak",
+    "translation": "paint",
+    "level": "A1"
+  },
+  {
+    "term": "katılmak",
+    "translation": "participate",
+    "level": "A1"
+  },
+  {
+    "term": "gerçekleştirmek",
+    "translation": "perform",
+    "level": "A1"
+  },
+  {
+    "term": "seçmek",
+    "translation": "pick",
+    "level": "A1"
+  },
+  {
+    "term": "dikmek",
+    "translation": "plant (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "bitki",
+    "translation": "plant (isim)",
+    "level": "A1"
+  },
+  {
+    "term": "önlemek",
+    "translation": "prevent",
+    "level": "A1"
+  },
+  {
+    "term": "yazdırmak",
+    "translation": "print",
+    "level": "A1"
+  },
+  {
+    "term": "söz vermek",
+    "translation": "promise",
+    "level": "A1"
+  },
+  {
+    "term": "kanıtlamak",
+    "translation": "prove",
+    "level": "A1"
+  },
+  {
+    "term": "yayınlamak",
+    "translation": "publish",
+    "level": "A1"
+  },
+  {
+    "term": "satın almak",
+    "translation": "purchase (isim) 1",
+    "level": "A1"
+  },
+  {
+    "term": "satın alma",
+    "translation": "purchase (isim) 2",
+    "level": "A1"
+  },
+  {
+    "term": "tanımak",
+    "translation": "recognize",
+    "level": "A1"
+  },
+  {
+    "term": "tavsiye etmek",
+    "translation": "recommend",
+    "level": "A1"
+  },
+  {
+    "term": "kaydetmek",
+    "translation": "record",
+    "level": "A1"
+  },
+  {
+    "term": "atıfta bulunmak",
+    "translation": "refer",
+    "level": "A1"
+  },
+  {
+    "term": "yansıtmak",
+    "translation": "reflect",
+    "level": "A1"
+  },
+  {
+    "term": "reddetmek",
+    "translation": "refuse",
+    "level": "A1"
+  },
+  {
+    "term": "ilişkilendirmek",
+    "translation": "relate",
+    "level": "A1"
+  },
+  {
+    "term": "serbest bırakmak",
+    "translation": "release",
+    "level": "A1"
+  },
+  {
+    "term": "güvenmek",
+    "translation": "rely",
+    "level": "A1"
+  },
+  {
+    "term": "kaldırmak",
+    "translation": "remove",
+    "level": "A1"
+  },
+  {
+    "term": "tamir etmek",
+    "translation": "repair",
+    "level": "A1"
+  },
+  {
+    "term": "tekrarlamak",
+    "translation": "repeat",
+    "level": "A1"
+  },
+  {
+    "term": "değiştirmek (yerine koymak)",
+    "translation": "replace",
+    "level": "A1"
+  },
+  {
+    "term": "temsil etmek",
+    "translation": "represent",
+    "level": "A1"
+  },
+  {
+    "term": "yanıt vermek",
+    "translation": "respond",
+    "level": "A1"
+  },
+  {
+    "term": "dinlenmek",
+    "translation": "rest",
+    "level": "A1"
+  },
+  {
+    "term": "emekli olmak",
+    "translation": "retire",
+    "level": "A1"
+  },
+  {
+    "term": "binmek",
+    "translation": "ride",
+    "level": "A1"
+  },
+  {
+    "term": "çalmak (zil)",
+    "translation": "ring",
+    "level": "A1"
+  },
+  {
+    "term": "yuvarlanmak",
+    "translation": "roll",
+    "level": "A1"
+  },
+  {
+    "term": "yönetmek",
+    "translation": "rule (fiil)",
+    "level": "A1"
+  },
+  {
+    "term": "kural",
+    "translation": "rule (isim)",
+    "level": "A2"
+  },
+  {
+    "term": "acele etmek",
+    "translation": "rush",
+    "level": "A2"
+  },
+  {
+    "term": "tatmin etmek",
+    "translation": "satisfy",
+    "level": "A2"
+  },
+  {
+    "term": "aramak",
+    "translation": "search",
+    "level": "A2"
+  },
+  {
+    "term": "aramak",
+    "translation": "seek",
+    "level": "A2"
+  },
+  {
+    "term": "seçmek",
+    "translation": "select",
+    "level": "A2"
+  },
+  {
+    "term": "ayırmak",
+    "translation": "separate",
+    "level": "A2"
+  },
+  {
+    "term": "yerleşmek",
+    "translation": "settle",
+    "level": "A2"
+  },
+  {
+    "term": "sallamak",
+    "translation": "shake",
+    "level": "A2"
+  },
+  {
+    "term": "parlamak",
+    "translation": "shine",
+    "level": "A2"
+  },
+  {
+    "term": "ateş etmek",
+    "translation": "shoot",
+    "level": "A2"
+  },
+  {
+    "term": "bağırmak",
+    "translation": "shout",
+    "level": "A2"
+  },
+  {
+    "term": "kapatmak",
+    "translation": "shut",
+    "level": "A2"
+  },
+  {
+    "term": "imzalamak",
+    "translation": "sign",
+    "level": "A2"
+  },
+  {
+    "term": "şarkı söylemek",
+    "translation": "sing",
+    "level": "A2"
+  },
+  {
+    "term": "batmak",
+    "translation": "sink",
+    "level": "A2"
+  },
+  {
+    "term": "uyumak",
+    "translation": "sleep",
+    "level": "A2"
+  },
+  {
+    "term": "kaymak",
+    "translation": "slide",
+    "level": "A2"
+  },
+  {
+    "term": "koklamak",
+    "translation": "smell",
+    "level": "A2"
+  },
+  {
+    "term": "çözmek",
+    "translation": "solve",
+    "level": "A2"
+  },
+  {
+    "term": "sınıflandırmak",
+    "translation": "sort",
+    "level": "A2"
+  },
+  {
+    "term": "hızlanmak",
+    "translation": "speed",
+    "level": "A2"
+  },
+  {
+    "term": "hecelemek",
+    "translation": "spell",
+    "level": "A2"
+  },
+  {
+    "term": "yaymak",
+    "translation": "spread",
+    "level": "A2"
+  },
+  {
+    "term": "dik dik bakmak",
+    "translation": "stare",
+    "level": "A2"
+  },
+  {
+    "term": "çalmak (hırsızlık)",
+    "translation": "steal",
+    "level": "A2"
+  },
+  {
+    "term": "yapıştırmak",
+    "translation": "stick",
+    "level": "A2"
+  },
+  {
+    "term": "uzatmak",
+    "translation": "stretch",
+    "level": "A2"
+  },
+  {
+    "term": "vurmak",
+    "translation": "strike",
+    "level": "A2"
+  },
+  {
+    "term": "mücadele etmek",
+    "translation": "struggle",
+    "level": "A2"
+  },
+  {
+    "term": "çalışmak (ders)",
+    "translation": "study",
+    "level": "A2"
+  },
+  {
+    "term": "başarmak",
+    "translation": "succeed",
+    "level": "A2"
+  },
+  {
+    "term": "acı çekmek",
+    "translation": "suffer",
+    "level": "A2"
+  },
+  {
+    "term": "tedarik etmek",
+    "translation": "supply",
+    "level": "A2"
+  },
+  {
+    "term": "hayatta kalmak",
+    "translation": "survive",
+    "level": "A2"
+  },
+  {
+    "term": "şüphelenmek",
+    "translation": "suspect",
+    "level": "A2"
+  },
+  {
+    "term": "yüzmek",
+    "translation": "swim",
+    "level": "A2"
+  },
+  {
+    "term": "değiştirmek",
+    "translation": "switch",
+    "level": "A2"
+  },
+  {
+    "term": "tatmak",
+    "translation": "taste",
+    "level": "A2"
+  },
+  {
+    "term": "eğiliminde olmak",
+    "translation": "tend",
+    "level": "A2"
+  },
+  {
+    "term": "teşekkür etmek",
+    "translation": "thank",
+    "level": "A2"
+  },
+  {
+    "term": "dokunmak",
+    "translation": "touch",
+    "level": "A2"
+  },
+  {
+    "term": "eğitmek",
+    "translation": "train (fiil)",
+    "level": "A2"
+  },
+  {
+    "term": "tren",
+    "translation": "train (isim)",
+    "level": "A2"
+  },
+  {
+    "term": "çevirmek (dil)",
+    "translation": "translate",
+    "level": "A2"
+  },
+  {
+    "term": "güvenmek",
+    "translation": "trust",
+    "level": "A2"
+  },
+  {
+    "term": "yazmak (klavye)",
+    "translation": "type",
+    "level": "A2"
+  },
+  {
+    "term": "güncellemek",
+    "translation": "update",
+    "level": "A2"
+  },
+  {
+    "term": "üzmek",
+    "translation": "upset",
+    "level": "A2"
+  },
+  {
+    "term": "değişmek",
+    "translation": "vary",
+    "level": "A2"
+  },
+  {
+    "term": "ziyaret etmek",
+    "translation": "visit",
+    "level": "A2"
+  },
+  {
+    "term": "oy vermek",
+    "translation": "vote",
+    "level": "A2"
+  },
+  {
+    "term": "uyarmak",
+    "translation": "warn",
+    "level": "A2"
+  },
+  {
+    "term": "yıkamak",
+    "translation": "wash",
+    "level": "A2"
+  },
+  {
+    "term": "israf etmek",
+    "translation": "waste",
+    "level": "A2"
+  },
+  {
+    "term": "el sallamak",
+    "translation": "wave",
+    "level": "A2"
+  },
+  {
+    "term": "fısıldamak",
+    "translation": "whisper",
+    "level": "A2"
+  },
+  {
+    "term": "merak etmek",
+    "translation": "wonder",
+    "level": "A2"
+  },
+  {
+    "term": "endişelenmek",
+    "translation": "worry",
+    "level": "A2"
+  },
+  {
+    "term": "kişi",
+    "translation": "person",
+    "level": "A2"
+  },
+  {
+    "term": "insanlar",
+    "translation": "people",
+    "level": "A2"
+  },
+  {
+    "term": "adam",
+    "translation": "man",
+    "level": "A2"
+  },
+  {
+    "term": "kadın",
+    "translation": "woman",
+    "level": "A2"
+  },
+  {
+    "term": "çocuk",
+    "translation": "child",
+    "level": "A2"
+  },
+  {
+    "term": "çocuklar",
+    "translation": "children",
+    "level": "A2"
+  },
+  {
+    "term": "erkek çocuk",
+    "translation": "boy",
+    "level": "A2"
+  },
+  {
+    "term": "kız çocuk",
+    "translation": "girl",
+    "level": "A2"
+  },
+  {
+    "term": "bebek",
+    "translation": "baby",
+    "level": "A2"
+  },
+  {
+    "term": "yetişkin",
+    "translation": "adult",
+    "level": "A2"
+  },
+  {
+    "term": "genç",
+    "translation": "teenager",
+    "level": "A2"
+  },
+  {
+    "term": "arkadaş",
+    "translation": "friend",
+    "level": "A2"
+  },
+  {
+    "term": "aile",
+    "translation": "family",
+    "level": "A2"
+  },
+  {
+    "term": "ebeveyn",
+    "translation": "parent",
+    "level": "A2"
+  },
+  {
+    "term": "anne",
+    "translation": "mother",
+    "level": "A2"
+  },
+  {
+    "term": "baba",
+    "translation": "father",
+    "level": "A2"
+  },
+  {
+    "term": "oğul",
+    "translation": "son",
+    "level": "A2"
+  },
+  {
+    "term": "kız evlat",
+    "translation": "daughter",
+    "level": "A2"
+  },
+  {
+    "term": "erkek kardeş",
+    "translation": "brother",
+    "level": "A2"
+  },
+  {
+    "term": "kız kardeş",
+    "translation": "sister",
+    "level": "A2"
+  },
+  {
+    "term": "koca",
+    "translation": "husband",
+    "level": "A2"
+  },
+  {
+    "term": "eş",
+    "translation": "wife",
+    "level": "A2"
+  },
+  {
+    "term": "büyükanne",
+    "translation": "grandmother",
+    "level": "A2"
+  },
+  {
+    "term": "büyükbaba",
+    "translation": "grandfather",
+    "level": "A2"
+  },
+  {
+    "term": "amca",
+    "translation": "uncle",
+    "level": "A2"
+  },
+  {
+    "term": "teyze",
+    "translation": "aunt",
+    "level": "A2"
+  },
+  {
+    "term": "kuzen",
+    "translation": "cousin",
+    "level": "A2"
+  },
+  {
+    "term": "komşu",
+    "translation": "neighbor",
+    "level": "A2"
+  },
+  {
+    "term": "yabancı",
+    "translation": "stranger",
+    "level": "A2"
+  },
+  {
+    "term": "misafir",
+    "translation": "guest",
+    "level": "A2"
+  },
+  {
+    "term": "ev sahibi",
+    "translation": "host",
+    "level": "A2"
+  },
+  {
+    "term": "ortak",
+    "translation": "partner",
+    "level": "A2"
+  },
+  {
+    "term": "takım",
+    "translation": "team",
+    "level": "A2"
+  },
+  {
+    "term": "grup",
+    "translation": "group",
+    "level": "A2"
+  },
+  {
+    "term": "kalabalık",
+    "translation": "crowd",
+    "level": "A2"
+  },
+  {
+    "term": "izleyici",
+    "translation": "audience",
+    "level": "A2"
+  },
+  {
+    "term": "üye",
+    "translation": "member",
+    "level": "A2"
+  },
+  {
+    "term": "lider",
+    "translation": "leader",
+    "level": "A2"
+  },
+  {
+    "term": "yönetici",
+    "translation": "manager",
+    "level": "A2"
+  },
+  {
+    "term": "patron",
+    "translation": "boss",
+    "level": "A2"
+  },
+  {
+    "term": "çalışan",
+    "translation": "employee",
+    "level": "A2"
+  },
+  {
+    "term": "işveren",
+    "translation": "employer",
+    "level": "A2"
+  },
+  {
+    "term": "meslektaş",
+    "translation": "colleague",
+    "level": "A2"
+  },
+  {
+    "term": "müşteri",
+    "translation": "customer",
+    "level": "A2"
+  },
+  {
+    "term": "müşteri",
+    "translation": "client",
+    "level": "A2"
+  },
+  {
+    "term": "vatandaş",
+    "translation": "citizen",
+    "level": "A2"
+  },
+  {
+    "term": "hükümet",
+    "translation": "government",
+    "level": "A2"
+  },
+  {
+    "term": "başkan",
+    "translation": "president",
+    "level": "A2"
+  },
+  {
+    "term": "kral",
+    "translation": "king",
+    "level": "A2"
+  },
+  {
+    "term": "kraliçe",
+    "translation": "queen",
+    "level": "A2"
+  },
+  {
+    "term": "asker",
+    "translation": "soldier",
+    "level": "A2"
+  },
+  {
+    "term": "polis",
+    "translation": "police",
+    "level": "A2"
+  },
+  {
+    "term": "doktor",
+    "translation": "doctor",
+    "level": "A2"
+  },
+  {
+    "term": "hemşire",
+    "translation": "nurse",
+    "level": "A2"
+  },
+  {
+    "term": "öğretmen",
+    "translation": "teacher",
+    "level": "A2"
+  },
+  {
+    "term": "öğrenci",
+    "translation": "student",
+    "level": "A2"
+  },
+  {
+    "term": "profesör",
+    "translation": "professor",
+    "level": "A2"
+  },
+  {
+    "term": "bilim insanı",
+    "translation": "scientist",
+    "level": "A2"
+  },
+  {
+    "term": "mühendis",
+    "translation": "engineer",
+    "level": "A2"
+  },
+  {
+    "term": "avukat",
+    "translation": "lawyer",
+    "level": "A2"
+  },
+  {
+    "term": "sanatçı",
+    "translation": "artist",
+    "level": "A2"
+  },
+  {
+    "term": "yazar",
+    "translation": "writer",
+    "level": "A2"
+  },
+  {
+    "term": "aktör",
+    "translation": "actor",
+    "level": "A2"
+  },
+  {
+    "term": "müzisyen",
+    "translation": "musician",
+    "level": "A2"
+  },
+  {
+    "term": "çiftçi",
+    "translation": "farmer",
+    "level": "A2"
+  },
+  {
+    "term": "işçi",
+    "translation": "worker",
+    "level": "A2"
+  },
+  {
+    "term": "sürücü",
+    "translation": "driver",
+    "level": "A2"
+  },
+  {
+    "term": "pilot",
+    "translation": "pilot",
+    "level": "A2"
+  },
+  {
+    "term": "şef",
+    "translation": "chef",
+    "level": "A2"
+  },
+  {
+    "term": "garson",
+    "translation": "waiter",
+    "level": "A2"
+  },
+  {
+    "term": "satış elemanı",
+    "translation": "salesperson",
+    "level": "A2"
+  },
+  {
+    "term": "sporcu",
+    "translation": "athlete",
+    "level": "A2"
+  },
+  {
+    "term": "kahraman",
+    "translation": "hero",
+    "level": "A2"
+  },
+  {
+    "term": "düşman",
+    "translation": "enemy",
+    "level": "A2"
+  },
+  {
+    "term": "hırsız",
+    "translation": "thief",
+    "level": "A2"
+  },
+  {
+    "term": "kurban",
+    "translation": "victim",
+    "level": "A2"
+  },
+  {
+    "term": "tanık",
+    "translation": "witness",
+    "level": "A2"
+  },
+  {
+    "term": "kafa",
+    "translation": "head",
+    "level": "A2"
+  },
+  {
+    "term": "yüz",
+    "translation": "face",
+    "level": "A2"
+  },
+  {
+    "term": "göz",
+    "translation": "eye",
+    "level": "A2"
+  },
+  {
+    "term": "kulak",
+    "translation": "ear",
+    "level": "A2"
+  },
+  {
+    "term": "burun",
+    "translation": "nose",
+    "level": "A2"
+  },
+  {
+    "term": "ağız",
+    "translation": "mouth",
+    "level": "A2"
+  },
+  {
+    "term": "diş",
+    "translation": "tooth",
+    "level": "A2"
+  },
+  {
+    "term": "dil",
+    "translation": "tongue",
+    "level": "A2"
+  },
+  {
+    "term": "dudak",
+    "translation": "lip",
+    "level": "A2"
+  },
+  {
+    "term": "çene",
+    "translation": "chin",
+    "level": "A2"
+  },
+  {
+    "term": "boyun",
+    "translation": "neck",
+    "level": "A2"
+  },
+  {
+    "term": "omuz",
+    "translation": "shoulder",
+    "level": "A2"
+  },
+  {
+    "term": "kol",
+    "translation": "arm",
+    "level": "A2"
+  },
+  {
+    "term": "dirsek",
+    "translation": "elbow",
+    "level": "A2"
+  },
+  {
+    "term": "el",
+    "translation": "hand",
+    "level": "A2"
+  },
+  {
+    "term": "parmak",
+    "translation": "finger",
+    "level": "A2"
+  },
+  {
+    "term": "baş parmak",
+    "translation": "thumb",
+    "level": "A2"
+  },
+  {
+    "term": "tırnak",
+    "translation": "nail",
+    "level": "A2"
+  },
+  {
+    "term": "göğüs",
+    "translation": "chest",
+    "level": "A2"
+  },
+  {
+    "term": "sırt",
+    "translation": "back",
+    "level": "A2"
+  },
+  {
+    "term": "mide",
+    "translation": "stomach",
+    "level": "A2"
+  },
+  {
+    "term": "bel",
+    "translation": "waist",
+    "level": "A2"
+  },
+  {
+    "term": "kalça",
+    "translation": "hip",
+    "level": "A2"
+  },
+  {
+    "term": "bacak",
+    "translation": "leg",
+    "level": "A2"
+  },
+  {
+    "term": "diz",
+    "translation": "knee",
+    "level": "A2"
+  },
+  {
+    "term": "ayak bileği",
+    "translation": "ankle",
+    "level": "A2"
+  },
+  {
+    "term": "ayak",
+    "translation": "foot",
+    "level": "A2"
+  },
+  {
+    "term": "ayaklar",
+    "translation": "feet",
+    "level": "A2"
+  },
+  {
+    "term": "ayak parmağı",
+    "translation": "toe",
+    "level": "A2"
+  },
+  {
+    "term": "deri",
+    "translation": "skin",
+    "level": "A2"
+  },
+  {
+    "term": "saç",
+    "translation": "hair",
+    "level": "A2"
+  },
+  {
+    "term": "kemik",
+    "translation": "bone",
+    "level": "A2"
+  },
+  {
+    "term": "kas",
+    "translation": "muscle",
+    "level": "A2"
+  },
+  {
+    "term": "kalp",
+    "translation": "heart",
+    "level": "A2"
+  },
+  {
+    "term": "kan",
+    "translation": "blood",
+    "level": "A2"
+  },
+  {
+    "term": "beyin",
+    "translation": "brain",
+    "level": "A2"
+  },
+  {
+    "term": "akciğer",
+    "translation": "lung",
+    "level": "A2"
+  },
+  {
+    "term": "ses",
+    "translation": "voice",
+    "level": "A2"
+  },
+  {
+    "term": "vücut",
+    "translation": "body",
+    "level": "A2"
+  },
+  {
+    "term": "yiyecek",
+    "translation": "food",
+    "level": "A2"
+  },
+  {
+    "term": "içecek",
+    "translation": "drink",
+    "level": "A2"
+  },
+  {
+    "term": "su",
+    "translation": "water",
+    "level": "A2"
+  },
+  {
+    "term": "süt",
+    "translation": "milk",
+    "level": "A2"
+  },
+  {
+    "term": "meyve suyu",
+    "translation": "juice",
+    "level": "A2"
+  },
+  {
+    "term": "kahve",
+    "translation": "coffee",
+    "level": "A2"
+  },
+  {
+    "term": "çay",
+    "translation": "tea",
+    "level": "A2"
+  },
+  {
+    "term": "ekmek",
+    "translation": "bread",
+    "level": "A2"
+  },
+  {
+    "term": "pirinç",
+    "translation": "rice",
+    "level": "A2"
+  },
+  {
+    "term": "et",
+    "translation": "meat",
+    "level": "A2"
+  },
+  {
+    "term": "tavuk",
+    "translation": "chicken",
+    "level": "A2"
+  },
+  {
+    "term": "dana eti",
+    "translation": "beef",
+    "level": "A2"
+  },
+  {
+    "term": "balık",
+    "translation": "fish",
+    "level": "A2"
+  },
+  {
+    "term": "yumurta",
+    "translation": "egg",
+    "level": "A2"
+  },
+  {
+    "term": "peynir",
+    "translation": "cheese",
+    "level": "A2"
+  },
+  {
+    "term": "tereyağı",
+    "translation": "butter",
+    "level": "A2"
+  },
+  {
+    "term": "şeker",
+    "translation": "sugar",
+    "level": "A2"
+  },
+  {
+    "term": "tuz",
+    "translation": "salt",
+    "level": "A2"
+  },
+  {
+    "term": "biber",
+    "translation": "pepper",
+    "level": "A2"
+  },
+  {
+    "term": "yağ",
+    "translation": "oil",
+    "level": "A2"
+  },
+  {
+    "term": "meyve",
+    "translation": "fruit",
+    "level": "A2"
+  },
+  {
+    "term": "sebze",
+    "translation": "vegetable",
+    "level": "A2"
+  },
+  {
+    "term": "elma",
+    "translation": "apple",
+    "level": "A2"
+  },
+  {
+    "term": "muz",
+    "translation": "banana",
+    "level": "A2"
+  },
+  {
+    "term": "portakal",
+    "translation": "orange",
+    "level": "A2"
+  },
+  {
+    "term": "üzüm",
+    "translation": "grape",
+    "level": "A2"
+  },
+  {
+    "term": "limon",
+    "translation": "lemon",
+    "level": "A2"
+  },
+  {
+    "term": "patates",
+    "translation": "potato",
+    "level": "A2"
+  },
+  {
+    "term": "domates",
+    "translation": "tomato",
+    "level": "A2"
+  },
+  {
+    "term": "soğan",
+    "translation": "onion",
+    "level": "A2"
+  },
+  {
+    "term": "havuç",
+    "translation": "carrot",
+    "level": "A2"
+  },
+  {
+    "term": "çorba",
+    "translation": "soup",
+    "level": "A2"
+  },
+  {
+    "term": "salata",
+    "translation": "salad",
+    "level": "A2"
+  },
+  {
+    "term": "sandviç",
+    "translation": "sandwich",
+    "level": "A2"
+  },
+  {
+    "term": "pizza",
+    "translation": "pizza",
+    "level": "A2"
+  },
+  {
+    "term": "pasta",
+    "translation": "cake",
+    "level": "A2"
+  },
+  {
+    "term": "kurabiye",
+    "translation": "cookie",
+    "level": "A2"
+  },
+  {
+    "term": "çikolata",
+    "translation": "chocolate",
+    "level": "A2"
+  },
+  {
+    "term": "dondurma",
+    "translation": "ice cream",
+    "level": "A2"
+  },
+  {
+    "term": "kahvaltı",
+    "translation": "breakfast",
+    "level": "A2"
+  },
+  {
+    "term": "öğle yemeği",
+    "translation": "lunch",
+    "level": "A2"
+  },
+  {
+    "term": "akşam yemeği",
+    "translation": "dinner",
+    "level": "A2"
+  },
+  {
+    "term": "yemek",
+    "translation": "meal",
+    "level": "A2"
+  },
+  {
+    "term": "atıştırmalık",
+    "translation": "snack",
+    "level": "A2"
+  },
+  {
+    "term": "restoran",
+    "translation": "restaurant",
+    "level": "A2"
+  },
+  {
+    "term": "mutfak",
+    "translation": "kitchen",
+    "level": "A2"
+  },
+  {
+    "term": "tarif",
+    "translation": "recipe",
+    "level": "A2"
+  },
+  {
+    "term": "tabak",
+    "translation": "plate",
+    "level": "A2"
+  },
+  {
+    "term": "fincan",
+    "translation": "cup",
+    "level": "A2"
+  },
+  {
+    "term": "bardak",
+    "translation": "glass",
+    "level": "A2"
+  },
+  {
+    "term": "kase",
+    "translation": "bowl",
+    "level": "A2"
+  },
+  {
+    "term": "kaşık",
+    "translation": "spoon",
+    "level": "A2"
+  },
+  {
+    "term": "çatal",
+    "translation": "fork",
+    "level": "A2"
+  },
+  {
+    "term": "bıçak",
+    "translation": "knife",
+    "level": "A2"
+  },
+  {
+    "term": "peçete",
+    "translation": "napkin",
+    "level": "A2"
+  },
+  {
+    "term": "ev",
+    "translation": "house",
+    "level": "A2"
+  },
+  {
+    "term": "ev",
+    "translation": "home",
+    "level": "A2"
+  },
+  {
+    "term": "daire",
+    "translation": "apartment",
+    "level": "A2"
+  },
+  {
+    "term": "oda",
+    "translation": "room",
+    "level": "A2"
+  },
+  {
+    "term": "yatak odası",
+    "translation": "bedroom",
+    "level": "A2"
+  },
+  {
+    "term": "banyo",
+    "translation": "bathroom",
+    "level": "A2"
+  },
+  {
+    "term": "oturma odası",
+    "translation": "living room",
+    "level": "A2"
+  },
+  {
+    "term": "kapı",
+    "translation": "door",
+    "level": "A2"
+  },
+  {
+    "term": "pencere",
+    "translation": "window",
+    "level": "A2"
+  },
+  {
+    "term": "duvar",
+    "translation": "wall",
+    "level": "A2"
+  },
+  {
+    "term": "çatı",
+    "translation": "roof",
+    "level": "A2"
+  },
+  {
+    "term": "zemin",
+    "translation": "floor",
+    "level": "A2"
+  },
+  {
+    "term": "tavan",
+    "translation": "ceiling",
+    "level": "A2"
+  },
+  {
+    "term": "merdiven",
+    "translation": "stairs",
+    "level": "A2"
+  },
+  {
+    "term": "bahçe",
+    "translation": "garden",
+    "level": "A2"
+  },
+  {
+    "term": "avlu",
+    "translation": "yard",
+    "level": "A2"
+  },
+  {
+    "term": "garaj",
+    "translation": "garage",
+    "level": "A2"
+  },
+  {
+    "term": "mobilya",
+    "translation": "furniture",
+    "level": "A2"
+  },
+  {
+    "term": "masa",
+    "translation": "table",
+    "level": "A2"
+  },
+  {
+    "term": "sandalye",
+    "translation": "chair",
+    "level": "A2"
+  },
+  {
+    "term": "kanepe",
+    "translation": "sofa",
+    "level": "A2"
+  },
+  {
+    "term": "yatak",
+    "translation": "bed",
+    "level": "A2"
+  },
+  {
+    "term": "raf",
+    "translation": "shelf",
+    "level": "A2"
+  },
+  {
+    "term": "ayna",
+    "translation": "mirror",
+    "level": "A2"
+  },
+  {
+    "term": "lamba",
+    "translation": "lamp",
+    "level": "A2"
+  },
+  {
+    "term": "saat (duvar)",
+    "translation": "clock",
+    "level": "A2"
+  },
+  {
+    "term": "anahtar",
+    "translation": "key",
+    "level": "A2"
+  },
+  {
+    "term": "kilit",
+    "translation": "lock",
+    "level": "A2"
+  },
+  {
+    "term": "çanta",
+    "translation": "bag",
+    "level": "A2"
+  },
+  {
+    "term": "kutu",
+    "translation": "box",
+    "level": "A2"
+  },
+  {
+    "term": "sepet",
+    "translation": "basket",
+    "level": "A2"
+  },
+  {
+    "term": "havlu",
+    "translation": "towel",
+    "level": "A2"
+  },
+  {
+    "term": "battaniye",
+    "translation": "blanket",
+    "level": "A2"
+  },
+  {
+    "term": "yastık",
+    "translation": "pillow",
+    "level": "A2"
+  },
+  {
+    "term": "sabun",
+    "translation": "soap",
+    "level": "A2"
+  },
+  {
+    "term": "fırça",
+    "translation": "brush",
+    "level": "A2"
+  },
+  {
+    "term": "posta",
+    "translation": "mail",
+    "level": "A2"
+  },
+  {
+    "term": "mektup",
+    "translation": "letter",
+    "level": "A2"
+  },
+  {
+    "term": "paket",
+    "translation": "package",
+    "level": "A2"
+  },
+  {
+    "term": "adres",
+    "translation": "address",
+    "level": "A2"
+  },
+  {
+    "term": "şehir",
+    "translation": "city",
+    "level": "A2"
+  },
+  {
+    "term": "kasaba",
+    "translation": "town",
+    "level": "A2"
+  },
+  {
+    "term": "köy",
+    "translation": "village",
+    "level": "A2"
+  },
+  {
+    "term": "ülke",
+    "translation": "country",
+    "level": "A2"
+  },
+  {
+    "term": "millet",
+    "translation": "nation",
+    "level": "A2"
+  },
+  {
+    "term": "dünya",
+    "translation": "world",
+    "level": "A2"
+  },
+  {
+    "term": "eyalet",
+    "translation": "state",
+    "level": "A2"
+  },
+  {
+    "term": "sokak",
+    "translation": "street",
+    "level": "A2"
+  },
+  {
+    "term": "yol",
+    "translation": "road",
+    "level": "A2"
+  },
+  {
+    "term": "cadde",
+    "translation": "avenue",
+    "level": "A2"
+  },
+  {
+    "term": "otoyol",
+    "translation": "highway",
+    "level": "A2"
+  },
+  {
+    "term": "köprü",
+    "translation": "bridge",
+    "level": "A2"
+  },
+  {
+    "term": "bina",
+    "translation": "building",
+    "level": "A2"
+  },
+  {
+    "term": "mağaza",
+    "translation": "store",
+    "level": "A2"
+  },
+  {
+    "term": "dükkân",
+    "translation": "shop",
+    "level": "A2"
+  },
+  {
+    "term": "pazar",
+    "translation": "market",
+    "level": "A2"
+  },
+  {
+    "term": "alışveriş merkezi",
+    "translation": "mall",
+    "level": "A2"
+  },
+  {
+    "term": "banka",
+    "translation": "bank",
+    "level": "A2"
+  },
+  {
+    "term": "hastane",
+    "translation": "hospital",
+    "level": "A2"
+  },
+  {
+    "term": "okul",
+    "translation": "school",
+    "level": "A2"
+  },
+  {
+    "term": "üniversite",
+    "translation": "university",
+    "level": "A2"
+  },
+  {
+    "term": "kolej",
+    "translation": "college",
+    "level": "A2"
+  },
+  {
+    "term": "kütüphane",
+    "translation": "library",
+    "level": "A2"
+  },
+  {
+    "term": "müze",
+    "translation": "museum",
+    "level": "A2"
+  },
+  {
+    "term": "kilise",
+    "translation": "church",
+    "level": "A2"
+  },
+  {
+    "term": "cami",
+    "translation": "mosque",
+    "level": "A2"
+  },
+  {
+    "term": "park",
+    "translation": "park",
+    "level": "A2"
+  },
+  {
+    "term": "hayvanat bahçesi",
+    "translation": "zoo",
+    "level": "A2"
+  },
+  {
+    "term": "havalimanı",
+    "translation": "airport",
+    "level": "A2"
+  },
+  {
+    "term": "istasyon",
+    "translation": "station",
+    "level": "A2"
+  },
+  {
+    "term": "otel",
+    "translation": "hotel",
+    "level": "A2"
+  },
+  {
+    "term": "ofis",
+    "translation": "office",
+    "level": "A2"
+  },
+  {
+    "term": "fabrika",
+    "translation": "factory",
+    "level": "A2"
+  },
+  {
+    "term": "çiftlik",
+    "translation": "farm",
+    "level": "A2"
+  },
+  {
+    "term": "orman",
+    "translation": "forest",
+    "level": "A2"
+  },
+  {
+    "term": "dağ",
+    "translation": "mountain",
+    "level": "A2"
+  },
+  {
+    "term": "tepe",
+    "translation": "hill",
+    "level": "A2"
+  },
+  {
+    "term": "vadi",
+    "translation": "valley",
+    "level": "A2"
+  },
+  {
+    "term": "nehir",
+    "translation": "river",
+    "level": "A2"
+  },
+  {
+    "term": "göl",
+    "translation": "lake",
+    "level": "A2"
+  },
+  {
+    "term": "deniz",
+    "translation": "sea",
+    "level": "A2"
+  },
+  {
+    "term": "okyanus",
+    "translation": "ocean",
+    "level": "A2"
+  },
+  {
+    "term": "plaj",
+    "translation": "beach",
+    "level": "A2"
+  },
+  {
+    "term": "ada",
+    "translation": "island",
+    "level": "A2"
+  },
+  {
+    "term": "çöl",
+    "translation": "desert",
+    "level": "A2"
+  },
+  {
+    "term": "tarla",
+    "translation": "field",
+    "level": "A2"
+  },
+  {
+    "term": "gökyüzü",
+    "translation": "sky",
+    "level": "A2"
+  },
+  {
+    "term": "güneş",
+    "translation": "sun",
+    "level": "A2"
+  },
+  {
+    "term": "ay",
+    "translation": "moon",
+    "level": "A2"
+  },
+  {
+    "term": "yıldız",
+    "translation": "star",
+    "level": "A2"
+  },
+  {
+    "term": "bulut",
+    "translation": "cloud",
+    "level": "A2"
+  },
+  {
+    "term": "yağmur",
+    "translation": "rain",
+    "level": "A2"
+  },
+  {
+    "term": "kar",
+    "translation": "snow",
+    "level": "A2"
+  },
+  {
+    "term": "rüzgar",
+    "translation": "wind",
+    "level": "A2"
+  },
+  {
+    "term": "fırtına",
+    "translation": "storm",
+    "level": "A2"
+  },
+  {
+    "term": "sis",
+    "translation": "fog",
+    "level": "A2"
+  },
+  {
+    "term": "buz",
+    "translation": "ice",
+    "level": "A2"
+  },
+  {
+    "term": "ateş",
+    "translation": "fire",
+    "level": "A2"
+  },
+  {
+    "term": "dünya",
+    "translation": "earth",
+    "level": "A2"
+  },
+  {
+    "term": "kara",
+    "translation": "land",
+    "level": "A2"
+  },
+  {
+    "term": "zemin",
+    "translation": "ground",
+    "level": "A2"
+  },
+  {
+    "term": "kaya",
+    "translation": "rock",
+    "level": "A2"
+  },
+  {
+    "term": "taş",
+    "translation": "stone",
+    "level": "A2"
+  },
+  {
+    "term": "kum",
+    "translation": "sand",
+    "level": "A2"
+  },
+  {
+    "term": "ağaç",
+    "translation": "tree",
+    "level": "A2"
+  },
+  {
+    "term": "çiçek",
+    "translation": "flower",
+    "level": "A2"
+  },
+  {
+    "term": "yaprak",
+    "translation": "leaf",
+    "level": "A2"
+  },
+  {
+    "term": "çimen",
+    "translation": "grass",
+    "level": "A2"
+  },
+  {
+    "term": "tohum",
+    "translation": "seed",
+    "level": "A2"
+  },
+  {
+    "term": "kök",
+    "translation": "root",
+    "level": "A2"
+  },
+  {
+    "term": "dal",
+    "translation": "branch",
+    "level": "A2"
+  },
+  {
+    "term": "odun",
+    "translation": "wood",
+    "level": "A2"
+  },
+  {
+    "term": "hayvan",
+    "translation": "animal",
+    "level": "A2"
+  },
+  {
+    "term": "köpek",
+    "translation": "dog",
+    "level": "A2"
+  },
+  {
+    "term": "kedi",
+    "translation": "cat",
+    "level": "A2"
+  },
+  {
+    "term": "kuş",
+    "translation": "bird",
+    "level": "A2"
+  },
+  {
+    "term": "at",
+    "translation": "horse",
+    "level": "A2"
+  },
+  {
+    "term": "inek",
+    "translation": "cow",
+    "level": "A2"
+  },
+  {
+    "term": "domuz",
+    "translation": "pig",
+    "level": "A2"
+  },
+  {
+    "term": "koyun",
+    "translation": "sheep",
+    "level": "A2"
+  },
+  {
+    "term": "keçi",
+    "translation": "goat",
+    "level": "A2"
+  },
+  {
+    "term": "tavuk (hayvan)",
+    "translation": "chicken (animal)",
+    "level": "A2"
+  },
+  {
+    "term": "tavşan",
+    "translation": "rabbit",
+    "level": "A2"
+  },
+  {
+    "term": "fare",
+    "translation": "mouse",
+    "level": "A2"
+  },
+  {
+    "term": "aslan",
+    "translation": "lion",
+    "level": "A2"
+  },
+  {
+    "term": "kaplan",
+    "translation": "tiger",
+    "level": "A2"
+  },
+  {
+    "term": "fil",
+    "translation": "elephant",
+    "level": "A2"
+  },
+  {
+    "term": "ayı",
+    "translation": "bear",
+    "level": "A2"
+  },
+  {
+    "term": "kurt",
+    "translation": "wolf",
+    "level": "A2"
+  },
+  {
+    "term": "tilki",
+    "translation": "fox",
+    "level": "A2"
+  },
+  {
+    "term": "geyik",
+    "translation": "deer",
+    "level": "A2"
+  },
+  {
+    "term": "maymun",
+    "translation": "monkey",
+    "level": "A2"
+  },
+  {
+    "term": "yılan",
+    "translation": "snake",
+    "level": "A2"
+  },
+  {
+    "term": "kurbağa",
+    "translation": "frog",
+    "level": "A2"
+  },
+  {
+    "term": "böcek",
+    "translation": "insect",
+    "level": "A2"
+  },
+  {
+    "term": "arı",
+    "translation": "bee",
+    "level": "A2"
+  },
+  {
+    "term": "kelebek",
+    "translation": "butterfly",
+    "level": "A2"
+  },
+  {
+    "term": "örümcek",
+    "translation": "spider",
+    "level": "A2"
+  },
+  {
+    "term": "karınca",
+    "translation": "ant",
+    "level": "A2"
+  },
+  {
+    "term": "sinek",
+    "translation": "fly (insect)",
+    "level": "A2"
+  },
+  {
+    "term": "köpekbalığı",
+    "translation": "shark",
+    "level": "A2"
+  },
+  {
+    "term": "balina",
+    "translation": "whale",
+    "level": "A2"
+  },
+  {
+    "term": "hava durumu",
+    "translation": "weather",
+    "level": "A2"
+  },
+  {
+    "term": "sıcaklık",
+    "translation": "temperature",
+    "level": "A2"
+  },
+  {
+    "term": "derece",
+    "translation": "degree",
+    "level": "A2"
+  },
+  {
+    "term": "iklim",
+    "translation": "climate",
+    "level": "A2"
+  },
+  {
+    "term": "mevsim",
+    "translation": "season (weather)",
+    "level": "A2"
+  },
+  {
+    "term": "araba",
+    "translation": "car",
+    "level": "A2"
+  },
+  {
+    "term": "otobüs",
+    "translation": "bus",
+    "level": "A2"
+  },
+  {
+    "term": "uçak",
+    "translation": "plane",
+    "level": "A2"
+  },
+  {
+    "term": "uçak",
+    "translation": "airplane",
+    "level": "A2"
+  },
+  {
+    "term": "tekne",
+    "translation": "boat",
+    "level": "A2"
+  },
+  {
+    "term": "gemi",
+    "translation": "ship",
+    "level": "A2"
+  },
+  {
+    "term": "bisiklet",
+    "translation": "bicycle",
+    "level": "A2"
+  },
+  {
+    "term": "motosiklet",
+    "translation": "motorcycle",
+    "level": "A2"
+  },
+  {
+    "term": "kamyon",
+    "translation": "truck",
+    "level": "A2"
+  },
+  {
+    "term": "taksi",
+    "translation": "taxi",
+    "level": "A2"
+  },
+  {
+    "term": "metro",
+    "translation": "subway",
+    "level": "A2"
+  },
+  {
+    "term": "trafik",
+    "translation": "traffic",
+    "level": "A2"
+  },
+  {
+    "term": "bilet",
+    "translation": "ticket",
+    "level": "A2"
+  },
+  {
+    "term": "yolculuk",
+    "translation": "journey",
+    "level": "A2"
+  },
+  {
+    "term": "gezi",
+    "translation": "trip",
+    "level": "A2"
+  },
+  {
+    "term": "seyahat",
+    "translation": "travel (noun)",
+    "level": "A2"
+  },
+  {
+    "term": "tatil",
+    "translation": "vacation",
+    "level": "A2"
+  },
+  {
+    "term": "tatil",
+    "translation": "holiday",
+    "level": "A2"
+  },
+  {
+    "term": "turist",
+    "translation": "tourist",
+    "level": "A2"
+  },
+  {
+    "term": "pasaport",
+    "translation": "passport",
+    "level": "A2"
+  },
+  {
+    "term": "bagaj",
+    "translation": "luggage",
+    "level": "A2"
+  },
+  {
+    "term": "harita",
+    "translation": "map",
+    "level": "A2"
+  },
+  {
+    "term": "yön",
+    "translation": "direction",
+    "level": "A2"
+  },
+  {
+    "term": "mesafe",
+    "translation": "distance",
+    "level": "A2"
+  },
+  {
+    "term": "hız",
+    "translation": "speed (noun)",
+    "level": "A2"
+  },
+  {
+    "term": "rota",
+    "translation": "route",
+    "level": "A2"
+  },
+  {
+    "term": "kıyafetler",
+    "translation": "clothes",
+    "level": "A2"
+  },
+  {
+    "term": "giyim",
+    "translation": "clothing",
+    "level": "A2"
+  },
+  {
+    "term": "gömlek",
+    "translation": "shirt",
+    "level": "A2"
+  },
+  {
+    "term": "tişört",
+    "translation": "t-shirt",
+    "level": "A2"
+  },
+  {
+    "term": "pantolon",
+    "translation": "pants",
+    "level": "A2"
+  },
+  {
+    "term": "pantolon",
+    "translation": "trousers",
+    "level": "A2"
+  },
+  {
+    "term": "kot pantolon",
+    "translation": "jeans",
+    "level": "A2"
+  },
+  {
+    "term": "elbise",
+    "translation": "dress",
+    "level": "A2"
+  },
+  {
+    "term": "etek",
+    "translation": "skirt",
+    "level": "A2"
+  },
+  {
+    "term": "takım elbise",
+    "translation": "suit",
+    "level": "A2"
+  },
+  {
+    "term": "palto",
+    "translation": "coat",
+    "level": "A2"
+  },
+  {
+    "term": "ceket",
+    "translation": "jacket",
+    "level": "A2"
+  },
+  {
+    "term": "kazak",
+    "translation": "sweater",
+    "level": "A2"
+  },
+  {
+    "term": "ayakkabı",
+    "translation": "shoes",
+    "level": "A2"
+  },
+  {
+    "term": "çizme",
+    "translation": "boots",
+    "level": "A2"
+  },
+  {
+    "term": "çorap",
+    "translation": "socks",
+    "level": "A2"
+  },
+  {
+    "term": "şapka",
+    "translation": "hat",
+    "level": "A2"
+  },
+  {
+    "term": "eldiven",
+    "translation": "gloves",
+    "level": "A2"
+  },
+  {
+    "term": "atkı",
+    "translation": "scarf",
+    "level": "A2"
+  },
+  {
+    "term": "kemer",
+    "translation": "belt",
+    "level": "A2"
+  },
+  {
+    "term": "kravat",
+    "translation": "tie",
+    "level": "A2"
+  },
+  {
+    "term": "düğme",
+    "translation": "button",
+    "level": "A2"
+  },
+  {
+    "term": "cep",
+    "translation": "pocket",
+    "level": "A2"
+  },
+  {
+    "term": "beden",
+    "translation": "size",
+    "level": "A2"
+  },
+  {
+    "term": "stil",
+    "translation": "style",
+    "level": "A2"
+  },
+  {
+    "term": "moda",
+    "translation": "fashion",
+    "level": "A2"
+  },
+  {
+    "term": "mücevher",
+    "translation": "jewelry",
+    "level": "A2"
+  },
+  {
+    "term": "yüzük",
+    "translation": "ring (jewelry)",
+    "level": "A2"
+  },
+  {
+    "term": "kolye",
+    "translation": "necklace",
+    "level": "A2"
+  },
+  {
+    "term": "kol saati",
+    "translation": "watch (device)",
+    "level": "A2"
+  },
+  {
+    "term": "gözlük",
+    "translation": "glasses",
+    "level": "A2"
+  },
+  {
+    "term": "para",
+    "translation": "money",
+    "level": "A2"
+  },
+  {
+    "term": "nakit",
+    "translation": "cash",
+    "level": "A2"
+  },
+  {
+    "term": "madeni para",
+    "translation": "coin",
+    "level": "A2"
+  },
+  {
+    "term": "fatura",
+    "translation": "bill",
+    "level": "A2"
+  },
+  {
+    "term": "fiyat",
+    "translation": "price",
+    "level": "A2"
+  },
+  {
+    "term": "maliyet",
+    "translation": "cost",
+    "level": "A2"
+  },
+  {
+    "term": "değer",
+    "translation": "value",
+    "level": "A2"
+  },
+  {
+    "term": "bütçe",
+    "translation": "budget",
+    "level": "A2"
+  },
+  {
+    "term": "vergi",
+    "translation": "tax",
+    "level": "A2"
+  },
+  {
+    "term": "maaş",
+    "translation": "salary",
+    "level": "A2"
+  },
+  {
+    "term": "gelir",
+    "translation": "income",
+    "level": "A2"
+  },
+  {
+    "term": "gider",
+    "translation": "expense",
+    "level": "A2"
+  },
+  {
+    "term": "borç",
+    "translation": "debt",
+    "level": "A2"
+  },
+  {
+    "term": "kredi",
+    "translation": "loan",
+    "level": "A2"
+  },
+  {
+    "term": "kredi",
+    "translation": "credit",
+    "level": "A2"
+  },
+  {
+    "term": "hesap",
+    "translation": "account",
+    "level": "A2"
+  },
+  {
+    "term": "tasarruf",
+    "translation": "savings",
+    "level": "A2"
+  },
+  {
+    "term": "yatırım",
+    "translation": "investment",
+    "level": "A2"
+  },
+  {
+    "term": "kâr",
+    "translation": "profit",
+    "level": "A2"
+  },
+  {
+    "term": "kayıp",
+    "translation": "loss",
+    "level": "A2"
+  },
+  {
+    "term": "ekonomi",
+    "translation": "economy",
+    "level": "A2"
+  },
+  {
+    "term": "iş",
+    "translation": "business",
+    "level": "A2"
+  },
+  {
+    "term": "şirket",
+    "translation": "company",
+    "level": "A2"
+  },
+  {
+    "term": "sanayi",
+    "translation": "industry",
+    "level": "A2"
+  },
+  {
+    "term": "ürün",
+    "translation": "product",
+    "level": "A2"
+  },
+  {
+    "term": "hizmet",
+    "translation": "service",
+    "level": "A2"
+  },
+  {
+    "term": "satış",
+    "translation": "sale",
+    "level": "A2"
+  },
+  {
+    "term": "indirim",
+    "translation": "discount",
+    "level": "A2"
+  },
+  {
+    "term": "fiş",
+    "translation": "receipt",
+    "level": "A2"
+  },
+  {
+    "term": "cüzdan",
+    "translation": "wallet",
+    "level": "A2"
+  },
+  {
+    "term": "sağlık",
+    "translation": "health",
+    "level": "A2"
+  },
+  {
+    "term": "hastalık",
+    "translation": "illness",
+    "level": "A2"
+  },
+  {
+    "term": "hastalık",
+    "translation": "disease",
+    "level": "A2"
+  },
+  {
+    "term": "ağrı",
+    "translation": "pain",
+    "level": "A2"
+  },
+  {
+    "term": "yaralanma",
+    "translation": "injury",
+    "level": "A2"
+  },
+  {
+    "term": "ilaç",
+    "translation": "medicine",
+    "level": "A2"
+  },
+  {
+    "term": "tedavi",
+    "translation": "treatment",
+    "level": "A2"
+  },
+  {
+    "term": "ameliyat",
+    "translation": "surgery",
+    "level": "A2"
+  },
+  {
+    "term": "belirti",
+    "translation": "symptom",
+    "level": "A2"
+  },
+  {
+    "term": "ateş (hastalık)",
+    "translation": "fever",
+    "level": "A2"
+  },
+  {
+    "term": "öksürük",
+    "translation": "cough",
+    "level": "A2"
+  },
+  {
+    "term": "baş ağrısı",
+    "translation": "headache",
+    "level": "A2"
+  },
+  {
+    "term": "randevu",
+    "translation": "appointment",
+    "level": "A2"
+  },
+  {
+    "term": "hasta",
+    "translation": "patient",
+    "level": "A2"
+  },
+  {
+    "term": "diyet",
+    "translation": "diet",
+    "level": "A2"
+  },
+  {
+    "term": "egzersiz",
+    "translation": "exercise",
+    "level": "A2"
+  },
+  {
+    "term": "uyku",
+    "translation": "sleep (noun)",
+    "level": "A2"
+  },
+  {
+    "term": "dinlenme",
+    "translation": "rest (noun)",
+    "level": "A2"
+  },
+  {
+    "term": "enerji",
+    "translation": "energy",
+    "level": "A2"
+  },
+  {
+    "term": "güç",
+    "translation": "strength",
+    "level": "A2"
+  },
+  {
+    "term": "zayıflık",
+    "translation": "weakness",
+    "level": "A2"
+  },
+  {
+    "term": "ağırlık",
+    "translation": "weight",
+    "level": "A2"
+  },
+  {
+    "term": "boy",
+    "translation": "height",
+    "level": "A2"
+  },
+  {
+    "term": "yaş",
+    "translation": "age",
+    "level": "A2"
+  },
+  {
+    "term": "ölüm",
+    "translation": "death",
+    "level": "A2"
+  },
+  {
+    "term": "hayat",
+    "translation": "life",
+    "level": "A2"
+  },
+  {
+    "term": "doğum",
+    "translation": "birth",
+    "level": "A2"
+  },
+  {
+    "term": "düğün",
+    "translation": "wedding",
+    "level": "A2"
+  },
+  {
+    "term": "evlilik",
+    "translation": "marriage",
+    "level": "A2"
+  },
+  {
+    "term": "boşanma",
+    "translation": "divorce",
+    "level": "A2"
+  },
+  {
+    "term": "cenaze",
+    "translation": "funeral",
+    "level": "A2"
+  },
+  {
+    "term": "eğitim",
+    "translation": "education",
+    "level": "A2"
+  },
+  {
+    "term": "sınıf",
+    "translation": "class",
+    "level": "A2"
+  },
+  {
+    "term": "ders",
+    "translation": "lesson",
+    "level": "A2"
+  },
+  {
+    "term": "konferans",
+    "translation": "lecture",
+    "level": "A2"
+  },
+  {
+    "term": "kurs",
+    "translation": "course",
+    "level": "A2"
+  },
+  {
+    "term": "konu",
+    "translation": "subject",
+    "level": "B1"
+  },
+  {
+    "term": "ev ödevi",
+    "translation": "homework",
+    "level": "B1"
+  },
+  {
+    "term": "sınav",
+    "translation": "exam",
+    "level": "B1"
+  },
+  {
+    "term": "test",
+    "translation": "test",
+    "level": "B1"
+  },
+  {
+    "term": "not",
+    "translation": "grade",
+    "level": "B1"
+  },
+  {
+    "term": "derece",
+    "translation": "degree (academic)",
+    "level": "B1"
+  },
+  {
+    "term": "diploma",
+    "translation": "diploma",
+    "level": "B1"
+  },
+  {
+    "term": "sertifika",
+    "translation": "certificate",
+    "level": "B1"
+  },
+  {
+    "term": "bilgi",
+    "translation": "knowledge",
+    "level": "B1"
+  },
+  {
+    "term": "beceri",
+    "translation": "skill",
+    "level": "B1"
+  },
+  {
+    "term": "deneyim",
+    "translation": "experience (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "bilgi",
+    "translation": "information",
+    "level": "B1"
+  },
+  {
+    "term": "gerçek",
+    "translation": "fact",
+    "level": "B1"
+  },
+  {
+    "term": "fikir",
+    "translation": "idea",
+    "level": "B1"
+  },
+  {
+    "term": "görüş",
+    "translation": "opinion",
+    "level": "B1"
+  },
+  {
+    "term": "soru",
+    "translation": "question",
+    "level": "B1"
+  },
+  {
+    "term": "cevap",
+    "translation": "answer (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "problem",
+    "translation": "problem",
+    "level": "B1"
+  },
+  {
+    "term": "çözüm",
+    "translation": "solution",
+    "level": "B1"
+  },
+  {
+    "term": "örnek",
+    "translation": "example",
+    "level": "B1"
+  },
+  {
+    "term": "sebep",
+    "translation": "reason",
+    "level": "B1"
+  },
+  {
+    "term": "etki",
+    "translation": "effect",
+    "level": "B1"
+  },
+  {
+    "term": "sebep",
+    "translation": "cause (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "amaç",
+    "translation": "purpose",
+    "level": "B1"
+  },
+  {
+    "term": "hedef",
+    "translation": "goal",
+    "level": "B1"
+  },
+  {
+    "term": "plan",
+    "translation": "plan (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "yöntem",
+    "translation": "method",
+    "level": "B1"
+  },
+  {
+    "term": "süreç",
+    "translation": "process",
+    "level": "B1"
+  },
+  {
+    "term": "sistem",
+    "translation": "system",
+    "level": "B1"
+  },
+  {
+    "term": "kanun",
+    "translation": "law",
+    "level": "B1"
+  },
+  {
+    "term": "hak",
+    "translation": "right (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "özgürlük",
+    "translation": "freedom",
+    "level": "B1"
+  },
+  {
+    "term": "adalet",
+    "translation": "justice",
+    "level": "B1"
+  },
+  {
+    "term": "barış",
+    "translation": "peace",
+    "level": "B1"
+  },
+  {
+    "term": "savaş",
+    "translation": "war",
+    "level": "B1"
+  },
+  {
+    "term": "suç",
+    "translation": "crime",
+    "level": "B1"
+  },
+  {
+    "term": "tehlike",
+    "translation": "danger",
+    "level": "B1"
+  },
+  {
+    "term": "güvenlik",
+    "translation": "safety",
+    "level": "B1"
+  },
+  {
+    "term": "risk",
+    "translation": "risk",
+    "level": "B1"
+  },
+  {
+    "term": "güvenlik",
+    "translation": "security",
+    "level": "B1"
+  },
+  {
+    "term": "koruma",
+    "translation": "protection",
+    "level": "B1"
+  },
+  {
+    "term": "teknoloji",
+    "translation": "technology",
+    "level": "B1"
+  },
+  {
+    "term": "bilgisayar",
+    "translation": "computer",
+    "level": "B1"
+  },
+  {
+    "term": "internet",
+    "translation": "internet",
+    "level": "B1"
+  },
+  {
+    "term": "web sitesi",
+    "translation": "website",
+    "level": "B1"
+  },
+  {
+    "term": "e-posta",
+    "translation": "email",
+    "level": "B1"
+  },
+  {
+    "term": "telefon",
+    "translation": "phone",
+    "level": "B1"
+  },
+  {
+    "term": "akıllı telefon",
+    "translation": "smartphone",
+    "level": "B1"
+  },
+  {
+    "term": "yazılım",
+    "translation": "software",
+    "level": "B1"
+  },
+  {
+    "term": "donanım",
+    "translation": "hardware",
+    "level": "B1"
+  },
+  {
+    "term": "uygulama",
+    "translation": "application",
+    "level": "B1"
+  },
+  {
+    "term": "program",
+    "translation": "program",
+    "level": "B1"
+  },
+  {
+    "term": "veri",
+    "translation": "data",
+    "level": "B1"
+  },
+  {
+    "term": "dosya",
+    "translation": "file",
+    "level": "B1"
+  },
+  {
+    "term": "şifre",
+    "translation": "password",
+    "level": "B1"
+  },
+  {
+    "term": "ağ",
+    "translation": "network",
+    "level": "B1"
+  },
+  {
+    "term": "ekran",
+    "translation": "screen",
+    "level": "B1"
+  },
+  {
+    "term": "klavye",
+    "translation": "keyboard",
+    "level": "B1"
+  },
+  {
+    "term": "fare (bilgisayar)",
+    "translation": "mouse (device)",
+    "level": "B1"
+  },
+  {
+    "term": "pil",
+    "translation": "battery",
+    "level": "B1"
+  },
+  {
+    "term": "kamera",
+    "translation": "camera",
+    "level": "B1"
+  },
+  {
+    "term": "video",
+    "translation": "video",
+    "level": "B1"
+  },
+  {
+    "term": "fotoğraf",
+    "translation": "photo",
+    "level": "B1"
+  },
+  {
+    "term": "resim",
+    "translation": "picture",
+    "level": "B1"
+  },
+  {
+    "term": "görüntü",
+    "translation": "image",
+    "level": "B1"
+  },
+  {
+    "term": "müzik",
+    "translation": "music",
+    "level": "B1"
+  },
+  {
+    "term": "şarkı",
+    "translation": "song",
+    "level": "B1"
+  },
+  {
+    "term": "film",
+    "translation": "movie",
+    "level": "B1"
+  },
+  {
+    "term": "film",
+    "translation": "film",
+    "level": "B1"
+  },
+  {
+    "term": "gösteri",
+    "translation": "show (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "kitap",
+    "translation": "book",
+    "level": "B1"
+  },
+  {
+    "term": "hikaye",
+    "translation": "story",
+    "level": "B1"
+  },
+  {
+    "term": "roman",
+    "translation": "novel",
+    "level": "B1"
+  },
+  {
+    "term": "gazete",
+    "translation": "newspaper",
+    "level": "B1"
+  },
+  {
+    "term": "dergi",
+    "translation": "magazine",
+    "level": "B1"
+  },
+  {
+    "term": "makale",
+    "translation": "article",
+    "level": "B1"
+  },
+  {
+    "term": "haber",
+    "translation": "news",
+    "level": "B1"
+  },
+  {
+    "term": "medya",
+    "translation": "media",
+    "level": "B1"
+  },
+  {
+    "term": "radyo",
+    "translation": "radio",
+    "level": "B1"
+  },
+  {
+    "term": "televizyon",
+    "translation": "television",
+    "level": "B1"
+  },
+  {
+    "term": "sanat",
+    "translation": "art",
+    "level": "B1"
+  },
+  {
+    "term": "resim (tablo)",
+    "translation": "painting",
+    "level": "B1"
+  },
+  {
+    "term": "çizim",
+    "translation": "drawing",
+    "level": "B1"
+  },
+  {
+    "term": "heykel",
+    "translation": "sculpture",
+    "level": "B1"
+  },
+  {
+    "term": "tiyatro",
+    "translation": "theater",
+    "level": "B1"
+  },
+  {
+    "term": "konser",
+    "translation": "concert",
+    "level": "B1"
+  },
+  {
+    "term": "dans",
+    "translation": "dance",
+    "level": "B1"
+  },
+  {
+    "term": "oyun",
+    "translation": "game",
+    "level": "B1"
+  },
+  {
+    "term": "spor",
+    "translation": "sport",
+    "level": "B1"
+  },
+  {
+    "term": "top",
+    "translation": "ball",
+    "level": "B1"
+  },
+  {
+    "term": "takım",
+    "translation": "team (sport)",
+    "level": "B1"
+  },
+  {
+    "term": "maç",
+    "translation": "match (sport)",
+    "level": "B1"
+  },
+  {
+    "term": "yarışma",
+    "translation": "competition",
+    "level": "B1"
+  },
+  {
+    "term": "yarış",
+    "translation": "race",
+    "level": "B1"
+  },
+  {
+    "term": "şampiyon",
+    "translation": "champion",
+    "level": "B1"
+  },
+  {
+    "term": "ödül",
+    "translation": "prize",
+    "level": "B1"
+  },
+  {
+    "term": "ödül",
+    "translation": "award",
+    "level": "B1"
+  },
+  {
+    "term": "zafer",
+    "translation": "victory",
+    "level": "B1"
+  },
+  {
+    "term": "skor",
+    "translation": "score",
+    "level": "B1"
+  },
+  {
+    "term": "spor salonu",
+    "translation": "gym",
+    "level": "B1"
+  },
+  {
+    "term": "yüzme",
+    "translation": "swimming",
+    "level": "B1"
+  },
+  {
+    "term": "koşu",
+    "translation": "running",
+    "level": "B1"
+  },
+  {
+    "term": "futbol",
+    "translation": "football",
+    "level": "B1"
+  },
+  {
+    "term": "basketbol",
+    "translation": "basketball",
+    "level": "B1"
+  },
+  {
+    "term": "tenis",
+    "translation": "tennis",
+    "level": "B1"
+  },
+  {
+    "term": "golf",
+    "translation": "golf",
+    "level": "B1"
+  },
+  {
+    "term": "kayak",
+    "translation": "skiing",
+    "level": "B1"
+  },
+  {
+    "term": "hobi",
+    "translation": "hobby",
+    "level": "B1"
+  },
+  {
+    "term": "ilgi",
+    "translation": "interest",
+    "level": "B1"
+  },
+  {
+    "term": "eğlence",
+    "translation": "fun",
+    "level": "B1"
+  },
+  {
+    "term": "eğlence",
+    "translation": "entertainment",
+    "level": "B1"
+  },
+  {
+    "term": "parti",
+    "translation": "party",
+    "level": "B1"
+  },
+  {
+    "term": "kutlama",
+    "translation": "celebration",
+    "level": "B1"
+  },
+  {
+    "term": "hediye",
+    "translation": "gift",
+    "level": "B1"
+  },
+  {
+    "term": "hediye",
+    "translation": "present (noun)",
+    "level": "B1"
+  },
+  {
+    "term": "sürpriz",
+    "translation": "surprise",
+    "level": "B1"
+  },
+  {
+    "term": "gelenek",
+    "translation": "tradition",
+    "level": "B1"
+  },
+  {
+    "term": "kültür",
+    "translation": "culture",
+    "level": "B1"
+  },
+  {
+    "term": "dil",
+    "translation": "language",
+    "level": "B1"
+  },
+  {
+    "term": "kelime",
+    "translation": "word",
+    "level": "B1"
+  },
+  {
+    "term": "cümle",
+    "translation": "sentence",
+    "level": "B1"
+  },
+  {
+    "term": "harf",
+    "translation": "letter (alphabet)",
+    "level": "B1"
+  },
+  {
+    "term": "anlam",
+    "translation": "meaning",
+    "level": "B1"
+  },
+  {
+    "term": "çeviri",
+    "translation": "translation",
+    "level": "B1"
+  },
+  {
+    "term": "dilbilgisi",
+    "translation": "grammar",
+    "level": "B1"
+  },
+  {
+    "term": "telaffuz",
+    "translation": "pronunciation",
+    "level": "B1"
+  },
+  {
+    "term": "aksan",
+    "translation": "accent",
+    "level": "B1"
+  },
+  {
+    "term": "iletişim",
+    "translation": "communication",
+    "level": "B1"
+  },
+  {
+    "term": "sohbet",
+    "translation": "conversation",
+    "level": "B1"
+  },
+  {
+    "term": "tartışma",
+    "translation": "discussion",
+    "level": "B1"
+  },
+  {
+    "term": "mesaj",
+    "translation": "message",
+    "level": "B1"
+  },
+  {
+    "term": "duyuru",
+    "translation": "announcement",
+    "level": "B1"
+  },
+  {
+    "term": "reklam",
+    "translation": "advertisement",
+    "level": "B1"
+  },
+  {
+    "term": "konuşma",
+    "translation": "speech",
+    "level": "B1"
+  },
+  {
+    "term": "iyi",
+    "translation": "good",
+    "level": "B1"
+  },
+  {
+    "term": "kötü",
+    "translation": "bad",
+    "level": "B1"
+  },
+  {
+    "term": "büyük",
+    "translation": "big",
+    "level": "B1"
+  },
+  {
+    "term": "küçük",
+    "translation": "small",
+    "level": "B1"
+  },
+  {
+    "term": "büyük",
+    "translation": "large",
+    "level": "B1"
+  },
+  {
+    "term": "küçük",
+    "translation": "little",
+    "level": "B1"
+  },
+  {
+    "term": "uzun (boy)",
+    "translation": "tall",
+    "level": "B1"
+  },
+  {
+    "term": "kısa",
+    "translation": "short",
+    "level": "B1"
+  },
+  {
+    "term": "uzun",
+    "translation": "long",
+    "level": "B1"
+  },
+  {
+    "term": "geniş",
+    "translation": "wide",
+    "level": "B1"
+  },
+  {
+    "term": "dar",
+    "translation": "narrow",
+    "level": "B1"
+  },
+  {
+    "term": "yüksek",
+    "translation": "high",
+    "level": "B1"
+  },
+  {
+    "term": "alçak",
+    "translation": "low",
+    "level": "B1"
+  },
+  {
+    "term": "derin",
+    "translation": "deep",
+    "level": "B1"
+  },
+  {
+    "term": "sığ",
+    "translation": "shallow",
+    "level": "B1"
+  },
+  {
+    "term": "kalın",
+    "translation": "thick",
+    "level": "B1"
+  },
+  {
+    "term": "ince",
+    "translation": "thin",
+    "level": "B1"
+  },
+  {
+    "term": "ağır",
+    "translation": "heavy",
+    "level": "B1"
+  },
+  {
+    "term": "hafif",
+    "translation": "light (weight)",
+    "level": "B1"
+  },
+  {
+    "term": "güçlü",
+    "translation": "strong",
+    "level": "B1"
+  },
+  {
+    "term": "zayıf",
+    "translation": "weak",
+    "level": "B1"
+  },
+  {
+    "term": "sert",
+    "translation": "hard",
+    "level": "B1"
+  },
+  {
+    "term": "yumuşak",
+    "translation": "soft",
+    "level": "B1"
+  },
+  {
+    "term": "pürüzsüz",
+    "translation": "smooth",
+    "level": "B1"
+  },
+  {
+    "term": "pürüzlü",
+    "translation": "rough",
+    "level": "B1"
+  },
+  {
+    "term": "keskin",
+    "translation": "sharp",
+    "level": "B1"
+  },
+  {
+    "term": "kör",
+    "translation": "dull",
+    "level": "B1"
+  },
+  {
+    "term": "hızlı",
+    "translation": "fast",
+    "level": "B1"
+  },
+  {
+    "term": "yavaş",
+    "translation": "slow",
+    "level": "B1"
+  },
+  {
+    "term": "hızlı",
+    "translation": "quick",
+    "level": "B1"
+  },
+  {
+    "term": "erken",
+    "translation": "early",
+    "level": "B1"
+  },
+  {
+    "term": "geç",
+    "translation": "late",
+    "level": "B1"
+  },
+  {
+    "term": "yeni",
+    "translation": "new",
+    "level": "B1"
+  },
+  {
+    "term": "eski",
+    "translation": "old",
+    "level": "B1"
+  },
+  {
+    "term": "genç",
+    "translation": "young",
+    "level": "B1"
+  },
+  {
+    "term": "taze",
+    "translation": "fresh",
+    "level": "B1"
+  },
+  {
+    "term": "kirli",
+    "translation": "dirty",
+    "level": "B1"
+  },
+  {
+    "term": "ıslak",
+    "translation": "wet",
+    "level": "B1"
+  },
+  {
+    "term": "kuru",
+    "translation": "dry",
+    "level": "B1"
+  },
+  {
+    "term": "sıcak",
+    "translation": "hot",
+    "level": "B1"
+  },
+  {
+    "term": "soğuk",
+    "translation": "cold",
+    "level": "B1"
+  },
+  {
+    "term": "ılık",
+    "translation": "warm",
+    "level": "B1"
+  },
+  {
+    "term": "serin",
+    "translation": "cool",
+    "level": "B1"
+  },
+  {
+    "term": "güzel",
+    "translation": "beautiful",
+    "level": "B1"
+  },
+  {
+    "term": "güzel",
+    "translation": "pretty",
+    "level": "B1"
+  },
+  {
+    "term": "çirkin",
+    "translation": "ugly",
+    "level": "B1"
+  },
+  {
+    "term": "yakışıklı",
+    "translation": "handsome",
+    "level": "B1"
+  },
+  {
+    "term": "çekici",
+    "translation": "attractive",
+    "level": "B1"
+  },
+  {
+    "term": "sevimli",
+    "translation": "cute",
+    "level": "B1"
+  },
+  {
+    "term": "hoş",
+    "translation": "nice",
+    "level": "B1"
+  },
+  {
+    "term": "sevimli",
+    "translation": "lovely",
+    "level": "B1"
+  },
+  {
+    "term": "harika",
+    "translation": "wonderful",
+    "level": "B1"
+  },
+  {
+    "term": "şaşırtıcı",
+    "translation": "amazing",
+    "level": "B1"
+  },
+  {
+    "term": "muhteşem",
+    "translation": "fantastic",
+    "level": "B1"
+  },
+  {
+    "term": "harika",
+    "translation": "great",
+    "level": "B1"
+  },
+  {
+    "term": "mükemmel",
+    "translation": "excellent",
+    "level": "B1"
+  },
+  {
+    "term": "mükemmel",
+    "translation": "perfect",
+    "level": "B1"
+  },
+  {
+    "term": "korkunç",
+    "translation": "terrible",
+    "level": "B1"
+  },
+  {
+    "term": "berbat",
+    "translation": "awful",
+    "level": "B1"
+  },
+  {
+    "term": "korkunç",
+    "translation": "horrible",
+    "level": "B1"
+  },
+  {
+    "term": "fakir",
+    "translation": "poor",
+    "level": "B1"
+  },
+  {
+    "term": "zengin",
+    "translation": "rich",
+    "level": "B1"
+  },
+  {
+    "term": "varlıklı",
+    "translation": "wealthy",
+    "level": "B1"
+  },
+  {
+    "term": "pahalı",
+    "translation": "expensive",
+    "level": "B1"
+  },
+  {
+    "term": "ucuz",
+    "translation": "cheap",
+    "level": "B1"
+  },
+  {
+    "term": "ücretsiz",
+    "translation": "free (no cost)",
+    "level": "B1"
+  },
+  {
+    "term": "mutlu",
+    "translation": "happy",
+    "level": "B1"
+  },
+  {
+    "term": "üzgün",
+    "translation": "sad",
+    "level": "B1"
+  },
+  {
+    "term": "kızgın",
+    "translation": "angry",
+    "level": "B1"
+  },
+  {
+    "term": "korkmuş",
+    "translation": "afraid",
+    "level": "B1"
+  },
+  {
+    "term": "korkmuş",
+    "translation": "scared",
+    "level": "B1"
+  },
+  {
+    "term": "endişeli",
+    "translation": "worried",
+    "level": "B1"
+  },
+  {
+    "term": "gergin",
+    "translation": "nervous",
+    "level": "B1"
+  },
+  {
+    "term": "heyecanlı",
+    "translation": "excited",
+    "level": "B1"
+  },
+  {
+    "term": "sıkılmış",
+    "translation": "bored",
+    "level": "B1"
+  },
+  {
+    "term": "yorgun",
+    "translation": "tired",
+    "level": "B1"
+  },
+  {
+    "term": "bitkin",
+    "translation": "exhausted",
+    "level": "B1"
+  },
+  {
+    "term": "rahatlamış",
+    "translation": "relaxed",
+    "level": "B1"
+  },
+  {
+    "term": "sakin",
+    "translation": "calm",
+    "level": "B1"
+  },
+  {
+    "term": "rahat",
+    "translation": "comfortable",
+    "level": "B1"
+  },
+  {
+    "term": "rahatsız",
+    "translation": "uncomfortable",
+    "level": "B1"
+  },
+  {
+    "term": "kendine güvenen",
+    "translation": "confident",
+    "level": "B1"
+  },
+  {
+    "term": "kafası karışmış",
+    "translation": "confused",
+    "level": "B1"
+  },
+  {
+    "term": "şaşırmış",
+    "translation": "surprised",
+    "level": "B1"
+  },
+  {
+    "term": "şok olmuş",
+    "translation": "shocked",
+    "level": "B1"
+  },
+  {
+    "term": "gururlu",
+    "translation": "proud",
+    "level": "B1"
+  },
+  {
+    "term": "utanmış",
+    "translation": "embarrassed",
+    "level": "B1"
+  },
+  {
+    "term": "utanmış",
+    "translation": "ashamed",
+    "level": "B1"
+  },
+  {
+    "term": "kıskanç",
+    "translation": "jealous",
+    "level": "B1"
+  },
+  {
+    "term": "yalnız",
+    "translation": "lonely",
+    "level": "B1"
+  },
+  {
+    "term": "meraklı",
+    "translation": "curious",
+    "level": "B1"
+  },
+  {
+    "term": "ilgilenen",
+    "translation": "interested",
+    "level": "B1"
+  },
+  {
+    "term": "ilginç",
+    "translation": "interesting",
+    "level": "B1"
+  },
+  {
+    "term": "sıkıcı",
+    "translation": "boring",
+    "level": "B1"
+  },
+  {
+    "term": "komik",
+    "translation": "funny",
+    "level": "B1"
+  },
+  {
+    "term": "ciddi",
+    "translation": "serious",
+    "level": "B1"
+  },
+  {
+    "term": "garip",
+    "translation": "strange",
+    "level": "B1"
+  },
+  {
+    "term": "tuhaf",
+    "translation": "weird",
+    "level": "B1"
+  },
+  {
+    "term": "normal",
+    "translation": "normal",
+    "level": "B1"
+  },
+  {
+    "term": "olağan",
+    "translation": "usual",
+    "level": "B1"
+  },
+  {
+    "term": "olağandışı",
+    "translation": "unusual",
+    "level": "B1"
+  },
+  {
+    "term": "yaygın",
+    "translation": "common",
+    "level": "B1"
+  },
+  {
+    "term": "nadir",
+    "translation": "rare",
+    "level": "B1"
+  },
+  {
+    "term": "özel",
+    "translation": "special",
+    "level": "B1"
+  },
+  {
+    "term": "önemli",
+    "translation": "important",
+    "level": "B1"
+  },
+  {
+    "term": "gerekli",
+    "translation": "necessary",
+    "level": "B1"
+  },
+  {
+    "term": "yararlı",
+    "translation": "useful",
+    "level": "B1"
+  },
+  {
+    "term": "yararsız",
+    "translation": "useless",
+    "level": "B1"
+  },
+  {
+    "term": "yardımcı",
+    "translation": "helpful",
+    "level": "B1"
+  },
+  {
+    "term": "kolay",
+    "translation": "easy",
+    "level": "B1"
+  },
+  {
+    "term": "zor",
+    "translation": "difficult",
+    "level": "B1"
+  },
+  {
+    "term": "basit",
+    "translation": "simple",
+    "level": "B1"
+  },
+  {
+    "term": "karmaşık",
+    "translation": "complicated",
+    "level": "B1"
+  },
+  {
+    "term": "karmaşık",
+    "translation": "complex",
+    "level": "B1"
+  },
+  {
+    "term": "açık",
+    "translation": "obvious",
+    "level": "B1"
+  },
+  {
+    "term": "kesin",
+    "translation": "certain",
+    "level": "B1"
+  },
+  {
+    "term": "emin",
+    "translation": "sure",
+    "level": "B1"
+  },
+  {
+    "term": "mümkün",
+    "translation": "possible",
+    "level": "B1"
+  },
+  {
+    "term": "imkânsız",
+    "translation": "impossible",
+    "level": "B1"
+  },
+  {
+    "term": "muhtemel",
+    "translation": "likely",
+    "level": "B1"
+  },
+  {
+    "term": "pek olası değil",
+    "translation": "unlikely",
+    "level": "B1"
+  },
+  {
+    "term": "doğru",
+    "translation": "true",
+    "level": "B1"
+  },
+  {
+    "term": "yanlış",
+    "translation": "false",
+    "level": "B1"
+  },
+  {
+    "term": "doğru",
+    "translation": "correct",
+    "level": "B1"
+  },
+  {
+    "term": "yanlış",
+    "translation": "wrong",
+    "level": "B1"
+  },
+  {
+    "term": "doğru",
+    "translation": "right (correct)",
+    "level": "B1"
+  },
+  {
+    "term": "gerçek",
+    "translation": "real",
+    "level": "B1"
+  },
+  {
+    "term": "sahte",
+    "translation": "fake",
+    "level": "B1"
+  },
+  {
+    "term": "dolu",
+    "translation": "full",
+    "level": "B1"
+  },
+  {
+    "term": "boş",
+    "translation": "empty",
+    "level": "B1"
+  },
+  {
+    "term": "açık",
+    "translation": "open (adj)",
+    "level": "B1"
+  },
+  {
+    "term": "kapalı",
+    "translation": "closed",
+    "level": "B1"
+  },
+  {
+    "term": "kamusal",
+    "translation": "public",
+    "level": "B1"
+  },
+  {
+    "term": "özel",
+    "translation": "private",
+    "level": "B1"
+  },
+  {
+    "term": "kişisel",
+    "translation": "personal",
+    "level": "B1"
+  },
+  {
+    "term": "profesyonel",
+    "translation": "professional",
+    "level": "B1"
+  },
+  {
+    "term": "resmî",
+    "translation": "official",
+    "level": "B1"
+  },
+  {
+    "term": "yasal",
+    "translation": "legal",
+    "level": "B1"
+  },
+  {
+    "term": "yasadışı",
+    "translation": "illegal",
+    "level": "B1"
+  },
+  {
+    "term": "güvenli",
+    "translation": "safe",
+    "level": "B1"
+  },
+  {
+    "term": "tehlikeli",
+    "translation": "dangerous",
+    "level": "B1"
+  },
+  {
+    "term": "sağlıklı",
+    "translation": "healthy",
+    "level": "B1"
+  },
+  {
+    "term": "hasta",
+    "translation": "sick",
+    "level": "B1"
+  },
+  {
+    "term": "hasta",
+    "translation": "ill",
+    "level": "B1"
+  },
+  {
+    "term": "canlı",
+    "translation": "alive",
+    "level": "B1"
+  },
+  {
+    "term": "ölü",
+    "translation": "dead",
+    "level": "B1"
+  },
+  {
+    "term": "aktif",
+    "translation": "active",
+    "level": "B1"
+  },
+  {
+    "term": "tembel",
+    "translation": "lazy",
+    "level": "B1"
+  },
+  {
+    "term": "meşgul",
+    "translation": "busy",
+    "level": "B1"
+  },
+  {
+    "term": "müsait",
+    "translation": "free (available)",
+    "level": "B1"
+  },
+  {
+    "term": "mevcut",
+    "translation": "available",
+    "level": "B1"
+  },
+  {
+    "term": "hazır",
+    "translation": "ready",
+    "level": "B1"
+  },
+  {
+    "term": "hazırlanmış",
+    "translation": "prepared",
+    "level": "B1"
+  },
+  {
+    "term": "yorgun",
+    "translation": "tired (adj)",
+    "level": "B1"
+  },
+  {
+    "term": "uykulu",
+    "translation": "sleepy",
+    "level": "B1"
+  },
+  {
+    "term": "aç",
+    "translation": "hungry",
+    "level": "B1"
+  },
+  {
+    "term": "susamış",
+    "translation": "thirsty",
+    "level": "B1"
+  },
+  {
+    "term": "tok",
+    "translation": "full (food)",
+    "level": "B1"
+  },
+  {
+    "term": "lezzetli",
+    "translation": "delicious",
+    "level": "B1"
+  },
+  {
+    "term": "lezzetli",
+    "translation": "tasty",
+    "level": "B1"
+  },
+  {
+    "term": "tatlı",
+    "translation": "sweet",
+    "level": "B1"
+  },
+  {
+    "term": "ekşi",
+    "translation": "sour",
+    "level": "B1"
+  },
+  {
+    "term": "acı (tat)",
+    "translation": "bitter",
+    "level": "B1"
+  },
+  {
+    "term": "tuzlu",
+    "translation": "salty",
+    "level": "B1"
+  },
+  {
+    "term": "baharatlı",
+    "translation": "spicy",
+    "level": "B1"
+  },
+  {
+    "term": "çiğ",
+    "translation": "raw",
+    "level": "B1"
+  },
+  {
+    "term": "pişmiş",
+    "translation": "cooked",
+    "level": "B1"
+  },
+  {
+    "term": "taze",
+    "translation": "fresh (food)",
+    "level": "B1"
+  },
+  {
+    "term": "çürük",
+    "translation": "rotten",
+    "level": "B1"
+  },
+  {
+    "term": "dondurulmuş",
+    "translation": "frozen",
+    "level": "B1"
+  },
+  {
+    "term": "kocaman",
+    "translation": "huge",
+    "level": "B1"
+  },
+  {
+    "term": "minik",
+    "translation": "tiny",
+    "level": "B1"
+  },
+  {
+    "term": "dev",
+    "translation": "giant",
+    "level": "B1"
+  },
+  {
+    "term": "muazzam",
+    "translation": "enormous",
+    "level": "B1"
+  },
+  {
+    "term": "devasa",
+    "translation": "massive",
+    "level": "B1"
+  },
+  {
+    "term": "kısa",
+    "translation": "brief",
+    "level": "B1"
+  },
+  {
+    "term": "kademeli",
+    "translation": "gradual",
+    "level": "B1"
+  },
+  {
+    "term": "ani",
+    "translation": "sudden",
+    "level": "B1"
+  },
+  {
+    "term": "acil",
+    "translation": "immediate",
+    "level": "B1"
+  },
+  {
+    "term": "nihai",
+    "translation": "final",
+    "level": "B1"
+  },
+  {
+    "term": "başlangıçtaki",
+    "translation": "initial",
+    "level": "B1"
+  },
+  {
+    "term": "ana",
+    "translation": "main",
+    "level": "B1"
+  },
+  {
+    "term": "büyük",
+    "translation": "major",
+    "level": "B1"
+  },
+  {
+    "term": "küçük",
+    "translation": "minor",
+    "level": "B1"
+  },
+  {
+    "term": "temel",
+    "translation": "basic",
+    "level": "B1"
+  },
+  {
+    "term": "esas",
+    "translation": "essential",
+    "level": "B1"
+  },
+  {
+    "term": "ekstra",
+    "translation": "extra",
+    "level": "B1"
+  },
+  {
+    "term": "ek",
+    "translation": "additional",
+    "level": "B1"
+  },
+  {
+    "term": "özel",
+    "translation": "particular",
+    "level": "B1"
+  },
+  {
+    "term": "belirli",
+    "translation": "specific",
+    "level": "B1"
+  },
+  {
+    "term": "genel",
+    "translation": "general",
+    "level": "B1"
+  },
+  {
+    "term": "genel olarak",
+    "translation": "overall",
+    "level": "B1"
+  },
+  {
+    "term": "tüm",
+    "translation": "entire",
+    "level": "B1"
+  },
+  {
+    "term": "bütün",
+    "translation": "whole",
+    "level": "B1"
+  },
+  {
+    "term": "toplam",
+    "translation": "total",
+    "level": "B1"
+  },
+  {
+    "term": "ortalama",
+    "translation": "average",
+    "level": "B1"
+  },
+  {
+    "term": "tipik",
+    "translation": "typical",
+    "level": "B1"
+  },
+  {
+    "term": "standart",
+    "translation": "standard",
+    "level": "B1"
+  },
+  {
+    "term": "modern",
+    "translation": "modern",
+    "level": "B1"
+  },
+  {
+    "term": "geleneksel",
+    "translation": "traditional",
+    "level": "B1"
+  },
+  {
+    "term": "antik",
+    "translation": "ancient",
+    "level": "B1"
+  },
+  {
+    "term": "orijinal",
+    "translation": "original",
+    "level": "B1"
+  },
+  {
+    "term": "benzer",
+    "translation": "similar",
+    "level": "B1"
+  },
+  {
+    "term": "farklı",
+    "translation": "different (adj)",
+    "level": "B1"
+  },
+  {
+    "term": "eşit",
+    "translation": "equal",
+    "level": "B1"
+  },
+  {
+    "term": "zıt",
+    "translation": "opposite",
+    "level": "B1"
+  },
+  {
+    "term": "olumlu",
+    "translation": "positive",
+    "level": "B1"
+  },
+  {
+    "term": "olumsuz",
+    "translation": "negative",
+    "level": "B1"
+  },
+  {
+    "term": "iyimser",
+    "translation": "optimistic",
+    "level": "B1"
+  },
+  {
+    "term": "kötümser",
+    "translation": "pessimistic",
+    "level": "B1"
+  },
+  {
+    "term": "kibar",
+    "translation": "polite",
+    "level": "B1"
+  },
+  {
+    "term": "kaba",
+    "translation": "rude",
+    "level": "B1"
+  },
+  {
+    "term": "nazik",
+    "translation": "kind",
+    "level": "B1"
+  },
+  {
+    "term": "acımasız",
+    "translation": "cruel",
+    "level": "B1"
+  },
+  {
+    "term": "dürüst",
+    "translation": "honest",
+    "level": "B1"
+  },
+  {
+    "term": "dürüst olmayan",
+    "translation": "dishonest",
+    "level": "B1"
+  },
+  {
+    "term": "cömert",
+    "translation": "generous",
+    "level": "B1"
+  },
+  {
+    "term": "bencil",
+    "translation": "selfish",
+    "level": "B1"
+  },
+  {
+    "term": "sabırlı",
+    "translation": "patient (adj)",
+    "level": "B1"
+  },
+  {
+    "term": "sabırsız",
+    "translation": "impatient",
+    "level": "B1"
+  },
+  {
+    "term": "cesur",
+    "translation": "brave",
+    "level": "B1"
+  },
+  {
+    "term": "korkak",
+    "translation": "cowardly",
+    "level": "B1"
+  },
+  {
+    "term": "dikkatli",
+    "translation": "careful",
+    "level": "B1"
+  },
+  {
+    "term": "dikkatsiz",
+    "translation": "careless",
+    "level": "B1"
+  },
+  {
+    "term": "sorumlu",
+    "translation": "responsible",
+    "level": "B1"
+  },
+  {
+    "term": "güvenilir",
+    "translation": "reliable",
+    "level": "B1"
+  },
+  {
+    "term": "sadık",
+    "translation": "loyal",
+    "level": "B1"
+  },
+  {
+    "term": "arkadaş canlısı",
+    "translation": "friendly",
+    "level": "B1"
+  },
+  {
+    "term": "soğuk",
+    "translation": "unfriendly",
+    "level": "B1"
+  },
+  {
+    "term": "utangaç",
+    "translation": "shy",
+    "level": "B1"
+  },
+  {
+    "term": "dışa dönük",
+    "translation": "outgoing",
+    "level": "B1"
+  },
+  {
+    "term": "bağımsız",
+    "translation": "independent",
+    "level": "B1"
+  },
+  {
+    "term": "bağımlı",
+    "translation": "dependent",
+    "level": "B1"
+  },
+  {
+    "term": "olgun",
+    "translation": "mature",
+    "level": "B1"
+  },
+  {
+    "term": "çocukça",
+    "translation": "childish",
+    "level": "B1"
+  },
+  {
+    "term": "bilge",
+    "translation": "wise",
+    "level": "B1"
+  },
+  {
+    "term": "aptalca",
+    "translation": "foolish",
+    "level": "B1"
+  },
+  {
+    "term": "akıllı",
+    "translation": "smart",
+    "level": "B1"
+  },
+  {
+    "term": "zeki",
+    "translation": "intelligent",
+    "level": "B1"
+  },
+  {
+    "term": "zeki",
+    "translation": "clever",
+    "level": "B1"
+  },
+  {
+    "term": "aptal",
+    "translation": "stupid",
+    "level": "B1"
+  },
+  {
+    "term": "çılgın",
+    "translation": "crazy",
+    "level": "B1"
+  },
+  {
+    "term": "akıl sağlığı yerinde",
+    "translation": "sane",
+    "level": "B1"
+  },
+  {
+    "term": "yaratıcı",
+    "translation": "creative",
+    "level": "B1"
+  },
+  {
+    "term": "hayal gücü kuvvetli",
+    "translation": "imaginative",
+    "level": "B1"
+  },
+  {
+    "term": "sanatsal",
+    "translation": "artistic",
+    "level": "B1"
+  },
+  {
+    "term": "müzikal",
+    "translation": "musical",
+    "level": "B1"
+  },
+  {
+    "term": "atletik",
+    "translation": "athletic",
+    "level": "B1"
+  },
+  {
+    "term": "fiziksel",
+    "translation": "physical",
+    "level": "B1"
+  },
+  {
+    "term": "zihinsel",
+    "translation": "mental",
+    "level": "B1"
+  },
+  {
+    "term": "duygusal",
+    "translation": "emotional",
+    "level": "B1"
+  },
+  {
+    "term": "sosyal",
+    "translation": "social",
+    "level": "B1"
+  },
+  {
+    "term": "siyasi",
+    "translation": "political",
+    "level": "B1"
+  },
+  {
+    "term": "ekonomik",
+    "translation": "economic",
+    "level": "B1"
+  },
+  {
+    "term": "mali",
+    "translation": "financial",
+    "level": "B1"
+  },
+  {
+    "term": "çevresel",
+    "translation": "environmental",
+    "level": "B1"
+  },
+  {
+    "term": "küresel",
+    "translation": "global",
+    "level": "B1"
+  },
+  {
+    "term": "uluslararası",
+    "translation": "international",
+    "level": "B1"
+  },
+  {
+    "term": "ulusal",
+    "translation": "national",
+    "level": "B1"
+  },
+  {
+    "term": "yerel",
+    "translation": "local",
+    "level": "B1"
+  },
+  {
+    "term": "bölgesel",
+    "translation": "regional",
+    "level": "B1"
+  },
+  {
+    "term": "kentsel",
+    "translation": "urban",
+    "level": "B1"
+  },
+  {
+    "term": "kırsal",
+    "translation": "rural",
+    "level": "B1"
+  },
+  {
+    "term": "merkezi",
+    "translation": "central",
+    "level": "B1"
+  },
+  {
+    "term": "uzak",
+    "translation": "remote",
+    "level": "B1"
+  },
+  {
+    "term": "yakında",
+    "translation": "nearby",
+    "level": "B1"
+  },
+  {
+    "term": "yabancı",
+    "translation": "foreign",
+    "level": "B1"
+  },
+  {
+    "term": "yerli",
+    "translation": "domestic",
+    "level": "B1"
+  },
+  {
+    "term": "yerli",
+    "translation": "native",
+    "level": "B1"
+  },
+  {
+    "term": "kadim",
+    "translation": "ancient (old)",
+    "level": "B1"
+  },
+  {
+    "term": "son",
+    "translation": "recent",
+    "level": "B1"
+  },
+  {
+    "term": "şu anki",
+    "translation": "current",
+    "level": "B1"
+  },
+  {
+    "term": "geçmiş",
+    "translation": "past",
+    "level": "B1"
+  },
+  {
+    "term": "gelecek",
+    "translation": "future",
+    "level": "B1"
+  },
+  {
+    "term": "mevcut",
+    "translation": "present (adj)",
+    "level": "B1"
+  },
+  {
+    "term": "çok",
+    "translation": "very",
+    "level": "B1"
+  },
+  {
+    "term": "gerçekten",
+    "translation": "really",
+    "level": "B1"
+  },
+  {
+    "term": "oldukça",
+    "translation": "quite",
+    "level": "B1"
+  },
+  {
+    "term": "çok",
+    "translation": "too",
+    "level": "B1"
+  },
+  {
+    "term": "çok",
+    "translation": "so (adv)",
+    "level": "B1"
+  },
+  {
+    "term": "sadece",
+    "translation": "just",
+    "level": "B1"
+  },
+  {
+    "term": "sadece",
+    "translation": "only",
+    "level": "B1"
+  },
+  {
+    "term": "hatta",
+    "translation": "even",
+    "level": "B1"
+  },
+  {
+    "term": "neredeyse",
+    "translation": "almost",
+    "level": "B1"
+  },
+  {
+    "term": "neredeyse",
+    "translation": "nearly",
+    "level": "B1"
+  },
+  {
+    "term": "yeterince",
+    "translation": "enough",
+    "level": "B1"
+  },
+  {
+    "term": "son derece",
+    "translation": "extremely",
+    "level": "B1"
+  },
+  {
+    "term": "kesinlikle",
+    "translation": "absolutely",
+    "level": "B1"
+  },
+  {
+    "term": "tamamen",
+    "translation": "completely",
+    "level": "B1"
+  },
+  {
+    "term": "tamamen",
+    "translation": "totally",
+    "level": "B1"
+  },
+  {
+    "term": "tamamen",
+    "translation": "entirely",
+    "level": "B1"
+  },
+  {
+    "term": "tam olarak",
+    "translation": "fully",
+    "level": "B1"
+  },
+  {
+    "term": "kısmen",
+    "translation": "partly",
+    "level": "B1"
+  },
+  {
+    "term": "çoğunlukla",
+    "translation": "mostly",
+    "level": "B1"
+  },
+  {
+    "term": "esas olarak",
+    "translation": "mainly",
+    "level": "B1"
+  },
+  {
+    "term": "özellikle",
+    "translation": "especially",
+    "level": "B1"
+  },
+  {
+    "term": "özellikle",
+    "translation": "particularly",
+    "level": "B1"
+  },
+  {
+    "term": "genel olarak",
+    "translation": "generally",
+    "level": "B1"
+  },
+  {
+    "term": "genellikle",
+    "translation": "usually (adv)",
+    "level": "B1"
+  },
+  {
+    "term": "normalde",
+    "translation": "normally",
+    "level": "B1"
+  },
+  {
+    "term": "doğal olarak",
+    "translation": "naturally",
+    "level": "B1"
+  },
+  {
+    "term": "açıkça",
+    "translation": "obviously",
+    "level": "B1"
+  },
+  {
+    "term": "açıkça",
+    "translation": "clearly",
+    "level": "B1"
+  },
+  {
+    "term": "muhtemelen",
+    "translation": "probably",
+    "level": "B1"
+  },
+  {
+    "term": "belki",
+    "translation": "possibly",
+    "level": "B1"
+  },
+  {
+    "term": "belki",
+    "translation": "maybe",
+    "level": "B1"
+  },
+  {
+    "term": "belki",
+    "translation": "perhaps",
+    "level": "B1"
+  },
+  {
+    "term": "kesinlikle",
+    "translation": "certainly",
+    "level": "B1"
+  },
+  {
+    "term": "kesinlikle",
+    "translation": "definitely",
+    "level": "B1"
+  },
+  {
+    "term": "aslında",
+    "translation": "actually",
+    "level": "B1"
+  },
+  {
+    "term": "temelde",
+    "translation": "basically",
+    "level": "B1"
+  },
+  {
+    "term": "basitçe",
+    "translation": "simply",
+    "level": "B1"
+  },
+  {
+    "term": "sadece",
+    "translation": "merely",
+    "level": "B1"
+  },
+  {
+    "term": "tam olarak",
+    "translation": "exactly",
+    "level": "B1"
+  },
+  {
+    "term": "yaklaşık olarak",
+    "translation": "approximately",
+    "level": "B1"
+  },
+  {
+    "term": "kabaca",
+    "translation": "roughly",
+    "level": "B1"
+  },
+  {
+    "term": "doğrudan",
+    "translation": "directly",
+    "level": "B1"
+  },
+  {
+    "term": "dolaylı olarak",
+    "translation": "indirectly",
+    "level": "B1"
+  },
+  {
+    "term": "hemen",
+    "translation": "immediately",
+    "level": "B1"
+  },
+  {
+    "term": "anında",
+    "translation": "instantly",
+    "level": "B1"
+  },
+  {
+    "term": "aniden",
+    "translation": "suddenly",
+    "level": "B1"
+  },
+  {
+    "term": "kademeli olarak",
+    "translation": "gradually",
+    "level": "B1"
+  },
+  {
+    "term": "hızlıca",
+    "translation": "quickly",
+    "level": "B1"
+  },
+  {
+    "term": "yavaşça",
+    "translation": "slowly",
+    "level": "B1"
+  },
+  {
+    "term": "kolayca",
+    "translation": "easily",
+    "level": "B1"
+  },
+  {
+    "term": "hemen hemen hiç",
+    "translation": "hardly",
+    "level": "B1"
+  },
+  {
+    "term": "zar zor",
+    "translation": "barely",
+    "level": "B1"
+  },
+  {
+    "term": "dikkatlice",
+    "translation": "carefully",
+    "level": "B1"
+  },
+  {
+    "term": "dikkatsizce",
+    "translation": "carelessly",
+    "level": "B1"
+  },
+  {
+    "term": "ciddi bir şekilde",
+    "translation": "seriously",
+    "level": "B1"
+  },
+  {
+    "term": "dürüstçe",
+    "translation": "honestly",
+    "level": "B1"
+  },
+  {
+    "term": "gerçekten",
+    "translation": "truly",
+    "level": "B1"
+  },
+  {
+    "term": "içtenlikle",
+    "translation": "sincerely",
+    "level": "B1"
+  },
+  {
+    "term": "kişisel olarak",
+    "translation": "personally",
+    "level": "B1"
+  },
+  {
+    "term": "açıkçası",
+    "translation": "frankly",
+    "level": "B1"
+  },
+  {
+    "term": "sonunda",
+    "translation": "finally",
+    "level": "B1"
+  },
+  {
+    "term": "sonunda",
+    "translation": "eventually",
+    "level": "B1"
+  },
+  {
+    "term": "nihayetinde",
+    "translation": "ultimately",
+    "level": "B1"
+  },
+  {
+    "term": "son zamanlarda",
+    "translation": "recently",
+    "level": "B1"
+  },
+  {
+    "term": "son zamanlarda",
+    "translation": "lately",
+    "level": "B1"
+  },
+  {
+    "term": "şu anda",
+    "translation": "currently",
+    "level": "B1"
+  },
+  {
+    "term": "daha önce",
+    "translation": "previously",
+    "level": "B1"
+  },
+  {
+    "term": "başlangıçta",
+    "translation": "originally",
+    "level": "B1"
+  },
+  {
+    "term": "başlangıçta",
+    "translation": "initially",
+    "level": "B1"
+  },
+  {
+    "term": "sürekli",
+    "translation": "constantly",
+    "level": "B1"
+  },
+  {
+    "term": "sürekli olarak",
+    "translation": "continuously",
+    "level": "B1"
+  },
+  {
+    "term": "düzenli olarak",
+    "translation": "regularly",
+    "level": "B1"
+  },
+  {
+    "term": "sık sık",
+    "translation": "frequently",
+    "level": "B1"
+  },
+  {
+    "term": "ara sıra",
+    "translation": "occasionally",
+    "level": "B1"
+  },
+  {
+    "term": "geçici olarak",
+    "translation": "temporarily",
+    "level": "B1"
+  },
+  {
+    "term": "kalıcı olarak",
+    "translation": "permanently",
+    "level": "B1"
+  },
+  {
+    "term": "sonsuza dek",
+    "translation": "forever",
+    "level": "B1"
+  },
+  {
+    "term": "birlikte",
+    "translation": "together",
+    "level": "B1"
+  },
+  {
+    "term": "ayrı",
+    "translation": "apart",
+    "level": "B1"
+  },
+  {
+    "term": "yalnız",
+    "translation": "alone",
+    "level": "B1"
+  },
+  {
+    "term": "beraberinde",
+    "translation": "along (adv)",
+    "level": "B1"
+  },
+  {
+    "term": "burada",
+    "translation": "here",
+    "level": "B1"
+  },
+  {
+    "term": "orada",
+    "translation": "there",
+    "level": "B1"
+  },
+  {
+    "term": "her yerde",
+    "translation": "everywhere",
+    "level": "B1"
+  },
+  {
+    "term": "bir yerde",
+    "translation": "somewhere",
+    "level": "B1"
+  },
+  {
+    "term": "herhangi bir yerde",
+    "translation": "anywhere",
+    "level": "B1"
+  },
+  {
+    "term": "hiçbir yerde",
+    "translation": "nowhere",
+    "level": "B1"
+  },
+  {
+    "term": "üst kat",
+    "translation": "upstairs",
+    "level": "B1"
+  },
+  {
+    "term": "alt kat",
+    "translation": "downstairs",
+    "level": "B1"
+  },
+  {
+    "term": "içeride",
+    "translation": "indoors",
+    "level": "B1"
+  },
+  {
+    "term": "dışarıda",
+    "translation": "outdoors",
+    "level": "B1"
+  },
+  {
+    "term": "ileri",
+    "translation": "forward",
+    "level": "B2"
+  },
+  {
+    "term": "geriye",
+    "translation": "backward",
+    "level": "B2"
+  },
+  {
+    "term": "yana doğru",
+    "translation": "sideways",
+    "level": "B2"
+  },
+  {
+    "term": "ileride",
+    "translation": "ahead",
+    "level": "B2"
+  },
+  {
+    "term": "geri",
+    "translation": "back (adv)",
+    "level": "B2"
+  },
+  {
+    "term": "uzağa",
+    "translation": "away",
+    "level": "B2"
+  },
+  {
+    "term": "eve",
+    "translation": "home (adv)",
+    "level": "B2"
+  },
+  {
+    "term": "yurt dışında",
+    "translation": "abroad",
+    "level": "B2"
+  },
+  {
+    "term": "bir şekilde",
+    "translation": "somehow",
+    "level": "B2"
+  },
+  {
+    "term": "ancak",
+    "translation": "however",
+    "level": "B2"
+  },
+  {
+    "term": "bu nedenle",
+    "translation": "therefore",
+    "level": "B2"
+  },
+  {
+    "term": "böylece",
+    "translation": "thus",
+    "level": "B2"
+  },
+  {
+    "term": "dahası",
+    "translation": "moreover",
+    "level": "B2"
+  },
+  {
+    "term": "ayrıca",
+    "translation": "furthermore",
+    "level": "B2"
+  },
+  {
+    "term": "yine de",
+    "translation": "nevertheless",
+    "level": "B2"
+  },
+  {
+    "term": "buna rağmen",
+    "translation": "nonetheless",
+    "level": "B2"
+  },
+  {
+    "term": "aksi takdirde",
+    "translation": "otherwise",
+    "level": "B2"
+  },
+  {
+    "term": "bunun yerine",
+    "translation": "instead",
+    "level": "B2"
+  },
+  {
+    "term": "ayrıca",
+    "translation": "besides",
+    "level": "B2"
+  },
+  {
+    "term": "tamamen",
+    "translation": "altogether",
+    "level": "B2"
+  },
+  {
+    "term": "her neyse",
+    "translation": "anyway",
+    "level": "B2"
+  },
+  {
+    "term": "gerçekten",
+    "translation": "indeed",
+    "level": "B2"
+  },
+  {
+    "term": "evet",
+    "translation": "yes",
+    "level": "B2"
+  },
+  {
+    "term": "lütfen",
+    "translation": "please",
+    "level": "B2"
+  },
+  {
+    "term": "özür dilerim",
+    "translation": "sorry",
+    "level": "B2"
+  },
+  {
+    "term": "teşekkürler",
+    "translation": "thanks",
+    "level": "B2"
+  },
+  {
+    "term": "hoş geldiniz",
+    "translation": "welcome",
+    "level": "B2"
+  },
+  {
+    "term": "affetmek",
+    "translation": "excuse",
+    "level": "B2"
+  },
+  {
+    "term": "tamam",
+    "translation": "okay",
+    "level": "B2"
+  },
+  {
+    "term": "tamam",
+    "translation": "alright",
+    "level": "B2"
+  },
+  {
+    "term": "tabii",
+    "translation": "sure (interjection)",
+    "level": "B2"
+  },
+  {
+    "term": "değişim",
+    "translation": "change (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "gelişim",
+    "translation": "development",
+    "level": "B2"
+  },
+  {
+    "term": "büyüme",
+    "translation": "growth",
+    "level": "B2"
+  },
+  {
+    "term": "ilerleme",
+    "translation": "progress",
+    "level": "B2"
+  },
+  {
+    "term": "iyileşme",
+    "translation": "improvement",
+    "level": "B2"
+  },
+  {
+    "term": "artış",
+    "translation": "increase (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "azalış",
+    "translation": "decrease",
+    "level": "B2"
+  },
+  {
+    "term": "düşüş",
+    "translation": "decline",
+    "level": "B2"
+  },
+  {
+    "term": "başarı",
+    "translation": "success",
+    "level": "B2"
+  },
+  {
+    "term": "başarısızlık",
+    "translation": "failure",
+    "level": "B2"
+  },
+  {
+    "term": "başarı",
+    "translation": "achievement",
+    "level": "B2"
+  },
+  {
+    "term": "zorluk",
+    "translation": "challenge",
+    "level": "B2"
+  },
+  {
+    "term": "fırsat",
+    "translation": "opportunity",
+    "level": "B2"
+  },
+  {
+    "term": "şans",
+    "translation": "chance",
+    "level": "B2"
+  },
+  {
+    "term": "olasılık",
+    "translation": "possibility",
+    "level": "B2"
+  },
+  {
+    "term": "seçim",
+    "translation": "choice",
+    "level": "B2"
+  },
+  {
+    "term": "karar",
+    "translation": "decision",
+    "level": "B2"
+  },
+  {
+    "term": "seçenek",
+    "translation": "option",
+    "level": "B2"
+  },
+  {
+    "term": "alternatif",
+    "translation": "alternative",
+    "level": "B2"
+  },
+  {
+    "term": "durum",
+    "translation": "situation",
+    "level": "B2"
+  },
+  {
+    "term": "koşul",
+    "translation": "condition",
+    "level": "B2"
+  },
+  {
+    "term": "koşul",
+    "translation": "circumstance",
+    "level": "B2"
+  },
+  {
+    "term": "bağlam",
+    "translation": "context",
+    "level": "B2"
+  },
+  {
+    "term": "çevre",
+    "translation": "environment",
+    "level": "B2"
+  },
+  {
+    "term": "atmosfer",
+    "translation": "atmosphere",
+    "level": "B2"
+  },
+  {
+    "term": "çevre",
+    "translation": "surrounding",
+    "level": "B2"
+  },
+  {
+    "term": "alan",
+    "translation": "area",
+    "level": "B2"
+  },
+  {
+    "term": "uzay",
+    "translation": "space",
+    "level": "B2"
+  },
+  {
+    "term": "yer",
+    "translation": "place",
+    "level": "B2"
+  },
+  {
+    "term": "konum",
+    "translation": "location",
+    "level": "B2"
+  },
+  {
+    "term": "pozisyon",
+    "translation": "position",
+    "level": "B2"
+  },
+  {
+    "term": "yön",
+    "translation": "direction (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "seviye",
+    "translation": "level",
+    "level": "B2"
+  },
+  {
+    "term": "aşama",
+    "translation": "stage",
+    "level": "B2"
+  },
+  {
+    "term": "adım",
+    "translation": "step",
+    "level": "B2"
+  },
+  {
+    "term": "evre",
+    "translation": "phase",
+    "level": "B2"
+  },
+  {
+    "term": "parça",
+    "translation": "part",
+    "level": "B2"
+  },
+  {
+    "term": "parça",
+    "translation": "piece",
+    "level": "B2"
+  },
+  {
+    "term": "bölüm",
+    "translation": "section",
+    "level": "B2"
+  },
+  {
+    "term": "kısım",
+    "translation": "portion",
+    "level": "B2"
+  },
+  {
+    "term": "yarı",
+    "translation": "half (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "bütün",
+    "translation": "whole (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "birim",
+    "translation": "unit",
+    "level": "B2"
+  },
+  {
+    "term": "unsur",
+    "translation": "element",
+    "level": "B2"
+  },
+  {
+    "term": "faktör",
+    "translation": "factor",
+    "level": "B2"
+  },
+  {
+    "term": "yön",
+    "translation": "aspect",
+    "level": "B2"
+  },
+  {
+    "term": "özellik",
+    "translation": "feature",
+    "level": "B2"
+  },
+  {
+    "term": "kalite",
+    "translation": "quality",
+    "level": "B2"
+  },
+  {
+    "term": "miktar",
+    "translation": "quantity",
+    "level": "B2"
+  },
+  {
+    "term": "miktar",
+    "translation": "amount",
+    "level": "B2"
+  },
+  {
+    "term": "sayı",
+    "translation": "number",
+    "level": "B2"
+  },
+  {
+    "term": "rakam",
+    "translation": "figure",
+    "level": "B2"
+  },
+  {
+    "term": "yüzde",
+    "translation": "percentage",
+    "level": "B2"
+  },
+  {
+    "term": "oran",
+    "translation": "rate",
+    "level": "B2"
+  },
+  {
+    "term": "oran",
+    "translation": "ratio",
+    "level": "B2"
+  },
+  {
+    "term": "ölçek",
+    "translation": "scale",
+    "level": "B2"
+  },
+  {
+    "term": "ölçü",
+    "translation": "measure (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "standart",
+    "translation": "standard (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "gereklilik",
+    "translation": "requirement",
+    "level": "B2"
+  },
+  {
+    "term": "şart",
+    "translation": "condition (requirement)",
+    "level": "B2"
+  },
+  {
+    "term": "terim",
+    "translation": "term",
+    "level": "B2"
+  },
+  {
+    "term": "anlaşma",
+    "translation": "agreement",
+    "level": "B2"
+  },
+  {
+    "term": "sözleşme",
+    "translation": "contract",
+    "level": "B2"
+  },
+  {
+    "term": "anlaşma",
+    "translation": "deal (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "söz",
+    "translation": "promise (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "taahhüt",
+    "translation": "commitment",
+    "level": "B2"
+  },
+  {
+    "term": "sorumluluk",
+    "translation": "responsibility",
+    "level": "B2"
+  },
+  {
+    "term": "görev",
+    "translation": "duty",
+    "level": "B2"
+  },
+  {
+    "term": "görev",
+    "translation": "task",
+    "level": "B2"
+  },
+  {
+    "term": "iş",
+    "translation": "job",
+    "level": "B2"
+  },
+  {
+    "term": "kariyer",
+    "translation": "career",
+    "level": "B2"
+  },
+  {
+    "term": "meslek",
+    "translation": "profession",
+    "level": "B2"
+  },
+  {
+    "term": "meslek",
+    "translation": "occupation",
+    "level": "B2"
+  },
+  {
+    "term": "rol",
+    "translation": "role",
+    "level": "B2"
+  },
+  {
+    "term": "pozisyon",
+    "translation": "position (job)",
+    "level": "B2"
+  },
+  {
+    "term": "unvan",
+    "translation": "title",
+    "level": "B2"
+  },
+  {
+    "term": "rütbe",
+    "translation": "rank",
+    "level": "B2"
+  },
+  {
+    "term": "statü",
+    "translation": "status",
+    "level": "B2"
+  },
+  {
+    "term": "itibar",
+    "translation": "reputation",
+    "level": "B2"
+  },
+  {
+    "term": "imaj",
+    "translation": "image (reputation)",
+    "level": "B2"
+  },
+  {
+    "term": "kimlik",
+    "translation": "identity",
+    "level": "B2"
+  },
+  {
+    "term": "karakter",
+    "translation": "character",
+    "level": "B2"
+  },
+  {
+    "term": "kişilik",
+    "translation": "personality",
+    "level": "B2"
+  },
+  {
+    "term": "davranış",
+    "translation": "behavior",
+    "level": "B2"
+  },
+  {
+    "term": "tutum",
+    "translation": "attitude",
+    "level": "B2"
+  },
+  {
+    "term": "alışkanlık",
+    "translation": "habit",
+    "level": "B2"
+  },
+  {
+    "term": "âdet",
+    "translation": "custom",
+    "level": "B2"
+  },
+  {
+    "term": "gelenek",
+    "translation": "tradition (custom)",
+    "level": "B2"
+  },
+  {
+    "term": "inanç",
+    "translation": "belief",
+    "level": "B2"
+  },
+  {
+    "term": "inanç",
+    "translation": "faith",
+    "level": "B2"
+  },
+  {
+    "term": "din",
+    "translation": "religion",
+    "level": "B2"
+  },
+  {
+    "term": "değer",
+    "translation": "value (belief)",
+    "level": "B2"
+  },
+  {
+    "term": "ilke",
+    "translation": "principle",
+    "level": "B2"
+  },
+  {
+    "term": "etik",
+    "translation": "ethic",
+    "level": "B2"
+  },
+  {
+    "term": "ahlaki",
+    "translation": "moral",
+    "level": "B2"
+  },
+  {
+    "term": "felsefe",
+    "translation": "philosophy",
+    "level": "B2"
+  },
+  {
+    "term": "teori",
+    "translation": "theory",
+    "level": "B2"
+  },
+  {
+    "term": "kavram",
+    "translation": "concept",
+    "level": "B2"
+  },
+  {
+    "term": "kavram",
+    "translation": "notion",
+    "level": "B2"
+  },
+  {
+    "term": "bakış açısı",
+    "translation": "perspective",
+    "level": "B2"
+  },
+  {
+    "term": "görüş açısı",
+    "translation": "viewpoint",
+    "level": "B2"
+  },
+  {
+    "term": "görüş",
+    "translation": "attitude (opinion)",
+    "level": "B2"
+  },
+  {
+    "term": "yaklaşım",
+    "translation": "approach",
+    "level": "B2"
+  },
+  {
+    "term": "strateji",
+    "translation": "strategy",
+    "level": "B2"
+  },
+  {
+    "term": "teknik",
+    "translation": "technique",
+    "level": "B2"
+  },
+  {
+    "term": "taktik",
+    "translation": "tactic",
+    "level": "B2"
+  },
+  {
+    "term": "alet",
+    "translation": "tool",
+    "level": "B2"
+  },
+  {
+    "term": "araç",
+    "translation": "instrument",
+    "level": "B2"
+  },
+  {
+    "term": "cihaz",
+    "translation": "device",
+    "level": "B2"
+  },
+  {
+    "term": "ekipman",
+    "translation": "equipment",
+    "level": "B2"
+  },
+  {
+    "term": "makine",
+    "translation": "machine",
+    "level": "B2"
+  },
+  {
+    "term": "motor",
+    "translation": "engine",
+    "level": "B2"
+  },
+  {
+    "term": "malzeme",
+    "translation": "material",
+    "level": "B2"
+  },
+  {
+    "term": "madde",
+    "translation": "substance",
+    "level": "B2"
+  },
+  {
+    "term": "sıvı",
+    "translation": "liquid",
+    "level": "B2"
+  },
+  {
+    "term": "katı",
+    "translation": "solid",
+    "level": "B2"
+  },
+  {
+    "term": "gaz",
+    "translation": "gas",
+    "level": "B2"
+  },
+  {
+    "term": "metal",
+    "translation": "metal",
+    "level": "B2"
+  },
+  {
+    "term": "plastik",
+    "translation": "plastic",
+    "level": "B2"
+  },
+  {
+    "term": "cam",
+    "translation": "glass (material)",
+    "level": "B2"
+  },
+  {
+    "term": "kağıt",
+    "translation": "paper",
+    "level": "B2"
+  },
+  {
+    "term": "kumaş",
+    "translation": "cloth",
+    "level": "B2"
+  },
+  {
+    "term": "kumaş",
+    "translation": "fabric",
+    "level": "B2"
+  },
+  {
+    "term": "deri",
+    "translation": "leather",
+    "level": "B2"
+  },
+  {
+    "term": "kauçuk",
+    "translation": "rubber",
+    "level": "B2"
+  },
+  {
+    "term": "kimyasal",
+    "translation": "chemical",
+    "level": "B2"
+  },
+  {
+    "term": "enerji",
+    "translation": "energy (physics)",
+    "level": "B2"
+  },
+  {
+    "term": "güç",
+    "translation": "power",
+    "level": "B2"
+  },
+  {
+    "term": "elektrik",
+    "translation": "electricity",
+    "level": "B2"
+  },
+  {
+    "term": "yakıt gazı",
+    "translation": "gas (fuel)",
+    "level": "B2"
+  },
+  {
+    "term": "yakıt",
+    "translation": "fuel",
+    "level": "B2"
+  },
+  {
+    "term": "pil",
+    "translation": "battery (device)",
+    "level": "B2"
+  },
+  {
+    "term": "sinyal",
+    "translation": "signal",
+    "level": "B2"
+  },
+  {
+    "term": "dalga",
+    "translation": "wave (physics)",
+    "level": "B2"
+  },
+  {
+    "term": "ses",
+    "translation": "sound (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "ışık",
+    "translation": "light (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "ısı",
+    "translation": "heat",
+    "level": "B2"
+  },
+  {
+    "term": "basınç",
+    "translation": "pressure",
+    "level": "B2"
+  },
+  {
+    "term": "kuvvet",
+    "translation": "force (physics)",
+    "level": "B2"
+  },
+  {
+    "term": "yerçekimi",
+    "translation": "gravity",
+    "level": "B2"
+  },
+  {
+    "term": "bilim",
+    "translation": "science",
+    "level": "B2"
+  },
+  {
+    "term": "araştırma",
+    "translation": "research",
+    "level": "B2"
+  },
+  {
+    "term": "deney",
+    "translation": "experiment",
+    "level": "B2"
+  },
+  {
+    "term": "keşif",
+    "translation": "discovery",
+    "level": "B2"
+  },
+  {
+    "term": "icat",
+    "translation": "invention",
+    "level": "B2"
+  },
+  {
+    "term": "teknoloji",
+    "translation": "technology (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "yenilik",
+    "translation": "innovation",
+    "level": "B2"
+  },
+  {
+    "term": "proje",
+    "translation": "project",
+    "level": "B2"
+  },
+  {
+    "term": "iş",
+    "translation": "task (project)",
+    "level": "B2"
+  },
+  {
+    "term": "görev",
+    "translation": "mission",
+    "level": "B2"
+  },
+  {
+    "term": "hedef",
+    "translation": "target",
+    "level": "B2"
+  },
+  {
+    "term": "amaç",
+    "translation": "objective",
+    "level": "B2"
+  },
+  {
+    "term": "sonuç",
+    "translation": "outcome",
+    "level": "B2"
+  },
+  {
+    "term": "sonuç",
+    "translation": "consequence",
+    "level": "B2"
+  },
+  {
+    "term": "etki",
+    "translation": "impact",
+    "level": "B2"
+  },
+  {
+    "term": "etki",
+    "translation": "influence (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "etki",
+    "translation": "effect (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "fayda",
+    "translation": "benefit",
+    "level": "B2"
+  },
+  {
+    "term": "avantaj",
+    "translation": "advantage",
+    "level": "B2"
+  },
+  {
+    "term": "dezavantaj",
+    "translation": "disadvantage",
+    "level": "B2"
+  },
+  {
+    "term": "sakınca",
+    "translation": "drawback",
+    "level": "B2"
+  },
+  {
+    "term": "güçlü yön",
+    "translation": "strength (quality)",
+    "level": "B2"
+  },
+  {
+    "term": "zayıf yön",
+    "translation": "weakness (quality)",
+    "level": "B2"
+  },
+  {
+    "term": "sınırlama",
+    "translation": "limitation",
+    "level": "B2"
+  },
+  {
+    "term": "kısıtlama",
+    "translation": "restriction",
+    "level": "B2"
+  },
+  {
+    "term": "engel",
+    "translation": "barrier",
+    "level": "B2"
+  },
+  {
+    "term": "engel",
+    "translation": "obstacle",
+    "level": "B2"
+  },
+  {
+    "term": "zorluk",
+    "translation": "difficulty",
+    "level": "B2"
+  },
+  {
+    "term": "sorun",
+    "translation": "trouble",
+    "level": "B2"
+  },
+  {
+    "term": "endişe",
+    "translation": "concern (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "endişe",
+    "translation": "worry (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "korku",
+    "translation": "fear",
+    "level": "B2"
+  },
+  {
+    "term": "umut",
+    "translation": "hope (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "rüya",
+    "translation": "dream",
+    "level": "B2"
+  },
+  {
+    "term": "dilek",
+    "translation": "wish",
+    "level": "B2"
+  },
+  {
+    "term": "arzu",
+    "translation": "desire",
+    "level": "B2"
+  },
+  {
+    "term": "hırs",
+    "translation": "ambition",
+    "level": "B2"
+  },
+  {
+    "term": "motivasyon",
+    "translation": "motivation",
+    "level": "B2"
+  },
+  {
+    "term": "ilham",
+    "translation": "inspiration",
+    "level": "B2"
+  },
+  {
+    "term": "tutku",
+    "translation": "passion",
+    "level": "B2"
+  },
+  {
+    "term": "coşku",
+    "translation": "enthusiasm",
+    "level": "B2"
+  },
+  {
+    "term": "cesaret",
+    "translation": "courage",
+    "level": "B2"
+  },
+  {
+    "term": "güven",
+    "translation": "confidence",
+    "level": "B2"
+  },
+  {
+    "term": "güven",
+    "translation": "trust (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "saygı",
+    "translation": "respect",
+    "level": "B2"
+  },
+  {
+    "term": "hayranlık",
+    "translation": "admiration",
+    "level": "B2"
+  },
+  {
+    "term": "takdir",
+    "translation": "appreciation",
+    "level": "B2"
+  },
+  {
+    "term": "minnettarlık",
+    "translation": "gratitude",
+    "level": "B2"
+  },
+  {
+    "term": "sempati",
+    "translation": "sympathy",
+    "level": "B2"
+  },
+  {
+    "term": "şefkat",
+    "translation": "compassion",
+    "level": "B2"
+  },
+  {
+    "term": "nezaket",
+    "translation": "kindness",
+    "level": "B2"
+  },
+  {
+    "term": "cömertlik",
+    "translation": "generosity",
+    "level": "B2"
+  },
+  {
+    "term": "sabır",
+    "translation": "patience",
+    "level": "B2"
+  },
+  {
+    "term": "hoşgörü",
+    "translation": "tolerance",
+    "level": "B2"
+  },
+  {
+    "term": "anlayış",
+    "translation": "understanding (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "iş birliği",
+    "translation": "cooperation",
+    "level": "B2"
+  },
+  {
+    "term": "iş birliği",
+    "translation": "collaboration",
+    "level": "B2"
+  },
+  {
+    "term": "ortaklık",
+    "translation": "partnership",
+    "level": "B2"
+  },
+  {
+    "term": "ilişki",
+    "translation": "relationship",
+    "level": "B2"
+  },
+  {
+    "term": "bağlantı",
+    "translation": "connection",
+    "level": "B2"
+  },
+  {
+    "term": "bağ",
+    "translation": "bond",
+    "level": "B2"
+  },
+  {
+    "term": "temas",
+    "translation": "contact",
+    "level": "B2"
+  },
+  {
+    "term": "iletişim",
+    "translation": "communication (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "etkileşim",
+    "translation": "interaction",
+    "level": "B2"
+  },
+  {
+    "term": "çatışma",
+    "translation": "conflict",
+    "level": "B2"
+  },
+  {
+    "term": "anlaşmazlık",
+    "translation": "dispute",
+    "level": "B2"
+  },
+  {
+    "term": "tartışma",
+    "translation": "argument",
+    "level": "B2"
+  },
+  {
+    "term": "anlaşmazlık",
+    "translation": "disagreement",
+    "level": "B2"
+  },
+  {
+    "term": "müzakere",
+    "translation": "negotiation",
+    "level": "B2"
+  },
+  {
+    "term": "uzlaşma",
+    "translation": "compromise",
+    "level": "B2"
+  },
+  {
+    "term": "çözüm",
+    "translation": "solution (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "çözüm",
+    "translation": "resolution",
+    "level": "B2"
+  },
+  {
+    "term": "barış",
+    "translation": "peace (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "uyum",
+    "translation": "harmony",
+    "level": "B2"
+  },
+  {
+    "term": "denge",
+    "translation": "balance",
+    "level": "B2"
+  },
+  {
+    "term": "istikrar",
+    "translation": "stability",
+    "level": "B2"
+  },
+  {
+    "term": "güvenlik",
+    "translation": "security (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "özgürlük",
+    "translation": "freedom (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "bağımsızlık",
+    "translation": "independence",
+    "level": "B2"
+  },
+  {
+    "term": "eşitlik",
+    "translation": "equality",
+    "level": "B2"
+  },
+  {
+    "term": "çeşitlilik",
+    "translation": "diversity",
+    "level": "B2"
+  },
+  {
+    "term": "birlik",
+    "translation": "unity",
+    "level": "B2"
+  },
+  {
+    "term": "toplum",
+    "translation": "community",
+    "level": "B2"
+  },
+  {
+    "term": "toplum",
+    "translation": "society",
+    "level": "B2"
+  },
+  {
+    "term": "nüfus",
+    "translation": "population",
+    "level": "B2"
+  },
+  {
+    "term": "nesil",
+    "translation": "generation",
+    "level": "B2"
+  },
+  {
+    "term": "ata",
+    "translation": "ancestor",
+    "level": "B2"
+  },
+  {
+    "term": "torun",
+    "translation": "descendant",
+    "level": "B2"
+  },
+  {
+    "term": "kabile",
+    "translation": "tribe",
+    "level": "B2"
+  },
+  {
+    "term": "ırk",
+    "translation": "race (ethnicity)",
+    "level": "B2"
+  },
+  {
+    "term": "etnik köken",
+    "translation": "ethnicity",
+    "level": "B2"
+  },
+  {
+    "term": "milliyet",
+    "translation": "nationality",
+    "level": "B2"
+  },
+  {
+    "term": "vatandaşlık",
+    "translation": "citizenship",
+    "level": "B2"
+  },
+  {
+    "term": "kimlik",
+    "translation": "identity (self)",
+    "level": "B2"
+  },
+  {
+    "term": "cinsiyet",
+    "translation": "gender",
+    "level": "B2"
+  },
+  {
+    "term": "cinsiyet",
+    "translation": "sex",
+    "level": "B2"
+  },
+  {
+    "term": "rol",
+    "translation": "role (social)",
+    "level": "B2"
+  },
+  {
+    "term": "sınıf",
+    "translation": "class (social)",
+    "level": "B2"
+  },
+  {
+    "term": "rütbe",
+    "translation": "rank (social)",
+    "level": "B2"
+  },
+  {
+    "term": "hiyerarşi",
+    "translation": "hierarchy",
+    "level": "B2"
+  },
+  {
+    "term": "otorite",
+    "translation": "authority",
+    "level": "B2"
+  },
+  {
+    "term": "iktidar",
+    "translation": "power (authority)",
+    "level": "B2"
+  },
+  {
+    "term": "kontrol",
+    "translation": "control (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "etki",
+    "translation": "influence (power)",
+    "level": "B2"
+  },
+  {
+    "term": "liderlik",
+    "translation": "leadership",
+    "level": "B2"
+  },
+  {
+    "term": "yönetim",
+    "translation": "management",
+    "level": "B2"
+  },
+  {
+    "term": "yönetim",
+    "translation": "administration",
+    "level": "B2"
+  },
+  {
+    "term": "organizasyon",
+    "translation": "organization",
+    "level": "B2"
+  },
+  {
+    "term": "kurum",
+    "translation": "institution",
+    "level": "B2"
+  },
+  {
+    "term": "dernek",
+    "translation": "association",
+    "level": "B2"
+  },
+  {
+    "term": "komite",
+    "translation": "committee",
+    "level": "B2"
+  },
+  {
+    "term": "konsey",
+    "translation": "council",
+    "level": "B2"
+  },
+  {
+    "term": "yönetim kurulu",
+    "translation": "board",
+    "level": "B2"
+  },
+  {
+    "term": "departman",
+    "translation": "department",
+    "level": "B2"
+  },
+  {
+    "term": "bölüm",
+    "translation": "division",
+    "level": "B2"
+  },
+  {
+    "term": "şube",
+    "translation": "branch (organization)",
+    "level": "B2"
+  },
+  {
+    "term": "genel merkez",
+    "translation": "headquarters",
+    "level": "B2"
+  },
+  {
+    "term": "personel",
+    "translation": "staff",
+    "level": "B2"
+  },
+  {
+    "term": "ekip",
+    "translation": "crew",
+    "level": "B2"
+  },
+  {
+    "term": "gönüllü",
+    "translation": "volunteer",
+    "level": "B2"
+  },
+  {
+    "term": "katılımcı",
+    "translation": "participant",
+    "level": "B2"
+  },
+  {
+    "term": "başvuran",
+    "translation": "applicant",
+    "level": "B2"
+  },
+  {
+    "term": "aday",
+    "translation": "candidate",
+    "level": "B2"
+  },
+  {
+    "term": "mülakat",
+    "translation": "interview",
+    "level": "B2"
+  },
+  {
+    "term": "toplantı",
+    "translation": "meeting",
+    "level": "B2"
+  },
+  {
+    "term": "konferans",
+    "translation": "conference",
+    "level": "B2"
+  },
+  {
+    "term": "seminer",
+    "translation": "seminar",
+    "level": "B2"
+  },
+  {
+    "term": "çalıştay",
+    "translation": "workshop",
+    "level": "B2"
+  },
+  {
+    "term": "sunum",
+    "translation": "presentation",
+    "level": "B2"
+  },
+  {
+    "term": "teklif",
+    "translation": "proposal",
+    "level": "B2"
+  },
+  {
+    "term": "bütçe",
+    "translation": "budget (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "rapor",
+    "translation": "report (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "belge",
+    "translation": "document",
+    "level": "B2"
+  },
+  {
+    "term": "form",
+    "translation": "form (document)",
+    "level": "B2"
+  },
+  {
+    "term": "başvuru",
+    "translation": "application (document)",
+    "level": "B2"
+  },
+  {
+    "term": "lisans",
+    "translation": "license",
+    "level": "B2"
+  },
+  {
+    "term": "izin",
+    "translation": "permit",
+    "level": "B2"
+  },
+  {
+    "term": "izin",
+    "translation": "permission",
+    "level": "B2"
+  },
+  {
+    "term": "yetkilendirme",
+    "translation": "authorization",
+    "level": "B2"
+  },
+  {
+    "term": "onay",
+    "translation": "approval",
+    "level": "B2"
+  },
+  {
+    "term": "ret",
+    "translation": "rejection",
+    "level": "B2"
+  },
+  {
+    "term": "kabul",
+    "translation": "acceptance",
+    "level": "B2"
+  },
+  {
+    "term": "inkâr",
+    "translation": "denial",
+    "level": "B2"
+  },
+  {
+    "term": "itiraz",
+    "translation": "appeal",
+    "level": "B2"
+  },
+  {
+    "term": "şikayet",
+    "translation": "complaint",
+    "level": "B2"
+  },
+  {
+    "term": "geri bildirim",
+    "translation": "feedback",
+    "level": "B2"
+  },
+  {
+    "term": "yorum",
+    "translation": "comment",
+    "level": "B2"
+  },
+  {
+    "term": "inceleme",
+    "translation": "review (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "puanlama",
+    "translation": "rating",
+    "level": "B2"
+  },
+  {
+    "term": "anket",
+    "translation": "survey",
+    "level": "B2"
+  },
+  {
+    "term": "anket",
+    "translation": "poll",
+    "level": "B2"
+  },
+  {
+    "term": "istatistik",
+    "translation": "statistic",
+    "level": "B2"
+  },
+  {
+    "term": "veri",
+    "translation": "data (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "kanıt",
+    "translation": "evidence",
+    "level": "B2"
+  },
+  {
+    "term": "kanıt",
+    "translation": "proof",
+    "level": "B2"
+  },
+  {
+    "term": "örnek",
+    "translation": "sample",
+    "level": "B2"
+  },
+  {
+    "term": "test",
+    "translation": "test (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "deneme",
+    "translation": "trial",
+    "level": "B2"
+  },
+  {
+    "term": "deney",
+    "translation": "experiment (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "gözlem",
+    "translation": "observation",
+    "level": "B2"
+  },
+  {
+    "term": "analiz",
+    "translation": "analysis",
+    "level": "B2"
+  },
+  {
+    "term": "sonuç",
+    "translation": "conclusion",
+    "level": "B2"
+  },
+  {
+    "term": "özet",
+    "translation": "summary",
+    "level": "B2"
+  },
+  {
+    "term": "taslak",
+    "translation": "outline",
+    "level": "B2"
+  },
+  {
+    "term": "taslak",
+    "translation": "draft",
+    "level": "B2"
+  },
+  {
+    "term": "sürüm",
+    "translation": "version",
+    "level": "B2"
+  },
+  {
+    "term": "baskı",
+    "translation": "edition",
+    "level": "B2"
+  },
+  {
+    "term": "kopya",
+    "translation": "copy",
+    "level": "B2"
+  },
+  {
+    "term": "orijinal",
+    "translation": "original (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "kopya",
+    "translation": "duplicate",
+    "level": "B2"
+  },
+  {
+    "term": "şablon",
+    "translation": "template",
+    "level": "B2"
+  },
+  {
+    "term": "desen",
+    "translation": "pattern",
+    "level": "B2"
+  },
+  {
+    "term": "tasarım",
+    "translation": "design (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "yapı",
+    "translation": "structure",
+    "level": "B2"
+  },
+  {
+    "term": "çerçeve",
+    "translation": "framework",
+    "level": "B2"
+  },
+  {
+    "term": "temel",
+    "translation": "foundation",
+    "level": "B2"
+  },
+  {
+    "term": "temel",
+    "translation": "base (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "çekirdek",
+    "translation": "core",
+    "level": "B2"
+  },
+  {
+    "term": "yüzey",
+    "translation": "surface",
+    "level": "B2"
+  },
+  {
+    "term": "kenar",
+    "translation": "edge",
+    "level": "B2"
+  },
+  {
+    "term": "köşe",
+    "translation": "corner",
+    "level": "B2"
+  },
+  {
+    "term": "merkez",
+    "translation": "center",
+    "level": "B2"
+  },
+  {
+    "term": "orta",
+    "translation": "middle",
+    "level": "B2"
+  },
+  {
+    "term": "üst",
+    "translation": "top",
+    "level": "B2"
+  },
+  {
+    "term": "alt",
+    "translation": "bottom",
+    "level": "B2"
+  },
+  {
+    "term": "yan",
+    "translation": "side",
+    "level": "B2"
+  },
+  {
+    "term": "ön",
+    "translation": "front",
+    "level": "B2"
+  },
+  {
+    "term": "son",
+    "translation": "end (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "başlangıç",
+    "translation": "beginning",
+    "level": "B2"
+  },
+  {
+    "term": "köken",
+    "translation": "origin",
+    "level": "B2"
+  },
+  {
+    "term": "kaynak",
+    "translation": "source",
+    "level": "B2"
+  },
+  {
+    "term": "sebep",
+    "translation": "cause (source)",
+    "level": "B2"
+  },
+  {
+    "term": "kök",
+    "translation": "root (source)",
+    "level": "B2"
+  },
+  {
+    "term": "temel",
+    "translation": "basis",
+    "level": "B2"
+  },
+  {
+    "term": "sabah rutini",
+    "translation": "morning (routine)",
+    "level": "B2"
+  },
+  {
+    "term": "rutin",
+    "translation": "routine",
+    "level": "B2"
+  },
+  {
+    "term": "program",
+    "translation": "schedule",
+    "level": "B2"
+  },
+  {
+    "term": "takvim",
+    "translation": "calendar",
+    "level": "B2"
+  },
+  {
+    "term": "son teslim tarihi",
+    "translation": "deadline",
+    "level": "B2"
+  },
+  {
+    "term": "randevu",
+    "translation": "appointment (meeting)",
+    "level": "B2"
+  },
+  {
+    "term": "etkinlik",
+    "translation": "event",
+    "level": "B2"
+  },
+  {
+    "term": "özel gün",
+    "translation": "occasion",
+    "level": "B2"
+  },
+  {
+    "term": "tören",
+    "translation": "ceremony",
+    "level": "B2"
+  },
+  {
+    "term": "festival",
+    "translation": "festival",
+    "level": "B2"
+  },
+  {
+    "term": "bayram",
+    "translation": "holiday (celebration)",
+    "level": "B2"
+  },
+  {
+    "term": "yıl dönümü",
+    "translation": "anniversary",
+    "level": "B2"
+  },
+  {
+    "term": "doğum günü",
+    "translation": "birthday",
+    "level": "B2"
+  },
+  {
+    "term": "kutlama",
+    "translation": "celebration (party)",
+    "level": "B2"
+  },
+  {
+    "term": "davetiye",
+    "translation": "invitation",
+    "level": "B2"
+  },
+  {
+    "term": "misafir",
+    "translation": "guest (visitor)",
+    "level": "B2"
+  },
+  {
+    "term": "ev sahibi",
+    "translation": "host (person)",
+    "level": "B2"
+  },
+  {
+    "term": "kalabalık",
+    "translation": "crowd (people)",
+    "level": "B2"
+  },
+  {
+    "term": "seyirci",
+    "translation": "audience (viewers)",
+    "level": "B2"
+  },
+  {
+    "term": "performans",
+    "translation": "performance",
+    "level": "B2"
+  },
+  {
+    "term": "prova",
+    "translation": "rehearsal",
+    "level": "B2"
+  },
+  {
+    "term": "seçme sınavı",
+    "translation": "audition",
+    "level": "B2"
+  },
+  {
+    "term": "senaryo",
+    "translation": "script",
+    "level": "B2"
+  },
+  {
+    "term": "karakter",
+    "translation": "character (fiction)",
+    "level": "B2"
+  },
+  {
+    "term": "olay örgüsü",
+    "translation": "plot",
+    "level": "B2"
+  },
+  {
+    "term": "sahne",
+    "translation": "scene",
+    "level": "B2"
+  },
+  {
+    "term": "bölüm (kitap)",
+    "translation": "chapter",
+    "level": "B2"
+  },
+  {
+    "term": "sayfa",
+    "translation": "page",
+    "level": "B2"
+  },
+  {
+    "term": "başlık",
+    "translation": "title (book)",
+    "level": "B2"
+  },
+  {
+    "term": "yazar",
+    "translation": "author",
+    "level": "B2"
+  },
+  {
+    "term": "yayıncı",
+    "translation": "publisher",
+    "level": "B2"
+  },
+  {
+    "term": "baskı",
+    "translation": "edition (book)",
+    "level": "B2"
+  },
+  {
+    "term": "kütüphane",
+    "translation": "library (place)",
+    "level": "B2"
+  },
+  {
+    "term": "kitapçı",
+    "translation": "bookstore",
+    "level": "B2"
+  },
+  {
+    "term": "raf",
+    "translation": "shelf (storage)",
+    "level": "B2"
+  },
+  {
+    "term": "koleksiyon",
+    "translation": "collection",
+    "level": "B2"
+  },
+  {
+    "term": "sergi",
+    "translation": "exhibit",
+    "level": "B2"
+  },
+  {
+    "term": "galeri",
+    "translation": "gallery",
+    "level": "B2"
+  },
+  {
+    "term": "sergileme",
+    "translation": "display",
+    "level": "B2"
+  },
+  {
+    "term": "reklam",
+    "translation": "advertisement (ad)",
+    "level": "B2"
+  },
+  {
+    "term": "marka",
+    "translation": "brand",
+    "level": "B2"
+  },
+  {
+    "term": "logo",
+    "translation": "logo",
+    "level": "B2"
+  },
+  {
+    "term": "etiket",
+    "translation": "label",
+    "level": "B2"
+  },
+  {
+    "term": "ambalaj",
+    "translation": "package (product)",
+    "level": "B2"
+  },
+  {
+    "term": "kap",
+    "translation": "container",
+    "level": "B2"
+  },
+  {
+    "term": "şişe",
+    "translation": "bottle",
+    "level": "B2"
+  },
+  {
+    "term": "kavanoz",
+    "translation": "jar",
+    "level": "B2"
+  },
+  {
+    "term": "teneke kutu",
+    "translation": "can",
+    "level": "B2"
+  },
+  {
+    "term": "tüp",
+    "translation": "tube",
+    "level": "B2"
+  },
+  {
+    "term": "torba",
+    "translation": "bag (container)",
+    "level": "B2"
+  },
+  {
+    "term": "çuval",
+    "translation": "sack",
+    "level": "B2"
+  },
+  {
+    "term": "varil",
+    "translation": "barrel",
+    "level": "B2"
+  },
+  {
+    "term": "tank",
+    "translation": "tank",
+    "level": "B2"
+  },
+  {
+    "term": "boru",
+    "translation": "pipe",
+    "level": "B2"
+  },
+  {
+    "term": "tel",
+    "translation": "wire",
+    "level": "B2"
+  },
+  {
+    "term": "kablo",
+    "translation": "cable",
+    "level": "B2"
+  },
+  {
+    "term": "kordon",
+    "translation": "cord",
+    "level": "B2"
+  },
+  {
+    "term": "anahtar (elektrik)",
+    "translation": "switch (device)",
+    "level": "B2"
+  },
+  {
+    "term": "düğme",
+    "translation": "button (device)",
+    "level": "B2"
+  },
+  {
+    "term": "kapak",
+    "translation": "lid",
+    "level": "B2"
+  },
+  {
+    "term": "kapak",
+    "translation": "cap",
+    "level": "B2"
+  },
+  {
+    "term": "kapak",
+    "translation": "cover (lid)",
+    "level": "B2"
+  },
+  {
+    "term": "çerçeve",
+    "translation": "frame",
+    "level": "B2"
+  },
+  {
+    "term": "tahta",
+    "translation": "board (wood)",
+    "level": "B2"
+  },
+  {
+    "term": "tuğla",
+    "translation": "brick",
+    "level": "B2"
+  },
+  {
+    "term": "çimento",
+    "translation": "cement",
+    "level": "B2"
+  },
+  {
+    "term": "çivi",
+    "translation": "nail (hardware)",
+    "level": "B2"
+  },
+  {
+    "term": "vida",
+    "translation": "screw",
+    "level": "B2"
+  },
+  {
+    "term": "çekiç",
+    "translation": "hammer",
+    "level": "B2"
+  },
+  {
+    "term": "testere",
+    "translation": "saw",
+    "level": "B2"
+  },
+  {
+    "term": "matkap",
+    "translation": "drill",
+    "level": "B2"
+  },
+  {
+    "term": "merdiven (taşınabilir)",
+    "translation": "ladder",
+    "level": "B2"
+  },
+  {
+    "term": "halat",
+    "translation": "rope",
+    "level": "B2"
+  },
+  {
+    "term": "zincir",
+    "translation": "chain",
+    "level": "B2"
+  },
+  {
+    "term": "ip",
+    "translation": "string",
+    "level": "B2"
+  },
+  {
+    "term": "iplik",
+    "translation": "thread",
+    "level": "B2"
+  },
+  {
+    "term": "iğne",
+    "translation": "needle",
+    "level": "B2"
+  },
+  {
+    "term": "makas",
+    "translation": "scissors",
+    "level": "B2"
+  },
+  {
+    "term": "bıçak",
+    "translation": "knife (tool)",
+    "level": "B2"
+  },
+  {
+    "term": "bıçak ağzı",
+    "translation": "blade",
+    "level": "B2"
+  },
+  {
+    "term": "bant",
+    "translation": "tape",
+    "level": "B2"
+  },
+  {
+    "term": "yapıştırıcı",
+    "translation": "glue",
+    "level": "B2"
+  },
+  {
+    "term": "boya",
+    "translation": "paint (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "fırça",
+    "translation": "brush (paint)",
+    "level": "B2"
+  },
+  {
+    "term": "tuval",
+    "translation": "canvas",
+    "level": "B2"
+  },
+  {
+    "term": "taslak",
+    "translation": "sketch",
+    "level": "B2"
+  },
+  {
+    "term": "sembol",
+    "translation": "symbol",
+    "level": "B2"
+  },
+  {
+    "term": "işaret",
+    "translation": "sign (symbol)",
+    "level": "B2"
+  },
+  {
+    "term": "işaret",
+    "translation": "signal (sign)",
+    "level": "B2"
+  },
+  {
+    "term": "iz",
+    "translation": "mark (noun)",
+    "level": "B2"
+  },
+  {
+    "term": "pul",
+    "translation": "stamp",
+    "level": "B2"
+  },
+  {
+    "term": "mühür",
+    "translation": "seal",
+    "level": "B2"
+  },
+  {
+    "term": "rozet",
+    "translation": "badge",
+    "level": "B2"
+  },
+  {
+    "term": "madalya",
+    "translation": "medal",
+    "level": "B2"
+  },
+  {
+    "term": "kupa",
+    "translation": "trophy",
+    "level": "B2"
+  },
+  {
+    "term": "bayrak",
+    "translation": "flag",
+    "level": "B2"
+  },
+  {
+    "term": "üniforma",
+    "translation": "uniform",
+    "level": "B2"
+  },
+  {
+    "term": "kostüm",
+    "translation": "costume",
+    "level": "B2"
+  },
+  {
+    "term": "maske",
+    "translation": "mask",
+    "level": "B2"
+  },
+  {
+    "term": "kask",
+    "translation": "helmet",
+    "level": "B2"
+  },
+  {
+    "term": "zırh",
+    "translation": "armor",
+    "level": "B2"
+  },
+  {
+    "term": "silah",
+    "translation": "weapon",
+    "level": "B2"
+  },
+  {
+    "term": "kılıç",
+    "translation": "sword",
+    "level": "B2"
+  },
+  {
+    "term": "silah",
+    "translation": "gun",
+    "level": "B2"
+  },
+  {
+    "term": "bomba",
+    "translation": "bomb",
+    "level": "B2"
+  },
+  {
+    "term": "mermi",
+    "translation": "bullet",
+    "level": "B2"
+  },
+  {
+    "term": "kalkan",
+    "translation": "shield",
+    "level": "B2"
+  },
+  {
+    "term": "ordu",
+    "translation": "army",
+    "level": "B2"
+  },
+  {
+    "term": "deniz kuvvetleri",
+    "translation": "navy",
+    "level": "B2"
+  },
+  {
+    "term": "asker birliği",
+    "translation": "troop",
+    "level": "B2"
+  },
+  {
+    "term": "savaş",
+    "translation": "battle",
+    "level": "B2"
+  },
+  {
+    "term": "çatışma",
+    "translation": "combat",
+    "level": "B2"
+  },
+  {
+    "term": "zafer",
+    "translation": "victory (win)",
+    "level": "B2"
+  },
+  {
+    "term": "yenilgi",
+    "translation": "defeat",
+    "level": "B2"
+  },
+  {
+    "term": "teslim olma",
+    "translation": "surrender",
+    "level": "B2"
+  },
+  {
+    "term": "antlaşma",
+    "translation": "treaty",
+    "level": "B2"
+  },
+  {
+    "term": "ittifak",
+    "translation": "alliance",
+    "level": "B2"
+  },
+  {
+    "term": "düşman",
+    "translation": "enemy (foe)",
+    "level": "B2"
+  },
+  {
+    "term": "müttefik",
+    "translation": "ally",
+    "level": "B2"
+  },
+  {
+    "term": "asi",
+    "translation": "rebel",
+    "level": "B2"
+  },
+  {
+    "term": "devrim",
+    "translation": "revolution",
+    "level": "B2"
+  },
+  {
+    "term": "protesto",
+    "translation": "protest",
+    "level": "B2"
+  },
+  {
+    "term": "grev",
+    "translation": "strike (labor)",
+    "level": "B2"
+  },
+  {
+    "term": "isyan",
+    "translation": "riot",
+    "level": "B2"
+  },
+  {
+    "term": "kriz",
+    "translation": "crisis",
+    "level": "B2"
+  },
+  {
+    "term": "acil durum",
+    "translation": "emergency",
+    "level": "B2"
+  },
+  {
+    "term": "felaket",
+    "translation": "disaster",
+    "level": "B2"
+  },
+  {
+    "term": "kaza",
+    "translation": "accident",
+    "level": "B2"
+  },
+  {
+    "term": "olay",
+    "translation": "incident",
+    "level": "B2"
+  },
+  {
+    "term": "trajedi",
+    "translation": "tragedy",
+    "level": "B2"
+  },
+  {
+    "term": "mucize",
+    "translation": "miracle",
+    "level": "B2"
+  },
+  {
+    "term": "tesadüf",
+    "translation": "coincidence",
+    "level": "B2"
+  },
+  {
+    "term": "gizem",
+    "translation": "mystery",
+    "level": "B2"
+  },
+  {
+    "term": "sır",
+    "translation": "secret",
+    "level": "B2"
+  },
+  {
+    "term": "an",
+    "translation": "moment",
+    "level": "B2"
+  },
+  {
+    "term": "nazik",
+    "translation": "gentle",
+    "level": "B1",
+    "example": "Nazik bir sesi var.",
+    "exampleTranslation": "He has a gentle voice."
+  },
+  {
+    "term": "ödünç almak",
+    "translation": "borrow",
+    "level": "B1",
+    "example": "Kalemini ödünç alabilir miyim?",
+    "exampleTranslation": "Can I borrow your pen?"
+  },
+  {
+    "term": "ödünç vermek",
+    "translation": "lend",
+    "level": "B1",
+    "example": "Bana bir kitap ödünç verdi.",
+    "exampleTranslation": "He lent me a book."
+  },
+  {
+    "term": "acele etmek",
+    "translation": "hurry",
+    "level": "A2",
+    "example": "Acele et, geç kaldık.",
+    "exampleTranslation": "Hurry, we are late."
+  },
+  {
+    "term": "sessiz",
+    "translation": "quiet",
+    "level": "A2",
+    "example": "Oda sessiz.",
+    "exampleTranslation": "The room is quiet."
+  },
+  {
+    "term": "gürültülü",
+    "translation": "loud",
+    "level": "A2",
+    "example": "Müzik çok gürültülü.",
+    "exampleTranslation": "The music is too loud."
+  }
+]

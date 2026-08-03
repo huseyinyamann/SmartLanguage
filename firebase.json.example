@@ -1,0 +1,7 @@
+{
+  "_comment": "ÖRNEK DOSYA — gerçek firebase.json git'e gönderilmez, çünkü flutterfire configure onu proje ve uygulama kimlikleriyle doldurur. Kurulumda bu dosyayı firebase.json adıyla kopyala; flutterfire configure çalıştırdığında flutter bloğu kendiliğinden eklenir.",
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
