@@ -227,9 +227,7 @@ workflows:
         release_type: MANUAL          # AFTER_APPROVAL | SCHEDULED | MANUAL
         # cancel_previous_submissions: true  # bekleyen eski submission'ı iptal et
 
-      email:
-        recipients:
-          - $NOTIFY_EMAIL
-        notify:
-          success: true
-          failure: true
+      # E-posta bildirimi eklenmedi: Codemagic'in email.recipients alanı
+      # ortam değişkeni (env var) kabul etmiyor, repo public olduğu için
+      # gerçek e-posta yaml'a sabit yazılmadı. Build durumu Codemagic
+      # dashboard'undan (Builds) takip edilir.
