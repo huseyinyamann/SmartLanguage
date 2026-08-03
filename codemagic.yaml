@@ -24,8 +24,14 @@ workflows:
     instance_type: mac_mini_m2
     max_build_duration: 60
 
+    # Not: "levo_appstore_key" ismi Codemagic hesabındaki paylaşılan
+    # App Store Connect Admin key'i (aynı Apple Developer ekibi/hesabı) —
+    # Prekta için ayrı bir key eklenemedi çünkü Codemagic aynı Key ID'yi
+    # (N4W2B3XYRK) iki farklı isimle kabul etmiyor. Fonksiyonel olarak
+    # sorun yok: aynı hesap, Admin yetkili, Prekta'nın bundle ID'sine de
+    # erişimi var.
     integrations:
-      app_store_connect: prekta_appstore_key
+      app_store_connect: levo_appstore_key
 
     environment:
       flutter: stable
